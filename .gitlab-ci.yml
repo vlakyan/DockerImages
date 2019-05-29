@@ -49,3 +49,6 @@ php7.2-base:
 
 hldsrun-base:
     <<: *build_by_name
+
+steamcmd-linux:
+    <<: *build_by_name
