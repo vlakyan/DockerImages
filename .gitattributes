@@ -1,0 +1,2 @@
+srcdsrun-base/data/** filter=lfs diff=lfs merge=lfs -text
+srcdsrun-cssold/data/** filter=lfs diff=lfs merge=lfs -text
