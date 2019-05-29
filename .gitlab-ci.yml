@@ -1,0 +1,52 @@
+image: docker:stable
+services:
+    - docker:dind
+
+stages:
+    - build
+    - test
+
+variables:
+    DOCKER_HOST: tcp://docker:2375
+    DOCKER_DRIVER: overlay2
+
+before_script:
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+
+.build_image_by_name: &build_by_name
+    stage: build
+    script:
+        - cd $CI_JOB_NAME
+        - docker build --no-cache -t $CI_PROJECT_NAMESPACE/$CI_JOB_NAME .
+        - docker tag $CI_PROJECT_NAMESPACE/$CI_JOB_NAME $CI_PROJECT_NAMESPACE/$CI_JOB_NAME:$CI_COMMIT_REF_SLUG
+        - docker push $CI_PROJECT_NAMESPACE/$CI_JOB_NAME
+    only:
+        - master
+        - develop
+    tags:
+        - docker
+    when: manual
+
+.test_build: &test_build_by_name
+    stage: test
+    script:
+        - echo "${CI_JOB_NAME}" | grep -Eq "^.*-test$" && cd "${CI_JOB_NAME:0:$((${#CI_JOB_NAME}-5))}" || cd $CI_JOB_NAME
+        - docker build --no-cache -t $CI_PROJECT_NAMESPACE/$CI_JOB_NAME .
+    when: manual
+
+fastdl-nginx-test:
+    <<: *test_build_by_name
+fastdl-nginx:
+    <<: *build_by_name
+
+srcdsrun-cssold:
+    <<: *build_by_name
+
+srcdsrun-base:
+    <<: *build_by_name
+
+php7.2-base:
+    <<: *build_by_name
+
+hldsrun-base:
+    <<: *build_by_name

@@ -1,13 +1,8 @@
-FROM sovich/srcdsrun-base:latest
+FROM registry.gitlab.com/cw-serv.ru/dockerimages/srcdsrun-base:latest
 
-ENV SERVER /server
-ENV CACHE_DIR /path/servers/cssold/default/
+COPY data /
 
-RUN mkdir -p $CACHE_DIR \
-    && cd $CACHE_DIR \
-    && curl -s http://shara.cw-serv.ru/servers/cssold/default.tar.gz | tar xzv hl2/ platform/
-
-WORKDIR $SERVER
+WORKDIR /srv
 
 ENTRYPOINT ["./srcds_run"]
 CMD ["-game", "cstrike", "-nomaster", "-localcser", "+map", "de_dust2", "+maxplayers", "10", "-port", "27015", "-ip", "0.0.0.0"]
