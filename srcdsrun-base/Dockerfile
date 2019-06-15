@@ -1,7 +1,7 @@
 FROM i386/debian:8
 
 RUN apt-get -qq update \
-    && apt-get -y install --no-install-recommends gdb curl \
+    && apt-get -y install --no-install-recommends gdb curl ca-certificates \
     && apt-get -y clean \
     && rm -rf /var/lib/apt/lists/*
 
