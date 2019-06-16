@@ -1,14 +1,15 @@
-FROM ubuntu:19.04
+FROM i386/ubuntu:19.04
+
+ENV DEBIAN_FRONTEND noninteractive
 
 RUN apt update \
-    && apt install lib32gcc1 curl -y \
-    && mkdir steamcmd && cd steamcmd \
-    && curl https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz | tar -xzvf - \
-    && ./steamcmd.sh +quit \
-    && ln -s /steamcmd/steamcmd.sh /steamcmd/steam.sh && ln -s /steamcmd/linux32/steamcmd /steamcmd/linux32/steam
+    && echo steam steam/question select "I AGREE" | debconf-set-selections \
+    && echo steam steam/license note '' | debconf-set-selections \
+    && apt install steamcmd ca-certificates -y \
+    && ln -s /usr/games/steamcmd /usr/bin/steamcmd
 
-WORKDIR /steamcmd
+WORKDIR /srv
 
-ENTRYPOINT ["./steamcmd.sh"]
+ENTRYPOINT ["steamcmd"]
 
 CMD ["+login anonymous", "+force_install_dir /srv"]
