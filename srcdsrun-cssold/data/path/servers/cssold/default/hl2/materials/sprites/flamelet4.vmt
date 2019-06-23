@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "sprites/flamelet4"
-	"$additive" 1
-	"$vertexcolor" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1af9edd931d72abbd63d7cb08e88f9b8479a2e2a2a0c3a0fb098842f3b771b78
+size 94

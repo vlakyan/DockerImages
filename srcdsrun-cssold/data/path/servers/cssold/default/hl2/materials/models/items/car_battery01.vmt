@@ -1,21 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/Items/car_battery01"
-	"$surfaceprop" "plastic"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .01 .01 .01 ]"
-	//"$envmapmask" "Models/Items/Healthkit01_mask"
-	//"$selfillum" 1
-
-	//"$basetexture" "models/props_combine/combine_barricade_tall03b"
-	//"$surfaceprop" "metal"
-	"$bumpmap" "Models/Items/car_battery01_normal"
-	//"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	//"$envmaptint" "[ .56 .67 .75 ]"
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:61f216b60609c92cf80d7b54645b46b2d9f39563b37d7c2c63aa084ac083aa41
+size 539

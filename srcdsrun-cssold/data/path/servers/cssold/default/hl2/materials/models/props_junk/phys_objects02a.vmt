@@ -1,11 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_junk/phys_objects02a"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1382d812e6b9d51d0e054d1487e686baa848d9e225ffad6b767d9957a40b3c5b
+size 202

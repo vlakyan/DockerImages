@@ -1,9 +1,3 @@
-
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_combine/combine_cell001"
-	"$surfaceprop" "metal"
-	"$translucent" 1
-	"$nocull" 1
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:17798c383d7f32153106ee04bf050d8da53004b7080ec79821ea1ad8bdd6b788
+size 145

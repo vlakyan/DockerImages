@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Concrete/concretewall065b"
-	"$surfaceprop" "concrete"
-	"%keywords" "airexchange"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:73d8ca07ce2e8f346d372e773df59a6a2ebc8d354dfcc322044a5a558c69e1a4
+size 129

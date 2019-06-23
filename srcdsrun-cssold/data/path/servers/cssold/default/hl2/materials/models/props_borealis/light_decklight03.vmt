@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/props_borealis/light_decklight"
-	"$surfaceprop" "metal"
-	"$selfillum" 1
-	"$nocull" 1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2acf5938b8eb522e041837c3c3dce83d7d62210be99e1158e73808eb1b4521ee
+size 141

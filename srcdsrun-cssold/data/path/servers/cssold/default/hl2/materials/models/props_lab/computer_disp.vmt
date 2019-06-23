@@ -1,6 +1,3 @@
-"UnLitGeneric"
-{
-	"$basetexture" "models/props_lab/computer_disp"
-//	"$selfillum" "1"
-	"$model" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e571003a2064501c8a5a23d1701ce9249c2328b26ba8c4154d21a548b43fc5bd
+size 108

@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Glass/glasswindow010b"
-	"$surfaceprop" "glass"
-	"%keywords" "c17skyscraper"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cec91454dbc2f78d0837a46638c85b32ac700d970f8ca4764ca39273e1408fc0
+size 177

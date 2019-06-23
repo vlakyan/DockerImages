@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metaldoor029a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17downtown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e48793422e2447dafe031bb095ca9b52e42ba736e68e295c26cd88c0c68b2fd8
+size 120

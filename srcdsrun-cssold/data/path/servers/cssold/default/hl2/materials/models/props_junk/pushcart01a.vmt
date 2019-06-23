@@ -1,8 +1,3 @@
-
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_junk/PushCart01a"
-	"$surfaceprop" "metal"
-	
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:30475576c3afbd70a1d44912ecfed01cc3fbd5095e079544ac6efbf99966d6b0
+size 107

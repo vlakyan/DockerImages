@@ -1,10 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "hud/800corner3"
-	"$translucent" "1"
-	"$vertexcolor" "1"
-	"$vertexalpha" "1"
-	"$ignorez"     "1"
-	"$additive"		1
-	"$no_fullbright"	1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:33fb1571e76d9d06aef45b9699f21e5381485b11cd6cb1f0646785e970c75df1
+size 178

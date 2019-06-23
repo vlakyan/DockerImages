@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Building_Template/Building_Template010a"
-	"$surfaceprop" "concrete"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:579322a05c77b2dce876feba9578fd5e91127dd70e1d4c371c3f328fd67c2932
+size 113

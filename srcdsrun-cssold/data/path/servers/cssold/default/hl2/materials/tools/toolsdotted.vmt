@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$translucent" "1"
-	"$basetexture" "Tools/toolsdotted"
-	"$vertexalpha" "1"
-	"$no_fullbright" "1"
-	"$ignorez" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7814327676732bfa0f7ac9d6c0a45806659ae601a2e81281f8c2df8c418bdcfb
+size 141

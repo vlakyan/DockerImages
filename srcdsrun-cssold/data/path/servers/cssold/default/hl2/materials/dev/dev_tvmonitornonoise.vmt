@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "_rt_Camera"
-	"%tooltexture" "dev/dev_monitor"
-	"$surfaceprop" "glass"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b6c18eb9b645c39128abd76ae4f8b91defe3a2d34d8647b6e3e23a188839a1
+size 112

@@ -1,35 +1,3 @@
-"Refract"
-{
- 	"$model" 1
- 	"$refractamount" ".2"
-// 	"$bluramount" "1"
-	"$REFRACTTINT" "{250 250 250}"
-	"$scale" "[1 1]"
- 	"$dudvmap" "models/shadertest/shieldnoise0_dudv"
- 	"$normalmap" "models/shadertest/shieldnoise0_normal"
- 	"$surfaceprop" "water"
-	"$bumpframe" "0"
-	"$nocull" 1
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[.4 .35 .3]"
-
-	"$REFRACTTINTTEXTURE" "models/shadertest/shieldtint0"
-
-
-
-	"Proxies"
-	{
-		"AnimatedTexture"
-		{
-			"animatedtexturevar" "$REFRACTTINTTEXTURE"
-			"animatedtextureframenumvar" "$REFRACTTINTTEXTUREFRAME"
-			"animatedtextureframerate" 29.00
-		}
-		"AnimatedTexture"
-		{
-			"animatedtexturevar" "$normalmap" 
-			"animatedtextureframenumvar" "$bumpframe"
-			"animatedtextureframerate" 29.00
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4d56666589a98af71fd70ee12a9fafc7946bc1d3d3d10038e218294e1fe45f3
+size 766

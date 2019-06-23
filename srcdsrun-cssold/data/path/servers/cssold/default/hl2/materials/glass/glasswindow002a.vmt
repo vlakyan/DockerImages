@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Glass/glasswindow002a"
-	"$surfaceprop" "glass"
-	"%keywords" "kraken"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:12ddd8eff676e207411ae9f1958aa31d63f15caa57b4e874bec66057e30c0d76
+size 117

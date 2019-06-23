@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "sprites/w_icons3b"
-	"$additive" "1"
-	"$vertexcolor" "1"
-	"$vertexalpha" "1"
-	"$ignorez"     "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7da7795a0d4ed2148a362499ad5bf2d9af9897ce4ba77fd66efde4ec0b15f0d
+size 138

@@ -1,10 +1,3 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "nature/toxicslime001a"	
-	"$basetexture2" "nature/toxicslime003a"
-	"%tooltexture" "nature/blendtoxictoxic002a_tooltexture"
-	"$surfaceprop" "dirt"
-	"$surfaceprop2" "dirt"
-	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
-        "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:68e06fd3804ed8ed60b1310ed069af50bde700da2f0ec8965ea8fb7a3b63c5f5
+size 378

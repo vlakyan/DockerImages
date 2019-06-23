@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	//"$translucent" 1
-"$alphatest" 1
-	"$basetexture" "models/Crow/Crow01"
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7eddcaba262d3d211e6999cb1a7be533bec7523f27be3fc128842b1f0fe2e97
+size 153

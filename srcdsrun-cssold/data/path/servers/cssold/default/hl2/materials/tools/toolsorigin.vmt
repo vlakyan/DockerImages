@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Tools/toolsorigin"
-	"%compileorigin" 1
-	"%keywords" "airexchange,borealis,c17downtown,c17industrial,c17sewers,c17skyscraper,c17trainstation,combine,kraken,wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:53349b2d3fe77f84f221718411e8ca9d246058ac65a0decd6a223f5db09e46dd
+size 254

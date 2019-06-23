@@ -1,6 +1,3 @@
-"vertexlitGeneric"
-{
-	"$basetexture" "nature/rockwall010e"
-	"$model" 1
-	"$surfaceprop" "boulder"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1219611293ae0dad6437dc15bf2fc192170301320c0796aa6b933b1e40f0a6a
+size 105

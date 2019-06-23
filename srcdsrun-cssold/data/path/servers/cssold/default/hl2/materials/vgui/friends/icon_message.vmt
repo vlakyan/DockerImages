@@ -1,9 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" 		"vgui\friends\icon_message"
-	"$translucent" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" 1
-	"$no_fullbright" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:82ecae3c4c6f8c460e4f6448c178e6974d34592c89bdb195d7860e39089eb7b7
+size 162

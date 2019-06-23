@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/overhangCluster01a"
-	"$surfaceprop" "metal"
-//        "$envmap" "env_cubemap"	
-//	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:522bce1ea4f038ae335411da4afdc8a5c011a4a28a7abbc412297ba82a7193e9
+size 171

@@ -1,13 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesVertexColorAlphaBlendNoOverbright
-// Uncomment this if you add an alpha channel to the base texture
-	"$translucent" 1
-	// Original shader: BaseTexture
-	"$basetexture" "vgui\resource\icon_hlicon1"
-
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" 1
-	"$no_fullbright" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9eb10f2140abb32e5bec7c11fd5690e375862d62842a6aff020375da11a1bd6
+size 331

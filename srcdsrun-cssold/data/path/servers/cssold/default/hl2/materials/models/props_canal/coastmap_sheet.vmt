@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_canal/coastmap_sheet"
-	"$surfaceprop" "wood"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d00bd051433e5a6f1f6d393a241515c2e51b0f96326fe1a4f3299db3e0b676c
+size 103

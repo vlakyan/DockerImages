@@ -1,10 +1,3 @@
-"UnlitGeneric"
-{
-	"$baseTexture" "vgui/hud/autoaim"
-	"$translucent" 1
-	"$alpha" 1
-	"$vertexalpha" "1"
-	"$ignorez"     "1"
-	"$no_fullbright" "1"	
-	"$vertextcolor" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f06b17108a557c0092c3ff06129920044d7197db5ab52a4f87645a72792af58f
+size 178

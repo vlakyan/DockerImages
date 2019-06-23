@@ -1,13 +1,3 @@
-"Modulate"
-{
-	"$baseTexture" "Models/Effects/splode1_sheet"
-	"$nocull" "1"
-	"$mod2x" "1"	
-//	"$additive" "1"
-//	"$translucent" "1"
-	"$model" "1"
-	
-
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:997909dde0447af193ae007f0876ca9163bb4d38426b00e4b7cc6bba5b58f6e3
+size 165

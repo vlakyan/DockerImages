@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/props_lab/rotato_sheet"
-	"$selfillum" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:edc7c8422b9135a477fe5d50194835242ffdaba4a143c791d67fd0554f07961c
+size 94

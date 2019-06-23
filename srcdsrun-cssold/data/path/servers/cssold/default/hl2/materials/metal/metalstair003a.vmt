@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalstair003a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17downtown"
-	"$bumpmap" "Metal/metalstair003a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c89dd12154fb6121408724d04b74e86ec8be95893553990c27757234062ad74a
+size 164

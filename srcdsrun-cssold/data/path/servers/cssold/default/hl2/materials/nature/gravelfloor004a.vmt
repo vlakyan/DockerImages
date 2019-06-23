@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/gravelfloor004a"
-	"$surfaceprop" "dirt"
-	"$bumpmap" "Nature/gravelfloor004a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9720df5840961b2cfd5206de1ea975a89fd275d0e70ef47c314ddb7bb08a2d0d
+size 139

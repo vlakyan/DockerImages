@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Editor/scripted_sequence"
-	"$translucent" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8330d0ad4e2b1d2458df4ad3ffcf6338fff3ac0415fd0b6e7516fa7a7c59d491
+size 98

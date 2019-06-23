@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Police/metrocop_sheet"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-//	"$envmap" "models/Police/envmap"
-//	"$envmapsphere" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aea3a4039f021a128fab98898d463d6c9e409b8f306076ea920c5d09150354f
+size 186

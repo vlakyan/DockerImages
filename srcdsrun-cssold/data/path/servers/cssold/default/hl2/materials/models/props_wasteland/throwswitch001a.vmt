@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_wasteland/throwswitch001a"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc0b6bd30cd2431e521cbfa558578a05529a684c90eaed9cec30729c0bc15b4a
+size 201

@@ -1,12 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Vehicle/metaltrain001a"
-	"$surfaceprop" "metal"
-	"$bumpmap" "Vehicle/metaltrain001a_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .86 .86 .86 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:97819310e34f50b607afcba5dc4c906904711c510826118fe4eab248e639b820
+size 297

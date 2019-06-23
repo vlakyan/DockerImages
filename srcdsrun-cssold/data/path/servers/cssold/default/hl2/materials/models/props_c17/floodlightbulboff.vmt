@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_c17/floodlightbulboff"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0504a310d1747c48139d6bb2a4d67724aec22adac3d13e752886575412c91a32
+size 144

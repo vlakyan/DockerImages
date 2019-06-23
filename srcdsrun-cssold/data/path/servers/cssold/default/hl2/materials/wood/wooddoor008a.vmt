@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Wood/wooddoor008a"
-	"$surfaceprop" "wood"
-	"%keywords" "c17trainstation"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7d9856c2ae036dbbdfba577a9307fbc57ea304689211efb4849a82cabf016b7
+size 121

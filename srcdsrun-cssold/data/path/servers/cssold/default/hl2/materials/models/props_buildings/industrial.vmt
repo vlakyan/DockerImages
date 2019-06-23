@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$color"				"[1 1 1]"
-	"$baseTexture"			"models/props_buildings/industrial"
-	"$selfIllum"			0
-	//"$translucent"			1
-	"$alphatest"			1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad42a8ea0b08e50c73cd6d25b426b4248180549861e7f4098671c3c05b3140ad
+size 166

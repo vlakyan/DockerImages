@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Synth/ammo"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:30d7160d92ad34a449fa18cbfb25de3f188b570d3d520d6ed61721677f65a243
+size 102

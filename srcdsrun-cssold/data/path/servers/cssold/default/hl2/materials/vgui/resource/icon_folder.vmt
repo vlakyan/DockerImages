@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" 		"vgui\resource\icon_folder"
-	"$ignorez"		1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:304a2a79879a375676608809acbd6a90dc4275e52ee956259796763168e27e1d
+size 87

@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/items/ammocrate_items"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8dd8631d6d594cadc9b72cf8baf514f519f2b0a2bd944d9be3a132de53e798e
+size 113

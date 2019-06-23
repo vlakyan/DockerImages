@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_trainstation/trainstation_clock001"
-	"$surfaceprop" "metal"
-	//"$selfillum" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6f36237abef9c7eadb922de745156b6e2b2e3e2e5732ec1f6cea0e7de11ecfd
+size 137

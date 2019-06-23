@@ -1,9 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_junk/garbage003a_01"
-	"$surfaceprop" "cardboard"
-	"$nodecal" 1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5fbfb7611e7b461cfaa10d0cc899a08ac11edfa21f8a24154b064ca4cd1da85
+size 165

@@ -1,9 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" 		"vgui\friends\icon_blocked"
-	"$translucent" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" 1
-	"$no_fullbright" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddcc1a9d9c4870375d3d3253cd690edef897afb493f08b8e3cbddf88be01f8fd
+size 162

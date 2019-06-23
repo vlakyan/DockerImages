@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$translucent" 1
-	"$basetexture" "Metal/metalgate006a"
-	"%compilepassbullets" 1
-	"$surfaceprop" "metal"
-	"%keywords" "c17skyscraper"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:68562bdf638f2c9fc44f229ee7447429d8d393fb667c77d396271860175b5a31
+size 167

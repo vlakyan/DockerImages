@@ -1,15 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: basetexture
-	"$basetexture" "shadertest/UnlitAdditiveGeneric"
-
-	"Proxies"
-	{
-		"TextureScroll"
-		{
-			"texturescrollvar" "$baseTextureTransform"
-			"texturescrollrate" 1.00
-			"texturescrollangle" 45.00
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ca0fcdf0d6e6cdf62d5dcfe28eb54275451b17457dfa575f9032d9eab635d40
+size 265

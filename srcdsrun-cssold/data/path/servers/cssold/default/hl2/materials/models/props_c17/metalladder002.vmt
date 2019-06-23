@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/metalladder002"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6971b1d597dcad05e782fea50581c268b32a629a7fedbc390cda82623642a001
+size 102

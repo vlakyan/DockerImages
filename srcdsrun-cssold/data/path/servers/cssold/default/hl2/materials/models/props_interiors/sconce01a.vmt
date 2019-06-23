@@ -1,13 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_interiors/Sconce01a"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "Models/props_interiors/Sconce01a_mask"
-	//"$envmaptint" "[ .7 .7 .7]"
-	"$envmapcontrast" "1"
-	"$envmapsaturation" "[.5 .5 .5]"
-	"$surfaceprop" "glass"	
-	
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c1a5c44ac7afa2b33704604873ce70818d1e5c6759ad1f150f78b1bf494cdd
+size 284

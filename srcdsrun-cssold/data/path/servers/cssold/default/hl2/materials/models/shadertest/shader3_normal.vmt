@@ -1,4 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/ShaderTest/shader3_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:eebfe5bb5db66d7f5aa1628e8a303e16a4c4e194e57f7519c95d052e076e3a77
+size 78

@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTexture
-	"$basetexture" "vgui\mouse"
-	"$no_fullbright" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:60098c1f1ec60d0322b4c06a5ca84a39bc786847a156a43754833a5f12f83259
+size 109

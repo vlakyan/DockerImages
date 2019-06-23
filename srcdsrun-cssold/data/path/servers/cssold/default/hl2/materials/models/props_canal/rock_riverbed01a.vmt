@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_canal/rock_riverbed01a"
-	"$surfaceprop" "concrete"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cd6dba435ffaed1994a55a2f0fbfd03e0f9c67da4d56449a6c29bf2125676b8
+size 109

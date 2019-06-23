@@ -1,7 +1,3 @@
-"Bloom"
-{
-	// Original shader: BaseTexture
-	"$fbtexture" "_rt_FullFrameFB"
-	"$blurtexture" "_rt_SmallHDR0"
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eb026c4fed23e6ce24869b92744107267aba3c688348471393319eddc14f625
+size 136

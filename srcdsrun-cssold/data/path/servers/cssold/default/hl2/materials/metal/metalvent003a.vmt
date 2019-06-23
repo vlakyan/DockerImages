@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Metal/metalvent003a"
-	"$surfaceprop" "metalvent"
-	"%keywords" "borealis,c17industrial"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:285f87f0c3d261875f3725c84d9e87ee8ea489649ecf1b024285263b12116c3d
+size 175

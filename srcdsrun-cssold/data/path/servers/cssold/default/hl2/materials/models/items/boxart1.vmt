@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Items/boxart1"
-	"$envmap" "env_cubemap"	
-	"$basealphaenvmapmask" 1	
-	"$model" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:109883ec05d8c05812ac3e1702f31c686aef0959446d1af877cb0a9d4207a7e1
+size 134

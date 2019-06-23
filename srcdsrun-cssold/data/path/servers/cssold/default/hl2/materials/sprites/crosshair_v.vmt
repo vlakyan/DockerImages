@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "sprites/crosshairs_v"
-	"$additive" "1"
-	"$vertexcolor" "1"
-	"$vertexalpha" "1"
-	"$ignorez"     "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:433c155bcd0ee1420a7018c10963615de0a1d6e009163f12a36402858dccd384
+size 143

@@ -1,14 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: basetexture
-	"$basetexture" "sprites/zerogxplode"
-	"$animatedtexturevar" "$basetexture"
-	"$animatedtextureframenumvar" "$frame"
-	"$animatedtextureframerate" 1.00
-	"Proxies"
-	{
-		"AnimatedTexture"
-		{
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9e712843880fda15af5defe5152d12f32d6906b5568383becd91167f901e626
+size 261

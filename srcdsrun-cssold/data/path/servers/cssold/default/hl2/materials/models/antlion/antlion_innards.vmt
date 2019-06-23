@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/Antlion/antlion_innards"
-	"$surfaceprop" "flesh"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:914b7f824319ea1a86ad6016ec5578222f4438f04ebb49561c9c7d9f04643401
+size 155

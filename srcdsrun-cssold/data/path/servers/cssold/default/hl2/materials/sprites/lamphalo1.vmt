@@ -1,13 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "oriented"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/lamphalo1"
-	"$ignorevertexcolors" 1
-	"Proxies"
-	{
-		"lamphalo"
-		{
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:de0c3932b4fa76c0030e3cd5ec1d5b9ce54ff0fdfcf3de6f16f8746db03ba687
+size 191

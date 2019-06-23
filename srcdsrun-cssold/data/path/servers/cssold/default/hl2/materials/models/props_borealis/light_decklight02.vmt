@@ -1,10 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/props_borealis/light_decklight"
-	"$envmapmask" "Models/props_borealis/light_decklight_mask"
-	"$envmap" "env_cubemap"	
-	"$surfaceprop" "glass"
-	"$translucent" 1
-	"$nocull" 1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc29e0541e45ef36a8abacd8372cd276f93c9c67634ae401197d8e44023fdad3
+size 231

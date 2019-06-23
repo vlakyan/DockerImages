@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/plasmabeam"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:106b25f6fd01d85da70b96d04896e9a0c26283a44c1fbe373314b42675708832
+size 125

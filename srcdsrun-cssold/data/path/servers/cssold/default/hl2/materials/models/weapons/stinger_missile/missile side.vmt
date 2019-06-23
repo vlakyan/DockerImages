@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/stinger_missile/missile side"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e439b276241b90eb3e5efc22deec39a74d6f854f3003130d4b65b12549f248be
+size 128

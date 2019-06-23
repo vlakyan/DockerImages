@@ -1,9 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" 		"vgui\steam\games\icon_css"
-	"$translucent" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" 1
-	"$no_fullbright" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7714ba7ad1cb32100ad1a06ea7d56916c4264d9def61fb4ee58957f1f877370a
+size 162

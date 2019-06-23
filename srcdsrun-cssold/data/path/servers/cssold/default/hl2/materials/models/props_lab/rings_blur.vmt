@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/props_lab/rings_blur"
-	"$selfillum" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b708d2fd4a74544051cfd4ead926ff68f089d7a3e6662148fdcfad773f57cce
+size 92

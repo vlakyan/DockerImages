@@ -1,7 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$baseTexture" "Effects/hydragutbeam"
-	"$spriterendermode" 5
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:97939a704132a9349e41cd9362402c4667d4ad517d37b7f2265ffb9cec45c37e
+size 151

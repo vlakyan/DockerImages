@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: WorldAdditiveTransEnvMapWithMaskedTexture
-	"$envmapsphere" 1
-	"$basealphaenvmapmask" 1
-	"$basetexture" "shadertest/WorldAdditiveTransEnvMapWithMaskedTexture"
-	"$envmap" "shadertest/envmap"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ef1a325d5e3302addeb51d0130dfb7cd6a2452fba5b6577d40a575c8e81f451
+size 243

@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "sun/overlay"
-	"$additive" 1
-	"$vertexColor" 1
-	"$ignorez" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:22138e85e5498b1ce66e31e13bfb96cd277a087ee6e578870e77c9fa2494dce4
+size 143

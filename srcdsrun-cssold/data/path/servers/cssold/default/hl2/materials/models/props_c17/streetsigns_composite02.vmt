@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/streetsigns_composite02"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f207b7708ba28ed5213c003c6baf63589d10273199372b89a08678003dd77205
+size 164

@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/props_c17/cashregister01a"
-	"$envmapmask" "Models/props_c17/cashregister01a_mask"
-	"$envmap" "env_cubemap"
-
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d51934109aa5cc036360f0bdee8898d0a014b953d781d399bb97b7c28054327
+size 166

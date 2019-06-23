@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Dev/dev_brickwall012d"
-	"$surfaceprop" "brick"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f957c25599ae6d27c7d64860a971f804199b3e0829afaba5e9054b4f17dca30
+size 134

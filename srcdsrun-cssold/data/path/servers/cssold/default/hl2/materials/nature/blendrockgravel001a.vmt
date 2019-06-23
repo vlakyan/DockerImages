@@ -1,10 +1,3 @@
-"WorldVertexTransition"
-{
-	"$basetexture2" "nature/gravelfloor004a"
-	"$basetexture" "nature/rockwall001a"
-	"%tooltexture" "nature/blendrockgravel001a_tooltexture"
-	"%keywords" "wasteland"
-	"$surfaceprop" "concrete"
-	"$bumpmap2" "Nature/gravelfloor004a_normal"
-	"$bumpmap" "nature/rockwall001a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:82e963c0e312ce7a5096fb86ea3ce415b45d8ae487b0911df3785e929f31f782
+size 313

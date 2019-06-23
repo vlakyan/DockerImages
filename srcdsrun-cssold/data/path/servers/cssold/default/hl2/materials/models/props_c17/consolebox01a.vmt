@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/props_c17/consolebox01a"
-	"$surfaceprop" "metal"
-	"$selfillum" 1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:51056ae528feb5fce31b659ba57f36d63537ad5203e9e493319ee1401f78ea06
+size 120

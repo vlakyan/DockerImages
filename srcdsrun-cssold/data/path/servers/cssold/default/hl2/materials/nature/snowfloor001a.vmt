@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Nature/snowfloor001a"
-	"$surfaceprop" "snow"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:60aab25a5cfaf9ae0a07f73512f2126377059caf497a6a52fb665bfd36abe604
+size 132

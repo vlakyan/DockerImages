@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/props_lab/servers_sheet"
-//	"$selfillum" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:03abf8d811289931e5fadeeb0f7e5e37debcab1858f554c6137fd9ea01ac467d
+size 97

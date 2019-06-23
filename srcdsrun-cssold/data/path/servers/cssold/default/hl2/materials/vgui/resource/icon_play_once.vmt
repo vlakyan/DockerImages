@@ -1,5 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" 		"vgui\resource\icon_play_once"
-	"$ignorez"		1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5e4f5fba5ea1a8aa04c9b9279d2a065df5318eab6eccf3ccf3314efc6eaf10a
+size 88

@@ -1,5 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "shadertest/WorldDiffuseBumpmap"
-	"$bumpmap" "shadertest/WorldDiffuseBumpmap_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fbac8987c842619acdc21a70d43d6056e7347b399ba65b7cd6de630c93f265b
+size 131

@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/props_lab/teleportgate_fence"
-	"$translucent" "1"
-	"$nodecal" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a832aae7e6712fed0cdef7a8beff93e88b8f3dd0296140790bb57c5cd3552ad9
+size 119

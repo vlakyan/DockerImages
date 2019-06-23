@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" 		"vgui\screens\vgui_button_pushed"
-	"$additive"		1
-//	"$vertexcolor"		1
-	"$ignorez"		1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bf832045940079a9f6cd0cdbf2de147d6013737f45782bd51231921b92956c4
+size 130

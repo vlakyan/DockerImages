@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-
-	"$basetexture" "Metal/metaltruss014a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17downtown"
-	"%compilepassbullets" 1
-	"$alphatest" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c44dc7d8959786f9d1358ed05631b1d05b8c6bd53fc26876739ca5a26fc165f
+size 166

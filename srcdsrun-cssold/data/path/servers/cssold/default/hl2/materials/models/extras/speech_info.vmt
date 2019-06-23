@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/extras/speech_info"
-	"$selfillum" "1"
-	"$envmap" "CustomCubeMaps/simplespec"
-//	"$envmaptint" "[0.9 0.9 0.9]"
-//	"$envmapcontrast" ".3"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:049f8304b3f6e6a3c114dd23e4ec869a4f6d7eefc6f65d93c62a6ab6a3f0deaa
+size 191

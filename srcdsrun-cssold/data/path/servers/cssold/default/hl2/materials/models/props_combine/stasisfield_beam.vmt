@@ -1,17 +1,3 @@
-"UnLitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "models/props_combine/stasisfield_beam"
-	"$additive" "1"
-	"$model" "1"
-
-	"Proxies"
-	{
-		"TextureScroll"
-		{
-			"texturescrollvar" "$basetexturetransform"
-			"texturescrollrate" .4
-			"texturescrollangle" 45
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c82c769f0173d2d6284f9087de9dd76bc6a3cd7660f85378790e871a89f0cef
+size 305

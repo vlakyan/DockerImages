@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$color"				"[1 1 1]"
-	"$baseTexture"			"models/props_canal/canal_bridge_railing_01c"
-	"$selfIllum"			0
-	"$translucent"			0
-	"$alpha"				1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:10d1c08955f7e051b06a62d3fe853013257e853112cd434bb45424e0eff21de7
+size 171

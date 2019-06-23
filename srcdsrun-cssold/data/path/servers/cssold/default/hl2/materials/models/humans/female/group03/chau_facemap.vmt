@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Humans/Female/group03/chau_facemap"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc614b9870d9d8ac36289cbdfd21eed01030dbb7de0c44e8a57965836ea5517c
+size 126

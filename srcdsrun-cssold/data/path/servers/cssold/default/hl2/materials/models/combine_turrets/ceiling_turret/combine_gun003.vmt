@@ -1,10 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/Combine_turrets/ceiling_turret/combine_gun003"
-	"$surfaceprop" "metal"
-	//"$envmap" "Environment Maps/envmapcombine"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .5 .5 .5]"
-	"$basealphaenvmapmask" 1
-	"$envmapmask" "models/Combine_turrets/ceiling_turret/Combine_gun003_mask"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4e8d7cc15d33b21defb22667d5b4aeb929c9fe6ae0542f0da47beffbd45a7ac
+size 329

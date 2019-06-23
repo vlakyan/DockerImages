@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/Oil_Drum001g"
-	"$surfaceprop" "metal"
-	"$bumpmap" "Models/props_c17/Oil_Drum001a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:72fada7b62eb15daf953289f0ddf97ea9860d8911186fc6acb98e844073d764a
+size 152

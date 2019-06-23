@@ -1,10 +1,3 @@
-
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_wasteland/tugboat02"
-	"$surfaceprop" "metal"
- 	"$envmaptint" "[ .3 .3 .3]"
-	//"$envmap" "env_cubemap"
-	//"$basealphaenvmapmask" 1
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:44aee8da129b6903199358d65029b77236dc692e2bb2d078e8c014efc4452921
+size 196

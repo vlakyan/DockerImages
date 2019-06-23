@@ -1,10 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Charple/Charple1_sheet"
-	"$bumpmap" "Models/Charple/Charple1_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0b7d877add6c0c5551d2f22a67c321102aa27ab89c1ccce89d439e17e200343
+size 205

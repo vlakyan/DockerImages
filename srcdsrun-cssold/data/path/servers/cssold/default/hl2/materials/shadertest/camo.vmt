@@ -1,6 +1,3 @@
-"Camo"
-{
-	"$basetexture" "shadertest/Camo"
-	"$envmap" "shadertest/Camo_env"
-	"$envmapmask" "shadertest/camo_envmask"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e00d550c0a67e11c502daba8cd108e2b36128f57996fd808e8d3b5dcdebcb7f3
+size 125

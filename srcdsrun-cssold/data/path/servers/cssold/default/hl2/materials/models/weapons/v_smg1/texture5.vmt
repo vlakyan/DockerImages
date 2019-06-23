@@ -1,28 +1,3 @@
-"Unlittwotexture"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/V_smg1/TEXTURE5"
-	"$texture2"	"models/Weapons/V_smg1/noise"
-	"$additive" 1
-	"$model" 1
-	//"$envmap" "env_cubemap"
-	//"$envmaptint" "[ 0.6 0.6 0.6 ]"	
-
-	"Proxies"
-	{
-
-		"TextureScroll"
-		{
-			"texturescrollvar" "$texture2transform"
-			"texturescrollrate" 4
-			"texturescrollangle" -50
-		}
-
-
-	}
-
-
-
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:106f76da635f7170744acb788a43dc75804d3a01f1349ee68e18e3ec3fd4f30d
+size 418

@@ -1,6 +1,3 @@
-"sample4x4"
-{
-	"$PIXSHADER" "sample4x4log_ps20"
-	"$BASETEXTURE" "_rt_FullFrameFB"
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef97ddcd6759ad1a0151479f15952ead847a4ead226eb4e071636631a6b76174
+size 110

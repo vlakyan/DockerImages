@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	"$translucent" 1
-	"$nocull" 1
-	"$basetexture" "models/Airboat/airboat_blur02"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9ec0db101c610b5c20dce019463c643505c8727f79fff4b3d6a9bebaf9e1963
+size 158

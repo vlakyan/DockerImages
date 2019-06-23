@@ -1,10 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTextureAlphaBlend
-	"$alphatest" 1
-	"$basetexture" "models/props_foliage/tree_deciduous_01a_branches"
-	"$model" 1
-	"$nocull" 1
-	"$nodecal" 1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0937214fe0a592e337c27b880104882bdfbb683f645329998c266da66e3f02bd
+size 195

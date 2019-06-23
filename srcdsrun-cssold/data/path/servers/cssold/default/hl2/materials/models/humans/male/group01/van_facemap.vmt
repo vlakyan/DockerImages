@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Humans/Male/Group01/van_facemap"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b713b0d4d00458a0b8b94e8daf4048a9ce0a7285eb448fcbb84103a3cd47376
+size 142

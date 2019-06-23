@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Vortigaunt/vortigaunt_sheet"
-	"$bumpmap" "Models/Vortigaunt/vortigaunt_normal"
-//	"$envmap" "env_cubemap"
-//	"$normalmapalphaenvmapmask" 1
-//	"$envmapcontrast" "1"
-//	"$envmaptint" "[.5 .5 .5]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc3ea51baa26de23e138a6644d3532e465b1ddf86d24576d025569b54067ae9b
+size 250

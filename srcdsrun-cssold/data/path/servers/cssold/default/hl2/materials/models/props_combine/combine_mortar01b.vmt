@@ -1,10 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_combine/combine_mortar01b"
-	"$alphatest"				1
-	"$model"				1
-	"$nocull" 1
-}
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:eff260e0f8417aea890d1f273ff388f4e97eb73e5c7ba670657aa5949e65a834
+size 140

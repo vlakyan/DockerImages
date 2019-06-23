@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_wasteland/barricade_composite01"
-	"$surfaceprop" "wood"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:be9ba6ef53ef9067237699fa89803d8b89663cd31728b78963e5c15d3432bcbb
+size 167

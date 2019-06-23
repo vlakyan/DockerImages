@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/props_lab/teleportbulkeli_sheet"
-	"$selfillum" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:633a263e5105cea2b540472c227e259cd145dabe5e98c7e290e3f74895d3c583
+size 103

@@ -1,7 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/hud/320v_crosshair1"
-	"$ignorez" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:79097df049baff4ad12d3a169e17a1ad882385e405c7c8ff75603332cdf742d6
+size 149

@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	"$translucent" 1
-	"$basetexture" "error/green"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:829788194ab4308ded5c910ea82d5c9814e93a678d64c86b140254b20fab5441
+size 126

@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/odessa/odessa_face"
-	"$bumpmap" "models/odessa/odessa_face_normal"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:05db5ccb81d58deb225a28b8243eb61ff7432f2c919a676a7509d3cc6a5cf5c4
+size 192

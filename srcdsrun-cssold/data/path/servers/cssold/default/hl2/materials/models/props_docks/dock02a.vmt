@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models\props_docks\dock02a"
-	"$surfaceprop" "metal"
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:90cc6cada7af7cbdc2287dd98101214402e29e6c0a49360c85cf8df55c7e4b65
+size 139

@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/V_Stunbaton/W_PowerSource01a"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:066c0d07b07de85a7c9dcf05ac9660a1a90b24b41ee8af5e9778f4f2dccc92e4
+size 128

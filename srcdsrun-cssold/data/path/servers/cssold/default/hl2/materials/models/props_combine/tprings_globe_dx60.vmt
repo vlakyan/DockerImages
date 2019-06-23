@@ -1,17 +1,3 @@
-"UnlitGeneric"
-{
- 	"$model" 1
-	"$REFRACTTINT" "{230 240 250}"
-	"$basetexture" 	"models/props_combine/tprings_globe_dx70"
-	"$additive" 1
-
-	"Proxies"
-	{
-		"TextureScroll"
-		{
-			"texturescrollvar" "$basetexturetransform"
-			"texturescrollrate" .2
-			"texturescrollangle" 90
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ff3d4da7445915f5e6487dfbc88eb22c3ad4c4cf8f03134d3940d6c7ba6325f
+size 298

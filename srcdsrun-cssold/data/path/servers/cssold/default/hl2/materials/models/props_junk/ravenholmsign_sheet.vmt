@@ -1,9 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_junk/ravenholmsign_sheet"
-	"$surfaceprop" "metal"
-	
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b5f3a312b2a59cbaa37b228822c2ddaa3c6264aa6726b48690499c8107015a3
+size 154

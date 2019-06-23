@@ -1,11 +1,3 @@
-"LightmappedGeneric"
-// Identical to 006a except for the nocull 1, added for using this material on displacements. -Jeffl
-{
-	//"$translucent" 1
-	"$alphatest" 1
-	"$basetexture" "Metal/metalrail006a"
-	"%compilepassbullets" 1
-	"$nocull" 1
-	"$surfaceprop" "metal"
-	"%keywords" "c17downtown,wasteland,coastline"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:043005fddd36788aafab85d27b061f31f29ddf9f827404abc7e784b035499506
+size 320

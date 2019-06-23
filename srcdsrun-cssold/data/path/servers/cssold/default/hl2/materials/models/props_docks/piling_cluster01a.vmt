@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models\props_docks\piling_cluster01a"
-	"$surfaceprop" "wood"	
-     "$envmap" "env_cubemap"	
-     "$basealphaenvmapmask" 1
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7ebf3fc8c33ec7309a2a3776d56bce93157a1f6244411c32779feac3df2b778
+size 211

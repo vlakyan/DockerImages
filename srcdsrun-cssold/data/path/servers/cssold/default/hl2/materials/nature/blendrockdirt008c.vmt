@@ -1,17 +1,3 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "nature/dirtfloor012a"
-	"$basetexture2" "nature/cliffface002a"
-
-	"$detail" "overlays/macro01b"
-	"$detailscale" .1
-
-	"%tooltexture" "nature/blendrockdirt007a_tooltexture"
-
-        "$basetexturetransform" "center .5 .5 scale 2 2 rotate 0 translate 0 0"
-        "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
-        
-//	"%detailtype" "rocks1"
-	"$surfaceprop" "dirt"
-	"%keywords" "coastline"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2be621af16cb89e2ea4e6e30b52fc74d71e77e5a3b7de321588f34e3c6a5a413
+size 476

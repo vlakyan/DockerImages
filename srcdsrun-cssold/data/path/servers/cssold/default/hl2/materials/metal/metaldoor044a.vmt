@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Metal/metaldoor044a"
-	"$surfaceprop" "metal"
-	"%keywords" "kraken"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcd3252a67846a6e9e40cfcce4309bfa7cef52b2d658971bcb9a127124a1a84a
+size 155

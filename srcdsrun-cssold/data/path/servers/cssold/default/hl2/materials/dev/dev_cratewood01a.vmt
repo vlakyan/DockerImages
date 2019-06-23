@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Dev/dev_cratewood01a"
-	"$surfaceprop" "wood_panel"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b26f22b92c7464b94681345d2073914e6484e46768aac149f76a7bff05f22ff
+size 138

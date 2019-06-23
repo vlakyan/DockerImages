@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_c17/light_domelight01_off"
-	"$surfaceprop" "glass"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2885a24a743873c32e4ae7e54e818b80c34a63cc750c046839fdee9e750a270c
+size 148

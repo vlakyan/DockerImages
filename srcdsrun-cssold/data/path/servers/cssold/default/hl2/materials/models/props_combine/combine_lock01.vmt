@@ -1,13 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_combine/combine_lock01"	
-	"$surfaceprop" "metal"
-	"%keywords" "combine"
-	"$envmaptint" "[ .2 .32 .44 ]"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "Models/props_combine/combine_lock01_mask"	
-	"$selfillum" "1"
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c53342e9eacc2d40ab1e6c5bc6f383b7c9a1e75051cff5cf2899a376f0792fa
+size 292

@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_combine/breenbust_sheet"
-	"$surfaceprop" "stone"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .4 .4 .4]"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c758966fee509d96bf5cbfd145e5032b00a2f8dcc34fd042b4a2f8e588b2515d
+size 190

@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Gibs/HGibs/rib"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b27e4661617aa414325e9b503b99295e34a61413f3727e8becc56cb9f777c492
+size 106

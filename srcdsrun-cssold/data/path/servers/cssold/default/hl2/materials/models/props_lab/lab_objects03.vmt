@@ -1,7 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_lab/lab_objects03"
-	"$surfaceprop" "cardboard"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:90c3886ef1a275dc102c88dd674d4f45f722d6aa7dffe552507306601a739e9e
+size 146

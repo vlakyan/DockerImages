@@ -1,11 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Models/props_pipes/InteriorPipe002a"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmaptint" "[ .25 .25 .25 ]"
-	"$bumpmap"	"models/props_pipes/InteriorPipe002a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8488d257fed2085ffd99489394f572adf49d5bfa1ceb895898cbcbde29542622
+size 315

@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/HandrailMetal001a"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:644dbab7ee2718481a16aade9da3cbe88cccb8122f6c7afdc2fcad6d61c25032
+size 140

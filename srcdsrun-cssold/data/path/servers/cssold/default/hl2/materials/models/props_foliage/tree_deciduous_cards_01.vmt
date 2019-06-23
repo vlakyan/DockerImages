@@ -1,11 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTextureAlphaBlend
-	"$alpha" 1
-	"$translucent" 1
-	"$basetexture" "models/props_foliage/tree_deciduous_cards_01"
-	"$model" 1
-	"$nocull" 1
-	"$nodecal" 1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a77556313cf21aeea050c773e92471c44dc89b8001b385791736c238667bc878
+size 206

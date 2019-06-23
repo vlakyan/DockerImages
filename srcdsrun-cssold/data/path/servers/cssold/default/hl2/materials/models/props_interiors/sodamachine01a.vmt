@@ -1,15 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_interiors/SodaMachine01a"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$envmaptint" "[ .5 .5 .5]"
-	"$envmapcontrast" ".5"
-	"$envmapsaturation" "[1 1 1]"
-	
-    
-
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a327f1bc65972856c58f8901b12c5828594ca4680a24e6837b30c8ed99f3694
+size 263

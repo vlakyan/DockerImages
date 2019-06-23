@@ -1,9 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_wasteland/laundry_carts001"
-	"$surfaceprop" "wood"
-	//"$envmap" "env_cubemap"
-	//"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3edd5389fc9542c1570b6de69db167f11dc108086e7cd0027e12258fe3bb960
+size 207

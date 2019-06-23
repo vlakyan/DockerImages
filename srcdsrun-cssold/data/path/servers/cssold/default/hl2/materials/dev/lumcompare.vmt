@@ -1,8 +1,3 @@
-"screenspace_general"
-{
-	"$PIXSHADER" "luminance_compare_ps20"
-	"$BASETEXTURE" "_rt_FullFrameFB"
-    "$ALPHATESTED" "1"
-    "$DISABLE_COLOR_WRITES" "1"
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc54d74d63d4f956114045fe4437f43c61b0f2a6218b23c5d97b8f55203c479d
+size 182

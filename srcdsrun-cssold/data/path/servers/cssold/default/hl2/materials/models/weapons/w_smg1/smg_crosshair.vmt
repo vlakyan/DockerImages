@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Weapons/W_smg1/smg_crosshair"
-	"$additive" 1
-	"$selfillum" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4485d41e594570b1d461601d951f0c7bda5f3fcf74facf973860d51a58f58c0
+size 114

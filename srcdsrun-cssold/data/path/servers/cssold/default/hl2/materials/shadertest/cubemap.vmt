@@ -1,16 +1,3 @@
-"unlitgeneric"
-{
-	// Original shader: cubemap
-	"$envmap" "shadertest/shadertest_env"
-
-	"Proxies"
-	{
-		"Sine"
-		{
-			"resultVar" "$ALPHA"
-			"sineperiod" 2.00
-			"sinemin" 0
-			"sinemax" 1
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f02bea0e0bacc60f33165ed9cd2b5c468ae35bf5e558a4068bd2fd9ec1edf41f
+size 213

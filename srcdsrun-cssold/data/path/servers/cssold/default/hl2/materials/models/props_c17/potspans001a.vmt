@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/PotsPans001a"
-	//"$envmap" "env_cubemap"
-	//"$basealphaenvmapmask" 1
-	
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:435b8c8534891b522f97012bee1128c047f85a06978fbb8de41549d86624abcd
+size 139

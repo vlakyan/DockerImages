@@ -1,15 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "halflife/+0~drkmtls2"
-	"$surfaceprop" "glass"
-	"$selfillum" 1
-	"Proxies"
-	{
-		"ToggleTexture"
-		{
-			"toggletexturevar" "$basetexture"
-			"toggletextureframenumvar" "$frame"
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:172638f723de9979554869f6053813247d15fba2f360ec36222497b5ffe3f1e7
+size 277

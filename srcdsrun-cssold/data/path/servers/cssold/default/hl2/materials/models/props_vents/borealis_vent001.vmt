@@ -1,14 +1,3 @@
-
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_vents/borealis_vent001"
-	"$surfaceprop" "metal"
-	"$bumpmap" "Models/props_vents/borealis_vent001_normal"
-	//"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .5 .5 .5]"
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:321ffc82e6c93642d7ff1522aa54fd8ba3a74f420ceef844c518fdffe073b819
+size 306

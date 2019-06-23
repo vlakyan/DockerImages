@@ -1,13 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Glass/glasswindow008a"
-	"$surfaceprop" "glass"
-	"%keywords" "c17skyscraper"
-	"$bumpmap" "glass/glasswindow008a_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .56 .56 .56 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:065b756ea3f166bc02dcf08b9e56ed033df151c8aecf876128fd6de201360750
+size 325

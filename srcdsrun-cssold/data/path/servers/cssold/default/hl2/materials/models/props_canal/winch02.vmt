@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_canal/winch02"
-	"$surfaceprop" "metal"
- 	"$envmaptint" "[ .25 .25 .25]"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:60bfd8a58d15df1cca91492e068559ede52e8a3ef071ed070c8cb79afde7a0e4
+size 184

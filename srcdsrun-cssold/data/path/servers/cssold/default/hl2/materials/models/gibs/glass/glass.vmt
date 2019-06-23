@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: TranslucentSpecularSphericalEnvMap
-	//"$additive" 1
-	//"$envmap" "models/Gibs/glass/glass"
-	"$envmap" "env_cubemap"
-	"$model" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:708a9174acaaa6cdfac7b246a1758af27d9656828b84a84e7f013326900ea9bc
+size 176

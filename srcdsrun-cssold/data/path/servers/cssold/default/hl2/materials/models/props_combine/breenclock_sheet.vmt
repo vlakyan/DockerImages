@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_combine/breenclock_sheet"
-	"$surfaceprop" "wood"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ 1 1 .6]"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ba44a60f5ab237de7c7067bbde3216d357b2997dafaa93269e7cef0b2cbef77
+size 188

@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/props_pipes/valve001_skin3"
-	"$surfaceprop" "metal"
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2de63b8b3c869e7641da9bda7ba248ba5eb6e0166ce032d167c665b5a51ff668
+size 108

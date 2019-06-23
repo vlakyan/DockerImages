@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	//"$color"				"[1 1 1]"
-	"$baseTexture"			"models/props_combine/combine_cell_burned"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$envmaptint" "[ .125 .125 .125]"
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:10ad85c6fa215de69571d142dbd731bcaf68c1a8fffcbd50c89ac468e032c5b5
+size 205

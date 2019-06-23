@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/Weapons/V_IRifle/V_IRifle_core"
-	"$surfaceprop" "metal"
-	"$selfillum" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7b9e67b224d22aa2bcd347093cc70983c48abf61c3c0b68b00b74675f900018
+size 123

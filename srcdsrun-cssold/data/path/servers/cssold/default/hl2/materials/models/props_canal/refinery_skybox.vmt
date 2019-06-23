@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$alphatest" 			1
-	"$baseTexture"			"models/props_canal/refinery_skybox"
-	"$model" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:923f23568e5f05baccf3d80813ed0f3aac4ef3e8f6b59f564dfaae7b09122a16
+size 115

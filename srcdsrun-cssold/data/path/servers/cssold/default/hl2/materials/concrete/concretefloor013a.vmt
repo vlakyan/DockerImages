@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Concrete/concretefloor013a"
-	"$surfaceprop" "concrete"
-	"$bumpmap" "concrete/concretefloor013a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bb8e602df3243b759f41d7ac6d049ef809c300a255a80f4a03a7e7ac3c86964
+size 151

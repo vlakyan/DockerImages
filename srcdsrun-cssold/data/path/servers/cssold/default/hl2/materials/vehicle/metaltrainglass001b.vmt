@@ -1,11 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Vehicle/metaltrainglass001b"
-	"$surfaceprop" "glass"
-	"$translucent" 1
-	"$envmapmask" "Vehicle/metaltrainglass001b_mask"
-	"$envmaptint" "[ 0.75 0.75 0.75 ]"
-	"$envmap" "env_cubemap"
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8de609b24b0624c2c5b99169516e422f4f360453aea370e2e58f9c9487d676c1
+size 279

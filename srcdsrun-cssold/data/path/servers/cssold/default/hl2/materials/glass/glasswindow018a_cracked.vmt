@@ -1,24 +1,3 @@
-"LightmappedTwoTexture"
-{
-	// Original shader: WorldAdditiveTransEnvMapWithMaskedTexture
-
-	// base texture is a dummy; we need something here to indicate to the shader
-	// that we've got one though
-	"$basetexture" "Glass/glasswindow018a_cracked"
-
-	"$detail" "Glass/glasswindow018a_cracked"
-	"$envmap" "environment maps/envmap005a"
-	"$surfaceprop" "glass"
-	"%keywords" "c17industrial"
-	"$envmapmask" "glass/glasswindow018a_mask"
-	"$envmapsphere" 1
-	"$translucent" 1
-	"$envmaptint" "[.4 .4 .35]"
-	"$nocull" 1
-	"Proxies"
-	{
-		"WindowGlass"
-		{
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6535d23278040f113c6290f478c37bcb50b87452397fc64c408443d4d24e4a1f
+size 574

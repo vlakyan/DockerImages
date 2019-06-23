@@ -1,7 +1,3 @@
-"vertexlitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "models/props_foliage/tree_deciduous_01a_trunk"
-	"$surfaceprop" "wood"
-	"$nodecal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1c73fe5930d8f9278367d773389bcd6c4e660c353c18fc0733bf5d132221f72
+size 170

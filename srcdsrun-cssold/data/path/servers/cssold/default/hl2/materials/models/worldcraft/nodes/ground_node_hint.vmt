@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/worldcraft/nodes/ground_node_hint"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b57b342b559f275c15b4150ff6ef16e031153e2523bdf16edbffa935a0d07b0b
+size 125

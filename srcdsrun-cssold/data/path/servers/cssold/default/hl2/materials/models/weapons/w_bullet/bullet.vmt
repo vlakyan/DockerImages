@@ -1,10 +1,3 @@
-"VertexLitGeneric"
-{
-//	"$baseTexture" "Models/Weapons/w_bullet/bullet"
-	"$envmap" "env_cubemap"
-	"$envmapsaturation" .1
-	"$envmapcontrast" 1
-	"$normalmapalphaenvmapmask" 1
-
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac41a14b4b134d4ec563c5c1e1d93f74ff26fc5909b47fc241842a0d1949c997
+size 187

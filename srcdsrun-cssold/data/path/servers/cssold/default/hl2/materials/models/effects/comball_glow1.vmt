@@ -1,10 +1,3 @@
-//"UnlitGeneric"
-"Modulate"
-{
-	"$baseTexture" "Models/Effects/comball_glow1"
-	"$nocull" "1"	
-	"$additive" "1"
-	"$translucent" "1"
-	"$model" "1"
-	"$MOD2X" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0a90ad0afaa8859d162ee770170a1b92c03cab68703ca9f75a61be040044106
+size 168

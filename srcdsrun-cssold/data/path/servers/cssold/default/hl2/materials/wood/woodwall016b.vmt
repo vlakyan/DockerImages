@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: CubicEnvMapBlendMaskedBaseTimesLightmap
-	"$basealphaenvmapmask" 1
-	"$basetexture" "Wood/woodwall016b"
-	"$envmap" "env_cubemap"
-	"$surfaceprop" "wood"
-	"%keywords" "borealis"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:563a8f8594cb203e26793761dae699a9b628a85b00f60977850fe7ca331d0553
+size 229

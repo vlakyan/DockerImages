@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "halflife/lab1_comp3e"
-	"$selfillum" 1
-	"$surfaceprop" "computer"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c63e8b10dd818bb6ddc4d00ce26d0a11a68a6a2f1a17c1fec87aad286c3978d
+size 162

@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-     "$basetexture" "Models\props_buildings\factory_skybox001a"
-     "$surfaceprop" "metal"
-     "$envmap" "env_cubemap"	
-     "$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1d15dd8b63008d7a171b5a15ea13f584241d944fa1f5e2a4b3ed143028e31db
+size 180

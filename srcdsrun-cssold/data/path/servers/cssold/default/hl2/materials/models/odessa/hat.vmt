@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Odessa/hat"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:315a4f3f95e9012fe372d1d678b5e2c6d8addf2de8342754723b6245bc71f0f1
+size 121

@@ -1,15 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "Models/props_c17/bench01a"
-	"$envmapmask" "Models/props_c17/bench01a_mask"
-	//"$envmap" "environment maps/envmap001a"
-	//"$envmapsphere" 1
-	"$envmap" "env_cubemap"
-	"$multipass" 1
-	"$surfaceprop" "wood"
-}
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:086ac1e48fbd5531c162005775f84ea2958d892894c24d188951fd00345ebe57
+size 315

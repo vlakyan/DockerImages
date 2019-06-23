@@ -1,5 +1,3 @@
-"eyes"
-{
-	"$basetexture" "models/vortigaunt/eyeball"
-	"$iris" "models/vortigaunt/pupil"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:eccb287ad932e86a9910c8dd410d874cc9a1b7de6ed828fde0e973aae5e682da
+size 95

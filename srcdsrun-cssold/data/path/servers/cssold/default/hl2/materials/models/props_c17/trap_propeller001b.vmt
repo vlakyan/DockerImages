@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/Trap_Propeller001b"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$envmaptint" .3 .3 .3	
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec8104d817cb86d7379db5e11eb98edd4b821e643c798c47adbafda76267c7db
+size 164

@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_c17/lamp_bell01"
-	"$selfillum" 1
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc4c034c09c87cbb0f1580e5668401a45a2c24957b8338e1e9fd1543da3479b9
+size 93

@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_canal/canal_bars001b"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:168e614cf4c816b6ba9c12e4010394497cfa78bc319ea79e1ebac7da7dd0c324
+size 104

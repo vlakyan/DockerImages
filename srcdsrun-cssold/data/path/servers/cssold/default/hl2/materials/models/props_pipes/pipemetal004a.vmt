@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Models/props_pipes/PipeMetal004a"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2109781653e8445867389fc098100752d4d941213e8fac8bf493a1a227c0d49
+size 196

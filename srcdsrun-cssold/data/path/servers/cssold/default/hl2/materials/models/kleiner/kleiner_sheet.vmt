@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Kleiner/kleiner_sheet"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f26a2ae9c9c79f1828e0a3199ec0cc83c664819122c7a40c6d9cb92246764c1
+size 93

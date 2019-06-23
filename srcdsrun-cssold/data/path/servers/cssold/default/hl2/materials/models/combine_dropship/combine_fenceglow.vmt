@@ -1,27 +1,3 @@
-"UnlitTwoTexture"
-//"Modulate"
-{
-	"$baseTexture" "Models/combine_dropship/combine_fenceglow"
-	"$Texture2" "Models/combine_dropship/combine_fenceglow2"
-//	"$nocull" "1"	
-	"$nodecal" "1"
-	"$additive" "1"
-//	"$translucent" "1"
-//	"$no_fullbright" 1
-	"$model" "1"
-	"$nofog" "1"
-//	"$MOD2X" "1"
-	
-
-	"Proxies"
-	{
-		"TextureScroll"
-		{
-			"texturescrollvar" "$texture2transform"
-			"texturescrollrate" -5
-			"texturescrollangle" 0
-		}
-
-}
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7787ef848cc92a70ef6f89ff56dc675fc05a9d2808caf28698a76b9d308724d8
+size 461

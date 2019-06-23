@@ -1,8 +1,3 @@
-"vertexlitGeneric"
-{
-	// Original shader: BaseTexture
-	"$basetexture" "models/props_c17/door01a"
-	"$basealphaenvmapmask" 1
-	"$surfaceprop" "wood"
-	"$envmap" "env_cubemap"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:85fa6d7d18b5bc6b32ac5deb88023915394a39658cf9b554fb8f7413519e9636
+size 181

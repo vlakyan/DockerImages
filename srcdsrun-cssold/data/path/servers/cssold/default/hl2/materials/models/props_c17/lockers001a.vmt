@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/Lockers001a"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a34bf31dc844ece9b9e8b266cda3eb77daef171197737647e78ec526ae2bd14b
+size 134

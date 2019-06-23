@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/physcannon_bluelight1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d48d47656dde263213a437b3b4c74725a5cd15393d5d328280b83437df47aecf
+size 136

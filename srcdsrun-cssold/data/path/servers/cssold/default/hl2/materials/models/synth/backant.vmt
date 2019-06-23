@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitSelfIlluminatedTexture
-	"$basetexture" "models/Synth/backant"
-	"$selfillum" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4ddfb8fa50afadd22ceccd072e6757b55674b2100f83674a2bc0e2f4bfed09e
+size 137

@@ -1,5 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "halflife/lab1_stair2b"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:35db0ee0ff2a4bc8d17d717f9082ae04a5dd3af7a56b740bb75b49f8b65dc9ba
+size 109

@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Antlion/antlion_parts"
-	"$surfaceprop" "flesh"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:882d2ea258e3d2eec068fd74e271a0584fc8b6f2b9acf66795ce9087318703db
+size 138

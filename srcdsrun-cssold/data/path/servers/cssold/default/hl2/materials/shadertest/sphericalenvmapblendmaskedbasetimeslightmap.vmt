@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: SphericalEnvMapBlendMaskedBaseTimesLightmap
-	"$envmapsphere" 1
-	"$basealphaenvmapmask" 1
-	"$basetexture" "shadertest/SphericalEnvMapBlendMaskedBaseTimesLightmap"
-	"$envmap" "shadertest/envmap"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:efd25e122986cbe02c1f52260e44fa95e054be98777350a64590e808d0d5a251
+size 247

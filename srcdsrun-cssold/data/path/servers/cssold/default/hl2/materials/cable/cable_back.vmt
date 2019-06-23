@@ -1,16 +1,3 @@
-"Cable"
-{
-	"$basetexture"	"cable\dx8cable"
-
-	"UnlitGeneric_DX6"
-	{
-		"$basetexture"		"cable\cable"
-	}
-
-	"$bumpmap"			"cable\cablenormalmap"
-	"$vertexcolor"		1
-	"$nocull"			1
-	"$MinLight"			0.0
-	"$MaxLight"			0.0
-	$Translucent 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ff010cd57bb20138f1a6703cde0ddfcb6e8c8aebeedd7acdd98aec5f2a2a200
+size 246

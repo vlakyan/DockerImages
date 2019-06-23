@@ -1,8 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_c17/concrete_barrier"
-	"$surfaceprop" "concrete"
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6921f8c39d1281aa55c1940f3a95ebb148dd774682054cdef1ed66f50a9ad784
+size 151

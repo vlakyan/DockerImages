@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "shadertest/LightmappedSelfIlluminatedTexture"
-	"$envmapmode" 1
-	"$envmap" "shadertest/shadertest_env"
-	"$selfillum" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1728be38acfbb7dc9e009dc39c64d3a94d65b834d4a590af3f674c6d4cb588bf
+size 167

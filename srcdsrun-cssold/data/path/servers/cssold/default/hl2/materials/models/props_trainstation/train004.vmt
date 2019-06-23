@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_trainstation/train004"
-	"$surfaceprop" "metal"
-	"$envmaptint" "[ .1 .1 .1]"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:62b3f03b840656c201efadc41766e6d3a31851ff628d5f17f59e7eaaffe23824
+size 188

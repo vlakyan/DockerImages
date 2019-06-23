@@ -1,16 +1,3 @@
-"UnlitGeneric"
-{
-	"$vertexcolor" 1
-	"%tooltexture" "shadertest/UnlitAdditiveVertexColor"
-
-	"Proxies"
-	{
-		"Sine"
-		{
-			"resultVar" "$Alpha"
-			"sineperiod" 2.00
-			"sinemin" 0
-			"sinemax" 1
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:95ad77f829154f8e6172993fcc2752a1cfc42368c1928d037880c097c7cb395f
+size 217

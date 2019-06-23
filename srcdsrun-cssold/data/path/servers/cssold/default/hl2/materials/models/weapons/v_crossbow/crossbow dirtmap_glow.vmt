@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-
-	"$baseTexture" "Models/Weapons/v_crossbow/crossbow dirtmap_glow"
-	"$bumpmap" "Models/Weapons/v_crossbow/normal_map_composite copy"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$selfillum" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8fed0ac0899e0d5b63b7c1c7847d894a50d46ddd72ffed597cbde06dfd88e41
+size 237

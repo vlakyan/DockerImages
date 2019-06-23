@@ -1,7 +1,3 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "nature/grassfloor001a"
-	"$basetexture2" "nature/dirtfloor006a"
-	"%tooltexture" "nature/blendgrassdirt001a_tooltexture"
-	"%keywords" "wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:97660c676d2d1d79ee68647d296d6ee5dfa907342010c4e8a32e721e4b48b4e6
+size 196

@@ -1,11 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Wood/cabinets01a"
-	"$surfaceprop" "wood"
-	"$bumpmap" "Wood/cabinets01a_normal"
-	//"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	//"$envmapcontrast" 1
-	//"$envmapsaturation" .8
-	//"$envmaptint" "[ .5 .5 .5]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceb0855650fd66408c0c899d4095bcfdd6ae1a489372df282c9a65ba26c8aa61
+size 270

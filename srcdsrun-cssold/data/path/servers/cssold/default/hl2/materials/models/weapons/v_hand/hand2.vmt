@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/V_hand/hand2"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f1e111e8839bd57fbfdf84d2418d591b03b17d6bffdbad4a79452f90cfaf619
+size 112

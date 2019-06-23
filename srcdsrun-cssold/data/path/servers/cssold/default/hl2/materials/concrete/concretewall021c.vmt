@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Concrete/concretewall021c"
-	"$surfaceprop" "concrete"
-	"%keywords" "c17industrial"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4c33f5af6e2642ebbd53ef8417dfe14b0f094f8864b38efbb197c639e3c8420
+size 171

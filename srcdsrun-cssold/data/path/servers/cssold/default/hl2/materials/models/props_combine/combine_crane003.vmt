@@ -1,13 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_combine/combine_crane003"
-	"$surfaceprop" "metal"
-	//"$nocull" 1 
-	//"$envmap" "Environment Maps/envmapcombine"
-	//"$envmap" "env_cubemap"
-	"$envmaptint" "[ .75 .9 1]"
-	"$basealphaenvmapmask" 1
-	//"$envmapmask" "models/props_combine/Combine_crane003_mask"
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:955ccf5f79202f26dd861132f5197b67890c58731802ec50762a78b6991b7fcf
+size 366

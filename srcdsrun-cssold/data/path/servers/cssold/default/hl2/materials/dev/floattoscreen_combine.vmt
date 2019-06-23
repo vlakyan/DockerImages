@@ -1,14 +1,3 @@
-"floatcombine"
-{
-	"$basetexture" "_rt_FullFrameFB"
-	"$bloomtexture" "_rt_SmallFB0"
-	"$vignette_power" "1.0"
-	"$edge_softness" "0"
-	"$sharpness" "1.0"
-	"$woodcut" "0.00"
-	"$bloomamount" "1"
-    "$bloomexponent" "3"
-	"$vignette_min_bright" "1"
-	"$ignorez" 1
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b1c86ea5ce15fd4d72ccf9584dd5f3e17938f270855e3cbc9eab693079c29c7
+size 283

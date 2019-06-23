@@ -1,5 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "sprites/animglow02"
-	"$additive" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b366da43d899293ae615417a1cea05ee098614b44107bf2f8af02d8546b9979f
+size 78

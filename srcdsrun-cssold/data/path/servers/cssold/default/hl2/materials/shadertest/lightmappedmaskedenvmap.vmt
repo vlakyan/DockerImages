@@ -1,7 +1,3 @@
-LightmappedGeneric
-{
-	"%tooltexture" "shadertest/shadertest_env"
-	"$envmap" "shadertest/shadertest_env"
-	"$envmapmask" "shadertest/LightmappedGeneric_envmask"
-	"$envmapmaskscale" 5
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bbec488d35f70ec0d705da1c63acf69cda7af7fa2d6b4c0d75c793a41a68602
+size 190

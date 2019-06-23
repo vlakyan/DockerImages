@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$alphatest" 1
-	"$basetexture" "Metal/metaltruss024b"
-	"$surfaceprop" "metal"
-	"%compilepassbullets" 1
-	"%keywords" "c17industrial,wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b69c913eeb1c8806e2eeb166c5c566f9e97608fb962ba0e957fb719894da365a
+size 226

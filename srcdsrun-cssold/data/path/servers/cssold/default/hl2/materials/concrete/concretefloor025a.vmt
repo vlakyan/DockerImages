@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "concrete\concretefloor025a"
-	"$surfaceprop" "concrete"
-	"%keywords" "c17industrial,wasteland"
-	"$bumpmap" "concrete\concretefloor025a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:134fb8a9c439ee9a39979c52ced0c1831c1f6bcbbdedeeb81c3dffb24187d4b5
+size 191

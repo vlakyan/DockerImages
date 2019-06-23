@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Humans/female/Group02/citizen_sheet"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8460c8fb086200602d84a10f40b808bbe10221ed72755716cacfbb8a84840280
+size 146

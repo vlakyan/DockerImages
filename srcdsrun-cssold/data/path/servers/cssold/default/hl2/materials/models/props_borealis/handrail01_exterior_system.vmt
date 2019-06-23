@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$baseTexture" "models/props_borealis/handrail01_exterior_system"
-	"$surfaceprop" "metal"
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9181ce484d484b027bf24dbf6b2258204b588fee7dc10d01b2d3ec996190cfa4
+size 160

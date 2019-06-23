@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "nature/rockwall011g"
-	"$bumpmap" "Nature/cliffface002a_normal"
-	"$model" 1
-//	"$basealphaenvmapmask" 1
-	"$surfaceprop" "boulder"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3d89f0b81a5e2dc246f11a86c228c321a4499b0c1c20505161924f115e9a516
+size 175

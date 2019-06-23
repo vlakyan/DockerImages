@@ -1,12 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalpipe002a"
-	"%keywords" "c17industrial"
-	"$bumpmap" "Metal/metalpipe003a_normal"
-	"$surfaceprop" "metal"
-	//"$envmaptint" "[ 0.75 0.75 0.75 ]"
-	//"$envmap" "env_cubemap"
-	//"$normalmapalphaenvmapmask" 1
-	//"$envmapcontrast" 1
-	//"$envmapsaturation" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e33d19b932b30e94a82028218b171efd38a98c40072197e2be7c21bc3b675a4b
+size 315

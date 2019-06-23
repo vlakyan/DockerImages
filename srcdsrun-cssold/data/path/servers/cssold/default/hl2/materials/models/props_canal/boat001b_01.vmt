@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_canal/boat001b_01"
-	"$surfaceprop" "wood"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:df309bf42184a8e259dd0813d5333ce20b2eb61df9fc077383608b606b961123
+size 100

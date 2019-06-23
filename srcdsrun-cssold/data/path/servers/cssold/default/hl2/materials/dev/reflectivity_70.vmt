@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Dev/reflectivity_70"
-	"$surfaceprop" "concrete"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fda6381419625fc14a3756f001ef5d6e0c1b3adcc2b2f6d6317bbfc981d79c7e
+size 135

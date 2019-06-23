@@ -1,13 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/sandfloor010a"
-	"$bumpmap" "Nature/sandfloor010a_normal"
-	"$surfaceprop" "sand"
-	"%keywords" "wasteland"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .80 .80 .80 ]"
-	"$envmap" "env_cubemap"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e2d8a6865aec09b86686d81c9522d4cdd6769240532ec65a4ddb8f00a8f37d5
+size 318

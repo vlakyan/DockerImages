@@ -1,13 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-	"$basetexture" "Tile/tilewall009b"
-	"$surfaceprop" "tile"
-	"%keywords" "c17downtown,c17sewers"
-	"$bumpmap" "tile/tilewall009b_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" .8
-	"$envmaptint" "[ .25 .25 .25 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aecfb3497dcc57adeb19fb2a323721e82091f27dca319befd19e2f01b769c91d
+size 323

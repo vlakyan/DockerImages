@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/Items/BoxSniperRounds"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8178d4b6446516792cc7fb65cfddd99c8e74fc961575bc2bb03267d17e0c8bc
+size 113

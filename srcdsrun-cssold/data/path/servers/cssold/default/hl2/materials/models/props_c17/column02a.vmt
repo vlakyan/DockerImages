@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/column02a"
-	"$surfaceprop" "wood"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fca173a26cc42feca10ca87f002094c0a1032f980102fdd45b63138088252935
+size 96

@@ -1,20 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_rooftop/RoofTop_Set01a"
-	"$surfaceprop" "wood"
-  	"$envmap" "env_cubemap"
-	"$envmapmask" "Models/props_rooftop/RoofTop_Set01a_mask"
-	//"$envmaptint" "[ .5 .5 .5]"
-        "$alphatest" 1
-	//"$envmapcontrast" "1"
-	//"$envmapsaturation" "[.8 .8 .8]"
-	//"$translucent" 1
-	//"nomip" "1"
-
-}
-
-
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:46a0fc1c1acddfde225196ec25b3d503969979b934540d53af32c4daa5a44be8
+size 362

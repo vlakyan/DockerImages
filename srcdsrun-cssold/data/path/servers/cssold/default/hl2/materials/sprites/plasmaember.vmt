@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: AddTexture
-	"$additive" 1
-	"$basetexture" "sprites/plasmaember"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:35fc54ad3ca8bf5ad557b50cb191b708761241f7380ff43abd0a2d1fa293ecf0
+size 110

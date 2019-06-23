@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/cliffface001a"
-	"$surfaceprop" "dirt"
-	"$bumpmap" "Nature/cliffface001a_normal"
-	//"$parallaxmap" "Nature/cliffface001a_height"
-	//"$parallaxmapscale" ".025"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f51cd3a2e806403599c6ef3d152bb486c05d2fe2ab93fd8332b4b261765d6b4
+size 215

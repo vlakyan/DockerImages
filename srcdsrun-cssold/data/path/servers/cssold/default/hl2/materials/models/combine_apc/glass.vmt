@@ -1,12 +1,3 @@
-"VertexLitGeneric"
-{
-
-	"$baseTexture" "models/combine_apc/glass"
-	"$translucent" 1
-	"$alpha" 1
-	"$envmapmask"	"models/combine_apc/glass_spec"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .75 .75 1]"
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:be5a1653f82979ec79cc8fe034f1ec2776625ccd86566f73c2563d9ea5efc78b
+size 255

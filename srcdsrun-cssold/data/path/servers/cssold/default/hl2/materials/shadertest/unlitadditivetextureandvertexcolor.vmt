@@ -1,17 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "shadertest/UnlitAdditiveTextureAndVertexColor"
-	"$additive" 1
-	"$vertexcolor" 1
-
-	"Proxies"
-	{
-		"Sine"
-		{
-			"resultVar" "$COLOR"
-			"sineperiod" 2.00
-			"sinemin" 0
-			"sinemax" 1
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c6ad65dbc14d8ced8b915cf540da77dbfb4d7413415aec133d5df2089d52f5d
+size 243

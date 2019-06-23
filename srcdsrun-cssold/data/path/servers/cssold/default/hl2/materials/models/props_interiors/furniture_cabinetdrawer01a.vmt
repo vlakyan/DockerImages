@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-     "$basetexture" "models\props_interiors\furniture_cabinetdrawer01a"
-     "$surfaceprop" "dirt"
-     "$envmap" "env_cubemap"
-     "$basealphaenvmapmask" 1 
-     "$envmaptint" .25 .25 .25
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0708cfa12e01c4b34a7f5f34c3cf1baa8c6fcc643df2803a536fedd58f7ae432
+size 219

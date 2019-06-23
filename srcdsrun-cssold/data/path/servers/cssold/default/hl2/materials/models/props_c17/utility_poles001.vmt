@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/utility_poles001"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1439422afc39ca9aa96b1c59223a449eb9cfe321df2dff724454acc0ed74ac07
+size 157

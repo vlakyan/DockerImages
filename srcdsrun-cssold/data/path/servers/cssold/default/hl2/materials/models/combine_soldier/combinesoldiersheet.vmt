@@ -1,13 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" 	"Models/Combine_soldier/combinesoldiersheet"
-	"$envmap" "env_cubemap"	
-	"$envmapmask" "Models/Combine_soldier/combinesoldiersheet_mask"
-	"$envmapcontrast" 1
-	"$surfaceprop" "flesh"
-	"$selfillum" 1
-	"$model" 1
-}
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:eddff26ae7d7c3dfbbf076653fb022e729d9abc81b2d4c9ba602793675171d28
+size 265

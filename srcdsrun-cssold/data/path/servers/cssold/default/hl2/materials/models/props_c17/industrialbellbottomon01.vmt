@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitSelfIlluminatedTexture
-	"$basetexture" "Models/props_c17/industrialbellbottomon01"
-	"$selfillum" 1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3276f039cc0fff68bd6cf837f6051c19b0115f4e8468ea3a14d7848e5a326e43
+size 160

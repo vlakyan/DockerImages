@@ -1,7 +1,3 @@
-"eyes"
-{
-	"$basetexture" "models/Alyx/eyeball_r"
-	"$iris" "models/alyx/pupil_r"
-	"$halflambert" 1
-	"$nodecal" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0265ce78e3c4783c36140c0ea18f98f3442ab020c86c070c77e5662b6711b1c
+size 123

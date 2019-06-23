@@ -1,6 +1,3 @@
-"vertexlitGeneric"
-{
-	// Original shader: BaseTexture
-	"$basetexture" "models/props_c17/door01a_skin7"
-	"$surfaceprop" "wood"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7a1ec92fe805ab83754c591529f19db63fca53afd68093b3aaf81d4b0138d63
+size 134

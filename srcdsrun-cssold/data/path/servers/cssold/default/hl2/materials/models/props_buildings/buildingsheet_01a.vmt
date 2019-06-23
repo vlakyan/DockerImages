@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_buildings/buildingsheet_01a"
-	"$surfaceprop" "concrete"
-	"$envmap" "env_cubemap"	
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b3ce8ee13c682bbe3cf87ebe7572b673752ebb5d621591ed100b13a64e82c42
+size 168

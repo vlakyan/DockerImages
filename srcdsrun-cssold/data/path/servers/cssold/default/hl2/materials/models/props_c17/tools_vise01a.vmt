@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/tools_vise01a"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
- 	"$basealphaenvmapmask" 1
-	"$envmaptint" "[ .75 .75 .75]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:16c68d5427ca43a6c4fa53731effca433bf99d155b1044b56ec4ed8c6820671c
+size 188

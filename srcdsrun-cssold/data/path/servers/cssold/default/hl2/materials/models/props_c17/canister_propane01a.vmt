@@ -1,11 +1,3 @@
-"VertexLitGeneric"
-{
-//	"$translucent" 1
-	"$basetexture" "models/props_c17/canister_propane01a"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-//	"$envmaptint" "[.1 .1 .1]"
-}
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a33bb4c91c1833d353fd8ebb62ce84277db1be19a4ed327bd11df3e506793e3f
+size 193

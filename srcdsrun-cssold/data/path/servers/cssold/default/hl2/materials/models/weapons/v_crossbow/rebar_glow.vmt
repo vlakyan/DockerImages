@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-
-	"$baseTexture" "Models/Weapons/v_crossbow/rebar_glow"
-	"$bumpmap" "Models/Weapons/v_crossbow/rebar_normal"
-//	"$envmap" "env_cubemap"
-//	"$normalmapalphaenvmapmask" 1
-	"$selfillum" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a21eb4076907a6284c87db934404a051c6bf48f98bf72e832556b298c84b1f7e
+size 217

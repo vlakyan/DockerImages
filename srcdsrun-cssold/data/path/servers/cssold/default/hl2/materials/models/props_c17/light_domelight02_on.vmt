@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/light_domelight02_on"
-	"$surfaceprop" "glass"
-	"$selfillum" 1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:38981e7ccb107958f454cc8f56011b2b8bcf7143c038416cf575bdb9991ffe62
+size 127

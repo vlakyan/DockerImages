@@ -1,11 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_wasteland/kitchen_shelf001a"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$envmaptint" "[.35 .33 .35]"
-//	"$envmapsaturation" "0.6"
-//	"$envmapcontrast" "1"
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b272b2c7deac414aca518d642d08bcf35ef685a561ddb2bef49f1d46017e7614
+size 268

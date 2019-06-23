@@ -1,7 +1,3 @@
-"unlitgeneric"
-{
-	"$additive" 1
-	"$basetexture" "_rt_SmallFB0"
-	"$ignorez" 1
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b701b77187cfd25c6b8b3e019946cb2cad94f03b90dee4bc658fae4bbc8a0c0b
+size 97

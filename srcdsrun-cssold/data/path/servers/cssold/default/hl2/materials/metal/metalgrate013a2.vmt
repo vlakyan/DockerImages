@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalgrate013a"
-	"%compilepassbullets" 1
-	"$surfaceprop" "metalgrate"
-	"%keywords" "airexchange,c17industrial,combine,wasteland"
-	"$translucent" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c1c739703c7881900219a5e0d1b03ab3f1cebec96cf83d2e75ae388a1aa0e01
+size 203

@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_interiors/Radiator01b"
-	"$surfaceprop" "metal"
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:98a2fdff9044d31a6cf5ab6b258c276dec97060d89e54edddea47f963d6917cb
+size 109

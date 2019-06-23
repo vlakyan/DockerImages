@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Dog/eyeglass"
-	"$translucent" "1"
-	"$envmap" "env_cubemap"
-	"$envcontrast" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f077af00d07f54a038b4fdd31ba952b924a5b7db39e54734b8e4e0d59a0f6b94
+size 133

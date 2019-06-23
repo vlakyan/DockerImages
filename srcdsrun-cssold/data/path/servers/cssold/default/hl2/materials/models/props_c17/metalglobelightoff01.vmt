@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_c17/metalglobelightoff01"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:afcd48cf857af9cb56a50750d6d63a974c5b5730cd6112921402206e04408cd2
+size 147

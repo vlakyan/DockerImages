@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/dirtwall001a"
-	"$surfaceprop" "dirt"
-	"$bumpmap" "Nature/dirtwall001a_normal"
-	//"$parallaxmap" "Nature/dirtwall001a_height"
-	//"$parallaxmapscale" ".025"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2991c310598c9e06b796061ae1c176006d81dc0d7f378ab9d4a25718f37b090b
+size 212

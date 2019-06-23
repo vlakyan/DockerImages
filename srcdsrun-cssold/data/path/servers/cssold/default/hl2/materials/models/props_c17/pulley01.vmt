@@ -1,8 +1,3 @@
-
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_c17/pulley01"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:726178611d3a251b5fda36b2a9642423e284aced54c30b3bfffcb350eb1dc71d
+size 139

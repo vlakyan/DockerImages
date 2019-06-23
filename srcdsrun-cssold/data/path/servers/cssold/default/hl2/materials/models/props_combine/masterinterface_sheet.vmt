@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Models/props_combine/masterinterface_sheet"
-	"$surfaceprop" "metal"
-	"$selfillum" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:baaabbbe9521db8726301ff2e0de422c73cc2bda21b88756cab488ce0ae04f80
+size 172

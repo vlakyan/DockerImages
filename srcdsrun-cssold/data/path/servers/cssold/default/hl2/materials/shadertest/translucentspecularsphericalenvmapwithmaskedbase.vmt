@@ -1,9 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: TranslucentSpecularSphericalEnvMapWithMaskedBase
-	"$additive" 1
-	"$basealphaenvmapmask" 1
-	"$basetexture" "shadertest/TranslucentSpecularSphericalEnvMapWithMaskedBase"
-	"$envmap" "shadertest/TranslucentSpecularSphericalEnvMapWithMaskedBase_env"
-	"$envmapsphere" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:84dd428c0c08aaddaf91fd50f36db8a2284c560403fcfeca0b9b57fb4b1730f8
+size 313

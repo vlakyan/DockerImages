@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_combine/weaponstripper_sheet"
-	"$surfaceprop" "metal"
-	"$envmapmask" "Models/props_combine/weaponstripper_mask"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .5 .7 1]"
-	"$selfillum" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8bd6e4152b5c6892aa6a0d4f74d583a7d9848b61ef2054aab647ef1630befb5
+size 245

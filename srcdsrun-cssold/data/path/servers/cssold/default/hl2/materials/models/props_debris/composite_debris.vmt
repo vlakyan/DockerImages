@@ -1,8 +1,3 @@
-
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_debris/composite_debris"
-	"$surfaceprop" "concrete"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc91ceb96b7eda850e028dac9596d173d7898c633deeede500a1851c7bc32db5
+size 153

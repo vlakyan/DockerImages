@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	"$translucent" 1
-	"$basetexture" "models/Alyx/hairbits"
-	"$halflambert" 1
-	"$nodecal" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfcaa8bc89068226c2c8692826237f9c7219ac347d8aff4770ed3f52cb89ee19
+size 171

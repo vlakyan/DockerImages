@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
- 	"$model" 1
-	"$basetexture" "models/props_c17/fisheyelensdx7"
-	"$additive" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:34904c97b829e48d54162218b776a821a522bab051cc76a3f79bd24ab02635b1
+size 105

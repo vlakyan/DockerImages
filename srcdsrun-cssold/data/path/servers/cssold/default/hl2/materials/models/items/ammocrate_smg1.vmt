@@ -1,10 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/Items/ammocrate_smg1"
-	"$bumpmap" "Models/Items/ammocrate_normal"
-	"$normalmapalphaenvmapmask" 1
-	"$envmap" "env_cubemap"
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	//"$envmaptint" "[ .5 .5 .5]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:10826f61e1b5689461b00e5888c7a2bf0a99891462d9cb971a608882df25b315
+size 254

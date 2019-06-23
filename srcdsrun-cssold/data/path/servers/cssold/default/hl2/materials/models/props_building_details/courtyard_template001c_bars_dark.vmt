@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_building_details/courtyard_template001c_bars_dark"
-	"$surfaceprop" "metal"
-	"$basealphaenvmapmask" 1
-	"$envmap" "env_cubemap"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f66169e4c408e9d18f562b95df1757491aac23ce49a7537cc6740546bba2a7eb
+size 186

@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/old_Cexplo"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3093bcdf5dfe55100e5322c6fa51cb44333263bc2bbe2bd56ba016137860898b
+size 125

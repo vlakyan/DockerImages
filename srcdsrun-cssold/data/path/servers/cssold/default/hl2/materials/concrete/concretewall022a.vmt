@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Concrete/concretewall022a"
-	"$surfaceprop" "concrete"
-	"%keywords" "c17downtown,wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:beb74feaab66379366e22e97fe5821f481dc3a2ce7c00d16aceab99bc0be239b
+size 179

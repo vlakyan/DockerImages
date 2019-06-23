@@ -1,5 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "shadertest/LightmappedGeneric"
-	"$envmap" "shadertest/shadertest_env"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f78d2b886e39b32973fca68570b5e6a805abd38fbf1b317d21fc9f095e681e23
+size 117

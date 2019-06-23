@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: SphericalEnvMap
-	"%tooltexture" "shadertest/envmap"
-	"$envmap" "shadertest/envmap"
-	"$envmapsphere" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:87c0be58ea25e8c74a1eefea4c0315424fa7815c1334d31ec38703761c127e96
+size 149

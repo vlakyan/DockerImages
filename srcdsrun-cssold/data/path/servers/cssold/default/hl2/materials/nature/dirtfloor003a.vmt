@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Nature/dirtfloor003a"
-	"$surfaceprop" "dirt"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:88be73e70174eccbf5377523907b2868e528ee96f3e6736824b93eb689270cfd
+size 132

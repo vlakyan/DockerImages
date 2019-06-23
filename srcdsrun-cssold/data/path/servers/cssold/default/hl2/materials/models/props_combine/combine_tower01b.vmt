@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_combine/combine_tower01b"
-	"$surfaceprop" "metal"
-	"$translucent" 0
-	"$nocull" 1
-	"$envmap" "env_cubemap"
-	"$envmapmask" "Models/props_combine/combine_tower01b_mask"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d69d1129989864af0b0975af35336afcdaa266dbd3f83a116b86716a0484ed1c
+size 226

@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_animated_breakable/Smokestack/brick_chimney01"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:766d2064d2c927a7063fc25101ea6a96a142d3f4242e348fae8757af8e6031ed
+size 143

@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_citizen_tech/Wind_Mill_Blade004b"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .5 .5 .5]"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a3f68adaad60efa727399006057a739885123cc81af9d9a12e8fb00eb93276a
+size 199

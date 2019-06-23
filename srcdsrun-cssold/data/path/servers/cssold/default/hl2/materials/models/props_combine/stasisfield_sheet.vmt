@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_combine/stasisfield_sheet"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3f89bb6c4f9c0fc50213a40f6fee2139f435dbb9256aa990c58bdf2bc9782e8
+size 109

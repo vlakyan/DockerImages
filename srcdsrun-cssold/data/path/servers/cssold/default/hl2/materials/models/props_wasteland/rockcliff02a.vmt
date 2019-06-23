@@ -1,10 +1,3 @@
-"vertexlitGeneric"
-{
-	"$basetexture" "Nature/cliffface001a"
-	"$surfaceprop" "concrete"
-	"$bumpmap" "Nature/cliffface001a_normal"
-//	"$parallaxmap" "Nature/cliffface001a_height"
-//	"$parallaxmapscale" ".1"
-	"$model" 1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1464607ed7ecd253f3d3c16202134be82ea125874e7ab481801c68d8a1f3fb67
+size 230

@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: CubicEnvMapBlendMaskedBaseTimesLightmap
-	"$basealphaenvmapmask" 1
-	"$basetexture" "Metal/metalwall033a"
-	"$envmap" "env_cubemap"
-	"$surfaceprop" "metal"
-	"%keywords" "c17industrial,combine"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:36943fb1ce393d5d149eea2ce14c10eae9ed079f60b19d2ac634ca952098cb7d
+size 245

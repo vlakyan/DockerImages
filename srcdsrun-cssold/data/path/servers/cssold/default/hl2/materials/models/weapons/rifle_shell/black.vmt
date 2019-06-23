@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/rifle_shell/black"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:697c7ef0fdd5d9bc04497be6c7f11c80149b0461824a69c369361113f0f83e22
+size 117

@@ -1,4 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Weapons/W_rocket_launcher/w_rpg_sheet"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e1e5b9f34a2b9dd868304205e07db856fa9fcf64affaff17ec140301523c96f
+size 90

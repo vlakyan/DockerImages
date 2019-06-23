@@ -1,10 +1,3 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "nature/rockfloor005a"
-	"$basetexture2" "nature/sandfloor009a"
-	"%tooltexture" "nature/blendrocksand004a_tooltexture"
-	"%keywords" "wasteland"
-        "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
-        "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 10 translate 0 0"
-	"$bumpmap" "nature/rockfloor005a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e6fd7d1dafc91dea560558eaff2241f8bbde98b9f5a2333749f97ab7fbbfea5
+size 401

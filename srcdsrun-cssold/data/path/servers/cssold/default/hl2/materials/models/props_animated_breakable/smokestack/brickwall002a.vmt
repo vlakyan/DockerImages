@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_animated_breakable/Smokestack/brickwall002a"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb8febc1108a3586537bb7766e0fee344fc715c983b074167d8f303ced963778
+size 141

@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/glow03"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e2843d8fd3867a8bd6015fff292db3b7147ce3099cbea3e6996a2e78c68cf60
+size 121

@@ -1,12 +1,3 @@
-
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_borealis/borealis_door001a"
-	"$envmap" "env_cubemap"
-	"$nocull" 1
-	"$translucent" 1
-	//"$envmapmask" "Models/props_borealis/borealis_door001a_mask"
-	"$envmaptint" "[ .001 .001 .001 ]"
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:41ef9c1d32f9d7b175a675a68ee7ef7520dfe74d65160246fc153c615ff59d7c
+size 252

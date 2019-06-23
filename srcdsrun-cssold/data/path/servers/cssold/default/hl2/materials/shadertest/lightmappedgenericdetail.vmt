@@ -1,30 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "shadertest/LightmappedSelfIlluminatedTexture"
-	"$envmap" "shadertest/shadertest_env"
-	"$envmapmask" "shadertest/LightmappedGeneric_envmask"
-	"$envmapmaskscale" 4
-	"$selfillum" 1
-	"$vertexcolor" 1
-	"$detail" "shadertest/shadertestdetail"
-
-	"Proxies"
-	{
-		// Tints are sinusoidal
-		"Sine"
-		{
-			"sineperiod" 10.00
-			"sinemin" 0
-			"sinemax" 1
-			"resultVar"	"$envmaptint[0]" 
-		}
-
-		"Sine"
-		{
-			"sineperiod" 1.00
-			"sinemin" 0
-			"sinemax" 1
-			"resultVar"	"$selfillumtint[2]" 
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:105e8ff4c277e0dd7e19476f4f6fa39ae0af517781b9282edf83b20fce81bc07
+size 560

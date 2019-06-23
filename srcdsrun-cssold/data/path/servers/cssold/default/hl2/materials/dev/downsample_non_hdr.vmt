@@ -1,5 +1,3 @@
-"Downsample_nohdr"
-{
-	"$basetexture" "_rt_FullFrameFB"
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6304083f2f19f4779773a8161330030e8e3651f892d30c2438d260ae76a2b185
+size 82

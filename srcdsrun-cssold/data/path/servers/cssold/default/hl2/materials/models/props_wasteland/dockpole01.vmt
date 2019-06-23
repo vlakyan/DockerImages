@@ -1,8 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_wasteland/dockpole01"
-	"$surfaceprop" "wood"
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c107a496cf41eb275524a500675f05a1c15c8ace44a4fc889981924468ae725
+size 147

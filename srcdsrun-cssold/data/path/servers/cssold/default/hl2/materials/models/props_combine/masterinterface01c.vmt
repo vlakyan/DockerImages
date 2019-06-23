@@ -1,20 +1,3 @@
-"Unlittwotexture"
-{
-	"$basetexture" "Models/props_combine/masterinterface01c"
-	"$texture2" "Models/props_combine/masterinterface01c"
-	"$selfillum" 1
-	"$model" 1
-	"Proxies"
-	{
-
-		"TextureScroll"
-		{
-			"texturescrollvar" "$texture2transform"
-			"texturescrollrate" 55
-			"texturescrollangle" 20
-		}
-	}
-
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe09c6d53b660583d4d62e50abfdf88a0f019cd41f45eeaf8f783c6acb9ac9b1
+size 326

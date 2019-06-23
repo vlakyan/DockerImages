@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_citizen_tech/citizen_trap002"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f64c45295ff45ab1c802b6910658d914f8fd2d3b1d5b8c2bed190635abcca85a
+size 165

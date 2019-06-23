@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" 		"vgui\resource\icon_steam"
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" 1
-	"$no_fullbright" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:635308b4e66386a9ab5d9291d5b5da9137b6d85d12b4b9e40b2abb624d94a33d
+size 142

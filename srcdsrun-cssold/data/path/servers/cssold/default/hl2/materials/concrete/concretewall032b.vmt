@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Concrete/concretewall032b"
-	"$surfaceprop" "concrete"
-	"%keywords" "c17sewers,wasteland"
-	"$bumpmap" "Concrete/concretewall032b_normal"
-	"$parallaxmap" "Concrete/concretewall032b_height"
-	"$parallaxmapscale" ".05"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6122a23014c78d18ac61cddd800eb791b373535d1ab062dcf13017fb1b1a1eaf
+size 265

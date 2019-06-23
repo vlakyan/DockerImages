@@ -1,20 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "shadertest/LightmappedBaseAlphaMaskedEnvMappedTexture"
-	"$envmap" "shadertest/shadertest_env"
-	"$basealphaenvmapmask" 1
-	"$multipass" 1
-	"$envmapmode" 1
-
-	"Proxies"
-	{
-		// Alpha is sinusoidal
-		"Sine"
-		{
-			"resultVar" "$alpha"
-			"sineperiod" 4.00
-			"sinemin" 0.5
-			"sinemax" 1
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bca853195584333c597b6e062b613a513570a06b4463590162c1c5af40276c23
+size 352

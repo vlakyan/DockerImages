@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/player/player_chrome1"
-	"$surfaceprop" "flesh"	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bba99f028e1c97df26e79cd88f9ddb5a2c349ec3b0093a58e8ee58018fcd9f3
+size 139

@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Concrete/concretewall037d"
-	"$surfaceprop" "concrete"
-	"%keywords" "c17sewers"
-	"$bumpmap" "concrete/concretewall037a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6885738c35f9b954c2c52c125b350ff9df581b6d142278a2bd12dca3d4cd91c9
+size 175

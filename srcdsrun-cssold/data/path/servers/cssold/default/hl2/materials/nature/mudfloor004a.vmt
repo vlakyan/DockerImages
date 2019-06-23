@@ -1,12 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/mudfloor004a"
-	"$surfaceprop" "dirt"
-	"%keywords" "wasteland"
-	"$bumpmap" "Nature/mudfloor004a_normal"
-	//"$normalmapalphaenvmapmask" 1
-	//"$envmapcontrast" 1
-	//"$envmapsaturation" 1
-	//"$envmaptint" "[ .75 .75 .75]"
-	//"$envmap" "env_cubemap"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1319bed19656a83cb7ddd280cca9d07902461f8439bc55e99fe3e76d8f92dc6f
+size 306

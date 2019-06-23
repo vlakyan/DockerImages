@@ -1,5 +1,3 @@
-"Sprite"
-{
-	"$basetexture" "sprites/hud1"
-	"$ignorez" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:63427ea42c622ac7e128bf4b1dbfe18d11aa424001ab39bfe17c7dd97d6872f1
+size 63

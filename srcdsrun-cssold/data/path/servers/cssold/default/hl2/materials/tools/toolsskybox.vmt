@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Tools/toolsskybox"
-	"%compilesky" 1
-	"$surfaceprop" "default_silent"
-	"%keywords" "airexchange,borealis,c17downtown,c17industrial,c17sewers,c17skyscraper,c17trainstation,combine,kraken,wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:965ec64ab9377988519b76326f492bc3178fbe964ae9c5d29d36feae26b6a20d
+size 285

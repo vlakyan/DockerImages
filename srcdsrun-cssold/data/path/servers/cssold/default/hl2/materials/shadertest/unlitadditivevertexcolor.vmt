@@ -1,16 +1,3 @@
-"UnlitGeneric"
-{
-	"$additive" 1
-	"$vertexcolor" 1
-
-	"Proxies"
-	{
-		"Sine"
-		{
-			"resultVar" "$COLOR"
-			"sineperiod" 2.00
-			"sinemin" 0
-			"sinemax" 1
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dce9cc0fef554ced937ecc83b5d534873b06796fc13cdda0859d7b2da6e89c17
+size 178

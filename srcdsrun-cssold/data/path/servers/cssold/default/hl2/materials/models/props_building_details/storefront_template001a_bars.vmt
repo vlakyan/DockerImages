@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_building_details/storefront_template001a_bars"
-	"$surfaceprop" "metal"
-	"$nocull" 1
-	//"$translucent" 1
-	"$alphatest" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b149401c147b8257f96b48956522167b1390b5ba94c94981d51015c139dfd87
+size 181

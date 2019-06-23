@@ -1,9 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_vehicles/tire_composite001a"
-	"$surfaceprop" "rubbertire"
-	//"$envmap" "env_cubemap"
-	//"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aed813bce163edc0930d235f7b60a14518c0bab648a9a9dacfef1887bbdaed8
+size 214

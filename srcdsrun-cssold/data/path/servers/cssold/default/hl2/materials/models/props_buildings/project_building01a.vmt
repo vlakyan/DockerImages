@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-     "$basetexture" "models\PROPS_BUILDINGS\project_building01a"
-     "$surfaceprop" "concrete"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a65a5c334473bec24470775649d318770ab1d32cded42ed5e98f27f0ec8dcdc
+size 122

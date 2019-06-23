@@ -1,9 +1,3 @@
-"Cable"
-{
-	"$basetexture"		"cable\rope"
-	"$bumpmap"			"cable\cablenormalmap"
-	"$vertexcolor"		1
-	"$nocull"			1
-	"$MinLight"			0.25
-	"$MaxLight"			1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d18a73bd191c5ae9710e9353dbcacc555c53cab2a8a1d36bc974a270e024a5e5
+size 159

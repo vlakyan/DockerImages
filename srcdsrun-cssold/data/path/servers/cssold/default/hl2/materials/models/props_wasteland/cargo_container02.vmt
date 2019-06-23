@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-     "$basetexture" "models\props_wasteland\cargo_container02"
-     "$surfaceprop" "metal"
- //    "$envmap" "env_cubemap"	
- //    "$basealphaenvmapmask" 1
-	"$bumpmap" "models\props_wasteland\cargo_container01_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:217d0cc0c1f88230d816be5f226781e3970cd2fbc2ac8519f62517d4f47db31b
+size 246

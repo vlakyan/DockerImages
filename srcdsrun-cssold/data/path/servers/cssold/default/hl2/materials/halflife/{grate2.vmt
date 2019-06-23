@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "halflife/{grate2"
-	"$surfaceprop" "metalgrate"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd3cb055e4ae83f43c7a1bfc562ba9f4da257749596b2ce173b7aa29aff70e78
+size 163

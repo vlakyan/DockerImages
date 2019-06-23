@@ -1,14 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/rockwall015a"
-	"$surfaceprop" "concrete"
-	"$bumpmap" "Nature/rockwall015a_normal"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .56 .56 .56 ]"
-	"$envmap" "env_cubemap"
-	//"$parallaxmap" "Nature/rockwall015a_height"
-	//"$parallaxmapscale" ".3548"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fa1155dcff33010418c48f0c06e51514167b36737eea7d123fcd7cf7c7fdb24
+size 374

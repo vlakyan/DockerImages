@@ -1,6 +1,3 @@
-"eyes"
-{
-	"$basetexture" "models/Odessa/eyeball_r"
-	"$iris" "models/Odessa/pupil_r"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2788a7afbb554119cd959484c3673112ece7ef3cc0007617e21c6d15be09c5a
+size 110

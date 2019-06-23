@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: SphericalEnvMapBlendMaskedBaseTimesLightmap
-	"$basetexture" "Metal/metalfloor010a"
-	"$surfaceprop" "metalpanel"
-	"%keywords" "borealis"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ed5fa28f46b0919ad8b22a48662a5b978d55e42f086085a5b77b664fc8eb6dc
+size 189

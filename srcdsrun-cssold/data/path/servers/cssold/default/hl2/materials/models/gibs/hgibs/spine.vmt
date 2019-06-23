@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Gibs/HGibs/spine"
-	"$bumpmap" "models/gibs/hgibs/spine_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ea7152276506ada24647464cb0e1c8d9812d2d7ae3746b1c5b7955ece3086c9
+size 234

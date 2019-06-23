@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/W_stunbaton/stunbaton"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e31df20f595e96039bf9e21e966ce04fc6e99ea6e8b230e3028e226c11c5dfb
+size 121

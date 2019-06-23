@@ -1,6 +1,3 @@
-"eyes"
-{
-	"$basetexture" "models/eli/eyeball_l"
-	"$iris" "models/eli/pupil_l"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d591f7d70a009ab59e8bd64a19385a505e8e1e6c647dd884aef16a17e4bf303
+size 104

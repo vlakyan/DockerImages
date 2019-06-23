@@ -1,12 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/Combine_Turrets/Ground_turret/ground_turret01"
-	//"$surfaceprop" "metal"
-	//"$nocull" 1
-	"$envmap" "Environment Maps/envmapcombine"
-	//"$envmap" "env_cubemap"
-	"$envmapsphere" 1
-	"$envmaptint" "[ .1 .1 .1]"
-	//"$basealphaenvmapmask" 1
-	//"$envmapmask" "Models/Combine_Dropship/combine_dropship01_mask"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1348cce19871c90ee24b7200e13e632566474ca49ce5c5ab210ee562660dd3c
+size 359

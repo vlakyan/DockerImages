@@ -1,13 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Wood/wooddoor007a"
-	"$surfaceprop" "wood"
-	"$bumpmap" "Wood/wooddoor007a_normal"
-	"%keywords" "c17downtown"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" .2
-	"$envmaptint" "[ .25 .25 .25 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5702b0bdd9eefd59674dad486bf1f67f452738ffec1deea58f0b5647e635819c
+size 315

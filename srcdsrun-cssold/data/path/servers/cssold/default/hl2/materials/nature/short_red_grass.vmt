@@ -1,10 +1,3 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "nature/dirtfloor011a"
-	"$basetexture2" "nature/dirtfloor006a"
-	"%tooltexture" "nature/dirtfloor011a"
-        "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0  translate 0 0"
-        "$basetexturetransform2" "center .5 .5 scale 4 4 rotate 0 translate 0 0"
-	"%detailtype" "short_redgrass"
-	"%keywords" "wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2155fdcab32676c9fb82caeec2c4fe22919ffe601b28e099d2d182f74fc67e9
+size 375

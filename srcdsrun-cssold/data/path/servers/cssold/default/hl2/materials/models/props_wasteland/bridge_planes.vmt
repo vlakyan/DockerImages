@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$alphatest" 			1
-	"$baseTexture"			"models/props_wasteland/bridge_planes"
-	"$model" 1
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:07b04f02c7a0bea63d5ae6f2d149a8afa56cfef9e12a29d22cfa0cb01248962d
+size 131

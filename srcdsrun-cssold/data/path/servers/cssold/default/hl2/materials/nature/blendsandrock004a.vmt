@@ -1,10 +1,3 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "nature/sandfloor009a"
-	"$basetexture2" "nature/rockfloor002a"
-	"%tooltexture" "nature/blendsandrock004a_tooltexture"
-	"%keywords" "wasteland"
-	"$surfaceprop" "sand"
-	"$bumpmap" "Nature/sandfloor009a_normal"
-	"$bumpbasetexture2withbumpmap" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d663dae43eb177d45c8e23c766bb095979dcabc121503fe51368cf054d563f2
+size 298

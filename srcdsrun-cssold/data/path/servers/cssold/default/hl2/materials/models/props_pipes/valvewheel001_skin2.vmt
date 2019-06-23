@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/props_pipes/valvewheel001_skin2"
-	"$surfaceprop" "metal"
-//	"$envmap" "env_cubemap"
-// 	"$basealphaenvmapmask" 1
-//	"$envmaptint" "[ .125 .125 .125]"
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1449f195ddca45b6f3d12d465eff690c8f0c341e8f2788211010719393068ac7
+size 207

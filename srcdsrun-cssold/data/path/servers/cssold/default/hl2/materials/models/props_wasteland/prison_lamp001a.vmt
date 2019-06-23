@@ -1,10 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_wasteland/prison_lamp001a"
-	"$selfillum" 1
-	"$surfaceprop" "metal"
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:27f399381fa8f3574a7bb67739036a5fa36eda62b7fff4baf20a4e414ba604cd
+size 171

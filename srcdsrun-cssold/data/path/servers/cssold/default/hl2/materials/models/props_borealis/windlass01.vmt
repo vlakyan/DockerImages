@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$baseTexture" "models/props_borealis/windlass01"
-	"$surfaceprop" "metal"
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:26a3ad1ffdf13938eaa0408509ddd1b3dfbc179dab60a31151a194fa988bfe60
+size 144

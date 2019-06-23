@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/combineball_glow_red_1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbeccc3da31dec82722effdd8ce097f55e88e4f20374e5f7e530d8b5495ce52f
+size 137

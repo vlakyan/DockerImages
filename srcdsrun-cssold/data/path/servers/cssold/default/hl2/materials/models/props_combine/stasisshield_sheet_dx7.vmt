@@ -1,24 +1,3 @@
-"UnlitTwoTexture"
-{
- 	"$model" 1
-    "$nocull" "1"
-	"$basetexture" "models/props_combine/stasisshield_dx7"
-	"$texture2" "models/props_combine/stasisshield_dx7"
-
-	"$additive" "1"
-	"Proxies"
-	{
-		"TextureScroll"
-		{
-			"texturescrollvar" "$basetexturetransform"
-			"texturescrollrate" .08
-			"texturescrollangle" 70
-		}
-		"TextureScroll"
-		{
-			"texturescrollvar" "$texture2transform"
-			"texturescrollrate" -.08
-			"texturescrollangle" 30
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:256d812e505a53f3a76aeaa1be73ac2afb7a0948d32ff015c35e68a3572d1540
+size 471

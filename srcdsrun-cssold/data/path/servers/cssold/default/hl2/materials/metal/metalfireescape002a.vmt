@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Metal/metalfireescape002a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17downtown"
-	"$nodecal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:abfdcecc9b04efa545f1a7963b50afe3dec7ac9e4a6646923a9d060bc57ba5ed
+size 210

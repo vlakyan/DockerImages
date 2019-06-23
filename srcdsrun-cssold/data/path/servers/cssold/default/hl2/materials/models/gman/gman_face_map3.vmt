@@ -1,12 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/gman/gman_face_map3"
-	"$bumpmap" "models/gman/gman_normal"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .04 .04 .04 ]"
-	"$envmapconstrast" "1"
-	"$normalmapalphaenvmapmask" 1
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7807ccd039539992da8cec27abf05106314330a26706f3658e9bea45b56054ab
+size 305

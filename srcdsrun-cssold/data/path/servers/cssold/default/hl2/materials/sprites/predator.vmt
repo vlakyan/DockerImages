@@ -1,6 +1,3 @@
-"predator"
-{
-	"$color" "[1 0 0]"
-	"$model" "0"
-	"$refractionAmount" "[.005 .005]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2c66e6e6ad35b7bc811219cfb66bcd8223f3ba70a123bb487ac51d1de4eef6a
+size 90

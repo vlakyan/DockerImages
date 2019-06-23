@@ -1,24 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Effects/slimebubble_sheet"
-	"$nocull" "1"	
-	"$translucent" "1"
-	"$alphatest" "1"
-	"$model" "1"
-	"$no_fullbright" 1
-
-	"Proxies"
-	{
-
-		"TextureScroll"
-		{
-			"texturescrollvar" "$basetexturetransform"
-			"texturescrollrate" .9
-			"texturescrollangle" -90
-		}
-
-
-	}
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e69a4f83c836570fab29ea6001f034d09659749e2c84b93ec5e39af3c9ed4c
+size 335

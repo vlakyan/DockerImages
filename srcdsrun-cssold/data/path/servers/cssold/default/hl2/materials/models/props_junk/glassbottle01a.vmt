@@ -1,11 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_junk/GlassBottle01a"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$surfaceprop" "glass"
-	
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfc96d05944b289477c9c95b774d7664e848561a0185ba6102c38c7edbeffbe3
+size 202

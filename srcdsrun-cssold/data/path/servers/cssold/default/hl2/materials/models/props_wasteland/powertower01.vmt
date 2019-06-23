@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture"			"models/props_wasteland/powertower01"
-	"$alphatest"				1
-	"$nocull"					1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cb1e83c4b3aae751f5705d0ccb569f7442cfbc53ff44d8c2935ae2fde9bc344
+size 121

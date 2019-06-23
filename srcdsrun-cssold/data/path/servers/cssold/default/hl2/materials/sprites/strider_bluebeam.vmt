@@ -1,7 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/strider_bluebeam"
-	"$spriterendermode" 5
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:598211070b33b1c2a7a4663f314ab89313e0917618da12d7cb5bd9dc1dd7fce5
+size 155

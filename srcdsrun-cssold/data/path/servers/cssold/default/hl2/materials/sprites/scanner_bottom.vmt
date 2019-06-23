@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "sprites/scanner_bottom"
-	"$translucent" 1
-	"$spritesize" 19
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d49fec9ad9666d7319359ee058496f39d2b0e9e26224a3b50401e7a59879f127
+size 102

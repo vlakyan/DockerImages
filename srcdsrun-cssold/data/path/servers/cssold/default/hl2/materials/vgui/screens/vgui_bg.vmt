@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui\screens\vgui_bg"
-
-	"$vertexcolor"		1
-	"$ignorez"		1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:706a856db2db6db89c8b609875fa93874b5b5149a4c888bfa453da49ac8dbaab
+size 100

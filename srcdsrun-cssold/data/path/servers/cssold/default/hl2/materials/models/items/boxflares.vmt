@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/Items/BoxFlares"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f1f9e09c49595adad3ecafdb8525d4b52511407eee8f88d722b58e1056d1d8e
+size 107

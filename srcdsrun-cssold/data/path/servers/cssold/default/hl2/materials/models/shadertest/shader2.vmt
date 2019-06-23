@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/shadertest/shader2"
-	"$bumpmap" "models/shadertest/shader2_normal"
-	"$normalmapalphaenvmapmask" 1
-	"$envmap" "Env_cubemap"
-//	"$envmaptint" "[.5 .5 .5]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1918d896dd6b79389fc4d8faae2edda578a9095fc58d820dda2a41e14a59e6f7
+size 208

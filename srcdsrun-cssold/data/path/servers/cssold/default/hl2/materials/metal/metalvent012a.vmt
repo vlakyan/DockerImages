@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalvent012a"
-	"$surfaceprop" "metalvent"
-	"%keywords" "c17industrial"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:caae1343ae583b3aaa57eff30a71d50abb3b7250c57c752ca52f086572b332c9
+size 126

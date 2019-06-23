@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "halflife/black"
-	"$surfaceprop" "default"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e2b61fcf10dacb75f9ea65feb5b1113901e069d5ded2b40f703d2ac0d1e0ada
+size 129

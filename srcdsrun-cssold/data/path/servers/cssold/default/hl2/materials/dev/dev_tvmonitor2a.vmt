@@ -1,27 +1,3 @@
-"MonitorScreen"
-{
-	"$basetexture" "_rt_Camera"
-	"%tooltexture" "dev/dev_monitor"
-	"$surfaceprop" "glass"
-	"$texture2" "Effects/security_noise2"
-	"$saturation" "0"
-//	"$contrast" ".5"
-	"$tint" "[.8 .9 1]"
-	"$texture2transform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
-
-	"Proxies"
-	{
-		"AnimatedTexture"
-		{
-			"animatedtexturevar" "$texture2" 
-			"animatedtextureframenumvar" "$frame2"
-			"animatedtextureframerate" .3
-		}
-		"TextureScroll"
-		{
-			"texturescrollvar" "$texture2transform"
-			"texturescrollrate" 60
-			"texturescrollangle" 90
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed235a2411b645c5c14ac3366cd523a4d9e68c80294f04f7d8c2698a4166f1a
+size 583

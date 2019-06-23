@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/physring1-"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c06d6c8ff1888d81a4494e300c63fc5a921018b7fc1427aaaa301a023f2edb3
+size 125

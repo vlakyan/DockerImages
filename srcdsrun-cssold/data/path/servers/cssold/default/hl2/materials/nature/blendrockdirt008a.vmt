@@ -1,12 +1,3 @@
-
-//Coast bumpmap upgrade. Please excuse the hackiness.
-"LightmappedGeneric"
-{
- "$basetexture" "Nature/cliffface001a"
- "$surfaceprop" "dirt"
- "$bumpmap" "Nature/cliffface001a_normal"
- "$parallaxmap" "Nature/cliffface001a_height"
- "$parallaxmapscale" ".025"
- "$basetexturetransform" "center 0 0 scale 2 2 rotate 0 translate 0 0"
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c55db33abaeb6ad21621e3e461c4074e4549c6803e8253c07807ffbffb2179e
+size 342

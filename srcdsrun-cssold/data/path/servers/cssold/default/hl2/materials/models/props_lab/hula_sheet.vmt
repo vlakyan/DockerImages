@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/props_lab/hula_sheet"
-	"$selfillum" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6077fd6fd70f44e5a6888990cbcb75697f9110fe71083c6fc8ad135178f490b5
+size 92

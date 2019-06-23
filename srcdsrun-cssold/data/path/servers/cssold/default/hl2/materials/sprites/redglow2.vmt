@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/redglow2"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f866956052842e83bb6cd75f3b0918ea3d99780525a87041ec29302a5144c8fe
+size 123

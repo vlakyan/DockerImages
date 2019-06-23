@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/Flare/shellside"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0511802c51ca005c93ed3b4eedc177fa041d86aa230d290b9e5e3cb50df85366
+size 115

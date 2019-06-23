@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "glass/glasswindow031b"
-	"$envmap" "env_cubemap"
-	"$surfaceprop" "glass"
-	"%keywords" "c17industrial"
-	"$envmapmask" "glass/glasswindow031b_mask"
-	"$translucent" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea162def331d8782fe161312f05d0cce9c6aceb3388ddd1ce935b520b540c766
+size 214

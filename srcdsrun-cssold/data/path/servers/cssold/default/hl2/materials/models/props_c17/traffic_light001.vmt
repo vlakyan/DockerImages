@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/traffic_light001"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9b77149c5bbeae6ce801e541aad56fd45501b25a09a0283ce7e241f696abd7
+size 104

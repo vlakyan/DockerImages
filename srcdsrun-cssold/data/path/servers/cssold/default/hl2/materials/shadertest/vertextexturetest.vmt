@@ -1,7 +1,3 @@
-"vertextexturetest"
-{
-	"$basetexture" "debug/debugempty"
-	"$basetexture2" "debug/debugluxels"
-	"$basetexture3" "brick/brickfloor001a"
-	"$basetexture4" "brick/brickwall001a"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb12caa81837dfa0b583665be985d6dadac6a4f8f1a4a511bca40bef30ae25a3
+size 182

@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$alphatest" 			1
-	"$baseTexture"			"models/props_canal/canal_bridge02"
-	"$model" 1
-	//"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f1ea012aeb39974498d44d07b47fb59136fb2f7e4b9e01987b1957c738289ca
+size 130

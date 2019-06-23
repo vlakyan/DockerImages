@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Plaster/plasterwall039c"
-	"$surfaceprop" "plaster"
-	"%keywords" "c17downtown,c17skyscraper"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f11299ec0f9c7b92b3a92b5e99bc856ad0e72d902eb2878a20e5305d9aebf1c0
+size 178

@@ -1,24 +1,3 @@
-"UnlitGeneric"
-//"Modulate"
-{
-	"$baseTexture" "Models/Effects/comball_sphere"
-//	"$nocull" "1"	
-	"$additive" "1"
-	"$translucent" "1"
-	"$model" "1"
-	
-	"Proxies"
-	{
-
-		"TextureScroll"
-		{
-			"texturescrollvar" "$basetexturetransform"
-			"texturescrollrate" 1
-			"texturescrollangle" -80
-		}
-
-
-	}
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:29a51ccd11fffbab9e1c25323510d5c70eb49674b1ae13196a85bc600b17b448
+size 322

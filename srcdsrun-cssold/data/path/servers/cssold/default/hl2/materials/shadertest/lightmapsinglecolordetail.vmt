@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: Lightmap
-	"%tooltexture" "shadertest/Lightmap"
-	"$detail" "shadertest/shadertestdetail"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4c58b89b2fa07812d111efa0e10c8b0413f827705ab1067f108de5450c46e96
+size 140

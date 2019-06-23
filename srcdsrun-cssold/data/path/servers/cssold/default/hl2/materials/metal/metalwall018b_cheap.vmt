@@ -1,11 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalwall018b"
-	"$surfaceprop" "metal"
-	"%keywords" "c17industrial,wasteland"
-
-	"LightmappedGeneric_DX9"
-	{
-		"$bumpmap" "Metal/metalwall018b_normal"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef53effe8a5d7dc106bc570abe3429a4ff17527ab263ced17e308f2618d4a2ef
+size 212

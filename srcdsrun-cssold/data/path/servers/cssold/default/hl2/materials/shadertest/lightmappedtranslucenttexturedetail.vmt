@@ -1,34 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "shadertest/LightmappedTranslucentTexture"
-	"$translucent" 1
-	"$detail" "shadertest/shadertestdetail"
-
-	// Fallback test
-//	"LightmappedGeneric_DX6"
-//	{
-//		"Proxies"
-//		{
-//			// Alpha is sinusoidal
-//			"Sine"
-//			{
-//				"resultVar" "$color[1]"
-//				"sineperiod" 4.00
-//				"sinemin" 0.5
-//				"sinemax" 1
-//			}
-//		}
-//	}
-
-	"Proxies"
-	{
-		// Alpha is sinusoidal
-		"Sine"
-		{
-			"resultVar" "$alpha"
-			"sineperiod" 4.00
-			"sinemin" 1
-			"sinemax" 1
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8074f3314cf642ea897dd1b43bc076f822d0b443e1d7b96042d112b1e807f400
+size 541

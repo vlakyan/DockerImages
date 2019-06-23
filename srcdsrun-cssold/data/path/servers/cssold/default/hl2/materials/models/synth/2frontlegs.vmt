@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Synth/2frontlegs"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:956022287e38cd678477cfca6981588ecd94a4aaf981f137c99c037ac6c4430d
+size 108

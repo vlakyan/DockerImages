@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Wood/wooddoor012a"
-	"$surfaceprop" "wood"
-	"%keywords" "c17industrial,wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d20745585fb4403a84f610900fe31be40d4248a39890564ea1135cf60febf2c5
+size 169

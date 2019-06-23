@@ -1,16 +1,3 @@
-// envmaptint_fix
-"vertexlitGeneric"
-{
-	// Original shader: BaseTexture
-	"$basetexture" "models/props_c17/door01a_skin14"
-	"$surfaceprop" "wood"
-	"$bumpmap" "models/props_c17/door01a_skin14_normal"
-	"%keywords" "c17downtown"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" .2
-	"$envmaptint" "[ .56 .56 .56 ]"
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1abad3232a54d07ddd7f12289f375539417c9e2e2f54bd283bdb60510d25fe4a
+size 379

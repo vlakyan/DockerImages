@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/blood"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a854ec91cfa19cc6491a1ec30ad81e92461518cc78a1164dcdb4afbbcc622ff
+size 120

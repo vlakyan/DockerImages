@@ -1,13 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Dev/water_normal"
-	"$surfaceprop" "water"
-	"Proxies"
-	{
-		"MaterialModify"
-		{
-			// fixme!  This has to be here, or material loading barfs.
-			"dummy" 0
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:007f7a98a0982aeea958f2fc55b0cc5ebe27c6b923c0f723adc164daa27e20b1
+size 216

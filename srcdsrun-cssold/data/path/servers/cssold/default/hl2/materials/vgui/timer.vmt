@@ -1,10 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" 		"vgui\timer"
-// Uncomment this if you add an alpha channel to the base texture
-	"$translucent" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" 1
-	"$no_fullbright" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4076a42ff849399e9eceac000e26d9694ff138b1d98a74444ab9e557feeb973
+size 214

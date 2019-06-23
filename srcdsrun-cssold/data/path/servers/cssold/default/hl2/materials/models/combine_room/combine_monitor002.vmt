@@ -1,21 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-	//"$baseTexture" "Models/Combine_Room/combine_monitor002"
-	//"$surfaceprop" "metal"
-	//"$envmap" "Environment Maps/envmapcombine"
-	//"$envmap" "env_cubemap"
-	//"$envmaptint" "[ .04 .04 .04 ]"
-
-	"$baseTexture" "Models/Combine_Room/combine_monitor002"
-	"$surfaceprop" "metal"
-	"$bumpmap" "models/Combine_Room/combine_monitor002_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .56 .67 .75 ]"
-
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:15a2d3b6b17ea4130da0935ddd76d27803e54e14b1326dd027c671e24f7ae655
+size 533

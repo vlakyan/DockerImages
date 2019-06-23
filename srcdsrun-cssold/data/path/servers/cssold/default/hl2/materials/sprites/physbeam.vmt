@@ -1,7 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "parallel_upright"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/physbeam"
-	"$spriterendermode" 5
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7a249ca9d121690bb5530028dcbe7ee45d6184ecea95324bc5e9d268cec33b2
+size 152

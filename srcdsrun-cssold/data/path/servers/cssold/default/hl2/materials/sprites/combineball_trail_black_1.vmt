@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/combineball_trail_black_1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:afb256a53e42b545d0757331c0816b6135674fa43946b00664fe837893a50d26
+size 140

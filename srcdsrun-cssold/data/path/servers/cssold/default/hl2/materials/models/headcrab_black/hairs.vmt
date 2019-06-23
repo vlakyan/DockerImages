@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/Headcrab_black/hairs"
-	"$translucent" 1
-	"$nocull" 1
-	"$nodecal" 1
-	"$clamps" 1
-	"$clampt" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:150c882a38f2c7ac505c06f4c31a4488b53a0922a655cc4d4326c400557a574b
+size 149

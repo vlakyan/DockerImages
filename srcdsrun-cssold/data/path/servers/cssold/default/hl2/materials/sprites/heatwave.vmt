@@ -1,18 +1,3 @@
-"Refract"
-{
-	"$model" 1
-	"$dudvmap" "effects/fisheyelens_dudv"
- 	"$normalmap" "effects/fisheyelens_normal"
- 	"$refractamount" "-.007"
-	"$vertexalpha" "1"
-	"$vertexcolor" "1"
-	"$translucent" "1"
-	"$forcerefract" 1
- 	"$bluramount" "1"
-	"$nofog" "1"
-
-	"Refract_DX60"
-	{
-		"$fallbackmaterial" "sprites/heatwavedx70"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc1bd9a0100a5677160d2b78addd9d1092a7250433570461c0e1f959e46b02e4
+size 335

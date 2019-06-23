@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/awning001b"
-	"$surfaceprop" "metal"
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:51171e687c4504ddbd67f12d25e0a05153420ac5483c476016763c2f95c5214a
+size 112

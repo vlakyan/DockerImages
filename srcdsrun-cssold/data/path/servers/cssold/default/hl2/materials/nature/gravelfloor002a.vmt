@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/gravelfloor002a"
-	"$surfaceprop" "dirt"
-	//"$bumpmap" "Nature/gravelfloor002a_normal"
-	//"$parallaxmap" "Nature/gravelfloor002a_height"
-	//"$parallaxmapscale" ".0125"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:481f3bd1a2b07cc780e64b70ef096203bdd6d67c297a10df111a2268df97cbcc
+size 224

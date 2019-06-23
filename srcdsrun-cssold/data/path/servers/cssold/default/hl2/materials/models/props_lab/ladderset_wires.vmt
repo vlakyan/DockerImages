@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_lab/ladderset_wires"
-	"$translucent" "1"
-//	"$alphatest" "1"
-	"$nocull" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d7b9159e0ce4c05faa249abebc4a845eff35e98564ae2fbbb50947b587a6eca
+size 136

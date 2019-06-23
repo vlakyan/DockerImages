@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/muzzleflash1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dee2ba18aceb53bf6d0143ff48fd4ab62802af6f865ca3818e396a786676ad1
+size 127

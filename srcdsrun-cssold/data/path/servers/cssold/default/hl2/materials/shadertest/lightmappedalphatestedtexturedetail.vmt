@@ -1,25 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "shadertest/LightmappedAlphaTestedTexture"
-	"$alphatest" 1
-	"$detail" "shadertest/shadertestdetail"
-	"$detailscale" 0.5
-		 
-	"$temp" "[0 0]"
-		 
-	"Proxies"
-	{
-		// Texture scrolls as we move!!
-		"PlayerPosition"
-		{
-			"resultVar" "$temp"
-			"scale" 0.01
-		}
-
-		"TextureTransform"
-		{
-			"translateVar" "$temp"
-			"resultVar" "$basetexturetransform"
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:36e5ae8dc2c126f846dbe83bb5752d309be33159db3c3142b7c63a628707b8a1
+size 423

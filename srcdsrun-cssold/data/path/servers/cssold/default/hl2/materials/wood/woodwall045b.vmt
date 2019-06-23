@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Wood/woodwall045b"
-	"$surfaceprop" "wood"
-	"%keywords" "wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:403d4d5057d7348ba0753f8541f9985840524e90765d4c57f4fd7c1d2af8c6f9
+size 115

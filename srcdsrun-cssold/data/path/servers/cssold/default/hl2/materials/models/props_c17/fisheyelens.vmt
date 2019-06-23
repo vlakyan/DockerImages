@@ -1,22 +1,3 @@
-"Refract"
-{
- 	"$model" 1
-	"$nodecal" 1
-//	"$bluramount" 1
- 	"$refractamount" "-.04"
-	"$REFRACTTINT" "{246 250 255}"
-	"$scale" "[1 1]"
- 	"$dudvmap" "Models/effects/fisheyelens_dudv"
-	"$normalmap" "Models/effects/fisheyelens_normal"
-	"Refract_DX60"
-	{
-		"$fallbackmaterial" "models/props_c17/fisheyelens_DX60"
-	}
-
-	"Refract_DX60"
-	{
-		"$fallbackmaterial" "models/props_c17/fisheyelens_dx60"
-	}
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e40818f7e8c3cba42dd11fc64f1a6920cbdd8b8fd418ac3779aea98e2367f965
+size 418

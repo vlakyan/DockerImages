@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "parallel_upright"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/flames1/flame"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:43b47efa9e919a8dfdd1eca281768780362668c56d351398bbf708e0c927d3b6
+size 133

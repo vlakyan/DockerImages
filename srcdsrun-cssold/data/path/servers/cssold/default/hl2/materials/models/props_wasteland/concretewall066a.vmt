@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Concrete/concretewall066a"
-	"$surfaceprop" "concrete"
-	"%keywords" "coastline"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:19fa61549d87347f290198d929f7c5e7cb97544c354238be037a875eb3cbd71d
+size 125

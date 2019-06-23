@@ -1,11 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$basetexture" "Models/props_c17/fence_composite01"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"	
-      "$basealphaenvmapmask" 1
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1559adba446d4a8fcaa5fc4de51e9d8ebefa949f81ae47a862a0adaa70e225f
+size 220

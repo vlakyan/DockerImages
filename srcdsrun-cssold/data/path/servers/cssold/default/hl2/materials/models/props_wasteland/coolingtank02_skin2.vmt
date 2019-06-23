@@ -1,8 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_wasteland/coolingtank02_skin2"
-	"$surfaceprop" "metal"
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:76c17a8bd9c621b1c7c9949ddfc66317ba141f4e6d8f91e1e6a5c73b3b9562d2
+size 157

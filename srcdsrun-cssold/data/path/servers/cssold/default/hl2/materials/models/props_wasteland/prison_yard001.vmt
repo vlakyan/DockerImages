@@ -1,9 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_wasteland/prison_yard001"
-	"$surfaceprop" "metal"
-	//"$envmap" "env_cubemap"
-	//"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:073af2082ebc9f9c7eb07eb492112b9161d9b4a40a8935e0a52afc6a6f6b1dfa
+size 206

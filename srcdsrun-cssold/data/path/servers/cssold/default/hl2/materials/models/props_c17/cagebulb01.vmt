@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitSelfIlluminatedTexture
-	"$basetexture" "Models/props_c17/cagebulb01"
-	"$halflambert" 1
-	"$selfillum" 1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e7a5f66652e24e5f8f118109223bcf8755e88680f376cbd058d34a9aa6ecea1
+size 165

@@ -1,6 +1,3 @@
-//"LightmappedGeneric"
-"UnlitGeneric"
-{
-	"$baseTexture" "vgui/chapters/chapter4"
-	"$vertexalpha" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb6145c1ccb59ef271d2afaa679c190dc9521cb54828df37fdd5874f267b8c7a
+size 107

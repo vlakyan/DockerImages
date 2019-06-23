@@ -1,20 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_interiors/Handrail01a"
-	"$surfaceprop" "wood"
-  	"$envmap" "env_cubemap"
-	"$envmapmask" "Models/props_interiors/Handrail01a_mask"
-	//"$envmaptint" "[ .5 .5 .5]"
-        "$alphatest" 1
-	"$envmapcontrast" "1"
-	"$envmapsaturation" "[.8 .8 .8]"
-	//"$translucent" 1
-	//"nomip" "1"
-
-}
-
-
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b72e10949e75fd552a75d77f84c83fb356bfd06d952355cea239a4f0ca2cf26
+size 356

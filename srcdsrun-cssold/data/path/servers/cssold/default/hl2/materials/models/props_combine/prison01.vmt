@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$color"				"[1 1 1]"
-	"$baseTexture"			"models/props_combine/prison01"
-	"$selfIllum"			1
-	//"$translucent"			0
-	"$alpha"				1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:caded2995d51a18c43114e2686caad8fd2a0faf91032753fbcc7278b7e2f9bc1
+size 159

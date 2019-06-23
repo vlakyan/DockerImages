@@ -1,18 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models/Alyx/emptool_glow"
-	"$nodecal" "1"
-	"$model" "1"
-	"$additive" "1"
-	"$nocull" "1"
-	"Proxies"
-	{
-		"TextureScroll"
-		{
-			"texturescrollvar" "$basetexturetransform"
-			"texturescrollrate" 33.3
-			"texturescrollangle" 60
-		}
-	}
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:394b58ead9040304c55bcd65f0aeb4c4dfcad33906a952056ede6f11e99544a8
+size 285

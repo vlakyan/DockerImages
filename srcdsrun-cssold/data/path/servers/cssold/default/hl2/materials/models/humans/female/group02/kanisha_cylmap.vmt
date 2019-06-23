@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Humans/Female/Group02/kanisha_cylmap"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:512d7bfcdbbc5293bc22d8b416cf7bc5771cd662b0cccf32181956390665b1b0
+size 147

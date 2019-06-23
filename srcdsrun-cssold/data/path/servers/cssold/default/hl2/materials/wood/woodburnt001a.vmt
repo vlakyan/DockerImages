@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "Wood/woodburnt001a"
-	"$selfillum" 1
-	"$surfaceprop" "wood"
-	"%keywords" "c17skyscraper"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5142456e50588603ec9176ebb147a977161901236662667fd8db0f12d84ea9d2
+size 186

@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/laserdot"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1495ce95e6e83dc42f16ac671a8fb37b373d9131ad8d412dbacf6bbd45630ed
+size 123

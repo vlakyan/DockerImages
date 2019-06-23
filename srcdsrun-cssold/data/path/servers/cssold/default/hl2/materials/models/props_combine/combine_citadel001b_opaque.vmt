@@ -1,17 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_combine/Combine_Citadel001b_opaque"
-	"$surfaceprop" "metal"
-	//"$envmap" "env_cubemap"
-	//"$basealphaenvmapmask" 1
-	"$alpha" 1
-	//"$envmaptint" "[ .75 .75 1 ]"
-	//"$translucent" 1
-	"$nofog" 1
-	//"$envmapmask"	"Models/props_combine/combine_citadel001b_spec"
-
-	
-	
-	
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa850b21de5a03d30e3aec8cd72b5890b3e2dc0e13df2ffd28f6c80a3ace7323
+size 336

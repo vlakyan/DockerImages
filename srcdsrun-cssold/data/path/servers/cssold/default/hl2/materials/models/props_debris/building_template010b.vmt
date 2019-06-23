@@ -1,12 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Building_Template/Building_Template010b"
-	"$surfaceprop" "concrete"
-	//"$bumpmap" "Building_Template/Building_Template010b_normal"
-	"$envmap" "env_cubemap"
-	//"$normalmapalphaenvmapmask" 1
-	"$basealphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .5 .5 .5]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:32f54c55aadf4e64f6ce465580e4e95be7caec3a3e16825dcfc0e9d7b1f538b3
+size 340

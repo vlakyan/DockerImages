@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Humans/Female/Group03/naomi_facemap"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbdbbe91b621c43f8617e8bd17cc6229aa64afb245e46c4aeb87f5e27f03cc40
+size 146

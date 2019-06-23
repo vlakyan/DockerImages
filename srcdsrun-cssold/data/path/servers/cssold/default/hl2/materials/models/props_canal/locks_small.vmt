@@ -1,10 +1,3 @@
-"VertexLitGeneric"
-{
-	"$color"				"[1 1 1]"
-	"$baseTexture"			"models/props_canal/locks_small"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$envmaptint" "[ .125 .125 .125]"
-
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3af3b0e08650232082108a0e849b7eab9ef32c2523e510a13c54d834e346e13e
+size 195

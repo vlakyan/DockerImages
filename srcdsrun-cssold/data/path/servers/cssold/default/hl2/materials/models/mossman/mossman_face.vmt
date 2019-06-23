@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Mossman/mossman_face"
-	"$bumpmap" "models/Mossman/mossman_head_normal"
-	"$halflambert" 1
-	"$nodecal" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:097db96b41226a23ae6f91dc17011d5e6fd3dad14fa284d71ed8dfab349bd5d9
+size 159

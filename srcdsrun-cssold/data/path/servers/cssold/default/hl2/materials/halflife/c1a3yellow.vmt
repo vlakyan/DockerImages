@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "halflife/c1a3yellow"
-	"$additive" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9da17b8de5b97d7fd584309070589a967c5c68f36456229a0c660a1325c3c396
+size 117

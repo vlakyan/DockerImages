@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/pushbroom_sheet"
-	"$surfaceprop" "wood"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1cd43b2aa60feeab4c88c656795446b5c76c5b101a541bf8c4fd1f05e91eff2
+size 102

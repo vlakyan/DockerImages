@@ -1,7 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "parallel_upright"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$baseTexture" "Effects/hydraspinalcord"
-	"$spriterendermode" 5
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:31e4820cb74b0fdd1c1abaddb0c99703c9a7ec61d523e374bf6bfa4aad2c1106
+size 157

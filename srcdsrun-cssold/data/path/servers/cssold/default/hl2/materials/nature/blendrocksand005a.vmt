@@ -1,10 +1,3 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "nature/rockwall011d"
-	"$basetexture2" "nature/sandfloor009a"
-	"%tooltexture" "nature/blendrocksand005a_tooltexture"
-        "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
-        "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
-	"$surfaceprop" "rock"
-	"%keywords" "coastline"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3612318ab442b2f01de1374347217dd3af5713fac34d81a33de161136b2a0380
+size 380

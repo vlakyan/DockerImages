@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/gravestones003a"
-	"$surfaceprop" "concrete"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4bdd72cbcb890c7d401de3bc51e74c59b1ce2c2ffb9c0d7059ead2827557bff
+size 159

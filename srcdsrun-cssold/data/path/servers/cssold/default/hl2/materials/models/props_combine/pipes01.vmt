@@ -1,13 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture"			"models/props_combine/pipes01"
-	"$translucent"			1
-	"$alpha"				1
-	"$envmapmask"			"models/props_combine/pipes01_spec"
-	"$envmap" "env_cubemap"
-	//"$envmaptint" 			"[ 1 1 1]"
-	//"$nocull" 				1
-	//"$basealphaenvmapmask" 	1
-
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a7806ea80287c58dec45d6c95a82f28da8c24eb3a549cfb71bf4bd20bb57f7e
+size 279

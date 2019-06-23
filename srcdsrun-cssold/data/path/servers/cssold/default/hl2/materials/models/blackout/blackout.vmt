@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models/blackout/blackout"
-	"$additive" "1"
-	"$model" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9b3eb83d064ed58619173711034702da032832521704b86badb6226dda7f8ee
+size 97

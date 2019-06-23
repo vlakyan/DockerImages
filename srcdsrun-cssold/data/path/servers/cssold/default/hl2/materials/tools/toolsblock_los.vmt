@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Tools/toolsblock_LOS"
-	"$translucent" 1
-	"%compileNonSolid" 1
-	"%compileNodraw" 1
-	"%compileDetail" 1
-	"%keywords" "Tools"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:892dbc49d9a68e2286e021866b0deac087ad23a26b5bc0d666ca77ad5dfc2ed2
+size 174

@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "sprites/ar2_muzzle1"
-	"$vertexcolors" "1"
-	"$translucent" "1"
-	"$additive" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bffd6d64ce28b7def8d9dd029cbbe9f690f90833f83479512150a18760dc07ab
+size 122

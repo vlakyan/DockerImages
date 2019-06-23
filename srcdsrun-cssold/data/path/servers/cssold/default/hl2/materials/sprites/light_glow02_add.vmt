@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "sprites/light_glow02"
-	"$additive" "1"
-	"$translucent" "1"
-	"$vertexcolor" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:046e03fc1960cd2603fe01d4be5927e1a64ba090b83b0aa707cee33dac02c60f
+size 122

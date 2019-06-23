@@ -1,4 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Editor/camera_sheet"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:538efc055b0736e40908ef95e295014bda6aacdb01eab28b3205b83ff64ee66a
+size 72

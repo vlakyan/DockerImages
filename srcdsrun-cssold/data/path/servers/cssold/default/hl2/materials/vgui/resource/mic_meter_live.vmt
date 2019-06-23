@@ -1,10 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesVertexColorAlphaBlendNoOverbright
-	"$translucent" 1
-	"$basetexture" "VGUI\resource\mic_meter_live"
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$no_fullbright" 1
-	"$ignorez" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0379fb1bde345e820b460ce2caaf4e84672514e608106ec909bb9ca942a8147b
+size 228

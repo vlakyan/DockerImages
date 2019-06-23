@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-     "$basetexture" "models\props_c17\playground_swingset01"
-     "$surfaceprop" "metal"
-     "$envmap" "env_cubemap"	
-     "$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:25d8dfec985ab864b041c843d360a996408eb948898e473e80a1771ff0e05638
+size 177

@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalladder001a"
-	"$surfaceprop" "metal"
-	"%compileladder" 1
-	"$alphatest" 1
-	"%compilepassbullets" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e47c488a4578ec514e718e5b3f516e56a052d562c827bda9e153b4c6c411143
+size 158

@@ -1,10 +1,3 @@
-"UnlitGeneric"
-{
-	"$baseTexture" "vgui/hud/icon_commentary_small"
-	"$translucent" 1
-	"$alpha" 1
-	"$vertexalpha" "1"
-	"$ignorez"     "1"
-	"$no_fullbright" "1"	
-	"$vertextcolor" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaf0f3ef384e87003fb9a6b39040b285b6434e9dca107dd560d96594f2d5cd02
+size 192

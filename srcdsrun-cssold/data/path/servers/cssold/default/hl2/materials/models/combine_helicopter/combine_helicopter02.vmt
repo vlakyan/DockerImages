@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/Combine_Helicopter/combine_helicopter02"
-	"$surfaceprop" "metal"
-	"$translucent" 1
-	//"$nocull" 1
-	"$envmap" "env_cubemap"
-	"$envmapmask" "Models/Combine_Helicopter/combine_helicopter02_mask"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6a14dcfc7220b3c8b5a1e763663a82e72d1df50da75788b22177e617a0b2c10
+size 246

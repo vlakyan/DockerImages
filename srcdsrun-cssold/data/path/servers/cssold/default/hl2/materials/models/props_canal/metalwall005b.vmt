@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Metal/metalwall005b"
-	"$surfaceprop" "metal"
-	"%keywords" "c17industrial"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:588923ebe30793e8cb98e854eb9d85458a5abb3228203cd85c470560f4d71834
+size 160

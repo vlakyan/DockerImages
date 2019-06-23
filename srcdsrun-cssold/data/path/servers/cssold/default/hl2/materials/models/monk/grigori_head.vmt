@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/monk/grigori_head"
- 	"$bumpmap" "models/monk/monk_head_normal"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a24a826fdaf08e381a52765d029fa00217dc0f8694b6790fa663f8da40ab7794
+size 173

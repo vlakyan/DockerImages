@@ -1,10 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "shadertest/WorldDiffuseBumpmap"
-	"$bumpmap" "shadertest/sphere"
-	"$bumpscale" 0.50
-	"$envmap" "shadertest/cubemap"
-	"$envmapmask" "shadertest/spheremask"
-	"$envmaptint" "[ .25 .25 .25 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:af2c718a98b18dc8088cb8b1b8b210a10efa113026f6b5c8e28ccee0d480a90c
+size 257

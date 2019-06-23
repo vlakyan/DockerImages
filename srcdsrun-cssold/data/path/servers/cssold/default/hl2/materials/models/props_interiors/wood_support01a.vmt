@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_interiors/wood_support01a"
-	"$surfaceprop" "wood"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5c7ceb27713d9d2f498badcd8b47a9bf770e52893fc48c904feef9c8e33a176
+size 147

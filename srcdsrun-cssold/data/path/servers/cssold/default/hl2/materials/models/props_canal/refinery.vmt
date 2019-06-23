@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$alphatest" 			1
-	"$baseTexture"			"models/props_canal/refinery"
-	"$model" 1
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e1bd43679e19db31a1d0ea50042d2f53e071416d0d2592b4e2206e280a463ec
+size 122

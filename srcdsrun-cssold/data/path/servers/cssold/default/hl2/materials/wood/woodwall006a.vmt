@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Wood/woodwall006a"
-	"$surfaceprop" "wood"
-	"%keywords" "c17downtown,wasteland"
-	"$bumpmap" "Wood/woodwall006a_normal"
-	"$parallaxmap" "Wood/woodwall006a_height"
-	"$parallaxmapscale" ".05"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f573c61945f91041e6e0df03b8eb685c0734b918e7feb65329097206f08231f7
+size 239

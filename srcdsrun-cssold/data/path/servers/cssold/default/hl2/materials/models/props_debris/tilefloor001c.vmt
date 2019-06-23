@@ -1,13 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Tile/tilefloor001c"
-	"$surfaceprop" "tile"
-	"%keywords" "c17skyscraper"
-	//"$bumpmap" "tile/tilefloor001b_normal"
-	//"$envmap" "env_cubemap"
-	//"$normalmapalphaenvmapmask" 1
-	//"$envmapcontrast" 1
-	//"$envmapsaturation" 1
-	//"$envmaptint" "[ .9 .9 .9]"
-	//"$fresnelreflection" 0.25
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bed3f049e6f28259105b766f054ef67408687d47f6519476e90e05fc959e330e
+size 335

@@ -1,13 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_interiors/LightBulb01a"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "Models/props_interiors/LightBulb01a_mask"
-	"$envmaptint" "[ .5 .5 .5]"
-	"$envmapcontrast" "1"
-	"$envmapsaturation" "[.5 .5 .5]"
-	"$surfaceprop" "glass"	
-	
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:41b7e8b3878c5139012c2cb69a57f0cef99da76e44e3f43417c3650ef4dc9012
+size 288

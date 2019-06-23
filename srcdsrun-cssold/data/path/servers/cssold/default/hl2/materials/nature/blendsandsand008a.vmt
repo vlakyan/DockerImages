@@ -1,11 +1,3 @@
-"WorldVertexTransition"
-{
-	"$basetexture" 	"nature/sandfloor009a"
-	"$basetexture2" "nature/dirtfloor006a"
-	"%tooltexture" "nature/blendsandsand008a_tooltexture"
-	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
-        "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
-        "%detailtype" "coastline_grass01"
-	"$surfaceprop" "antlionsand"
-	"%keywords" "coastline"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:456c272bcf7937fc3e7f31127246da8ad494822da5b4bde6b18f24831db9b804
+size 425

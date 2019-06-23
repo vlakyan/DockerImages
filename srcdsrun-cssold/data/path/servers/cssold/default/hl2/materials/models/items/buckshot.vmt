@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/Items/buckshot"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a931be3d70346e36277fc588e16c43e6af426fcc6b9605c3a460bdabfe24345
+size 106

@@ -1,5 +1,3 @@
-"eyes"
-{
-	"$basetexture" "models/ichthyosaur/eyeball_l"
-	"$iris" "models/ichthyosaur/iris_l"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:269c918a1a846deba6601bd61868c1b0a5a58e6cc46835c3abbb4030a0cf9be7
+size 100

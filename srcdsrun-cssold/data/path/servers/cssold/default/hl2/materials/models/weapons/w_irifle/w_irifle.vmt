@@ -1,12 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-	"$basetexture" "models/Weapons/W_IRifle/W_IRifle"
-	"$surfaceprop" "metal"
-	"$bumpmap" "models/Weapons/W_IRifle/W_IRifle_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .56 .67 .75 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8786851c2712e46b928b58fb4aa2a677b188ba6e285bed583ab357b6b58c020
+size 315

@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"%compileSlime" 1
-	"$basetexture" "Dev/dev_slime"
-	"$surfaceprop" "slime"
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:48d3cef69e14dcc51732eff61bd42ee60a6caa73d22e13a02898a82663e2c508
+size 148

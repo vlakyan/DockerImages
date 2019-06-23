@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/props_lab/workspace_wires"
-	"$translucent" "1"
-	"$nocull" "1"
-//	"$alphatest" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:522988677d597f1cbc56f3bc724c9028ff97869a64bfd18af2708ef2e67fec20
+size 136

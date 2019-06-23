@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/props_lab/suitcase_glass"
-	"$translucent" "1"
-	"$envmap" "env_cubemap"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:00da3b3ea2f8cb97549e756c68fdf44f97793ead2d88704a5612d43dd9521259
+size 124

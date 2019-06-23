@@ -1,11 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "metal/metalwall076a"
-	"$basealphaenvmapmask" 1
-	"$surfaceprop" "metal"
-	"%keywords" "combine"
-	"$envmaptint" "[ 0.55 0.55 0.75 ]"
-	"$envmap" "env_cubemap"
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e7dc1bd71945b9964709a8808a039b4339b55a11c1f9c62d07254596d6c82c7
+size 252

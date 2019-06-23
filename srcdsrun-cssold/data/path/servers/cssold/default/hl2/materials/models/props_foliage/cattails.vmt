@@ -1,13 +1,3 @@
-"UnlitGeneric"
-//"VertexlitGeneric"
-{
-
-	"$baseTexture" "models/props_foliage/cattails"
-	"$selfIllum" 0
-	"$alphatest" 1
-	"$alpha" 1
-	"$nocull" 1
-	"$model" 1
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:aadd318acdeccb716ea763fec9809156bbb55c27618939bf13d55a03264d7f4f
+size 173

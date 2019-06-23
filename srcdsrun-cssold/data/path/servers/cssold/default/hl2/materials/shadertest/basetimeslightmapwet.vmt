@@ -1,8 +1,3 @@
-"BaseTimesLightmapWet"
-{
-	"$baseTexture" "shadertest/BaseTimesLightmapWet"
-	"$wetBrightnessFactor" 0.4
-	"$envmap" "shadertest/cubemap"
-	"$bumpmap" "shadertest/WorldDiffuseBumpmap_normal"
-	"%compileWet" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:477c42dcce9e65655fa16edcb4ca49b4b6de962b910a657847ee7d22461f6eb5
+size 212

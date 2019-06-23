@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapPlusMaskedSphericalEnvMap
-	"$basetexture" "halflife/nwbarrel"
-	"$envmapsphere" 1
-	"$envmap" "environment maps/envmap001a"
-	"$envmapmask" "halflife/nwbarrelr"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:29db7379106efc6ffa2d29e792256f3d4cd09a5a6357f9a75a1b150021b40816
+size 254

@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Weapons/w_physics/w_physics_sheet2"
-	"$selfillum" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5994e641bda1c4871fee6b120b4b45d1a344c7c05111729c6bdfa5e9bffc3302
+size 106

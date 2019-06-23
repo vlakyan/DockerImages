@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$basetexture" "sprites/yellowflare"
-	"$color" "[ 1.00 1.00 1.00 ]"
-	"$additive" 0
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dda2575a5e7445fc2d9c26195ad94508a4e934cf1a75735dbbcceb96d465f36
+size 103

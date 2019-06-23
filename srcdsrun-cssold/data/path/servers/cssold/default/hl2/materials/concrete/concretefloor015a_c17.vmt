@@ -1,11 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Concrete/concretefloor015a"
-	"$surfaceprop" "concrete"
-	"%keywords" "c17downtown"
-	 
-	"LightmappedGeneric_DX9"
-	{
-		"$bumpmap" "concrete\concretefloor015a_normal"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fb185e8f3352478097c1feea3d282fcd5b5811455630445234fb2b1ddb1041b
+size 219

@@ -1,17 +1,3 @@
-"Sprite"
-{
-//	"$spriteorientation" "vp_parallel_oriented"
-	"$spriteorigin" "[ 0.50 0.00 ]"
-	"$basetexture" "sprites/glow_test01b"
-	"$translucent" 1
-//	"$ignorevertexcolors" 1
-//	"$vertexcolor" "1"
-	"$tint" "[.53 .45 .29]"
-//	"$tint" "[1 1 1]"
-	"Proxies"
-	{
-		"lampbeam"
-		{
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:93c43b8c6c1b06c0a38279ebe6c954b11f70fc62ccac758cc19df2ae23fdb5d7
+size 300

@@ -1,16 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "shadertest/UnlitAdditiveAlphaTestedTexture"
-	"$alphatested" 1
-
-	"Proxies"
-	{
-		"Sine"
-		{
-			"resultVar" "$ALPHA"
-			"sineperiod" 2.00
-			"sinemin" 0
-			"sinemax" 1
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:089e253d117a4e9d6942db2e26d0ea265d83b9467d48cbff53e3a6ce7a6a7896
+size 224

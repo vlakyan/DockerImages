@@ -1,8 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_wasteland/cafeteria_tables01"
-	"$surfaceprop" "wood"
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:426a6ef272f9461f3a457122caa4ad25a1f227fb178f6daf09d92b407cf89dd0
+size 155

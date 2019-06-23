@@ -1,12 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/hud/800corner2"
-	"$translucent" "1"
-	"$vertexcolor" "1"
-	"$vertexalpha" "1"
-	"$ignorez"     "1"
-	"$alphatest"	"1"
-	"$alphatestreference"	"0.1"
-	"$no_fullbright" 1
-	"$use_in_fillrate_mode" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e7f7c85559fcda25d7bae264ba608c877971abf47986e99601294b98f7f95b6
+size 243

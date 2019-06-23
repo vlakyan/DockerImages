@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$basetexture" "sprites/blueshaft1"
-	"$additive" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e07b3a879ff13fe0373d1b154567af3e58c40f909c313e1ac14b5673a62f1de2
+size 109

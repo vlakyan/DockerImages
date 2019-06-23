@@ -1,18 +1,3 @@
-"WorldVertexTransition"
-{
-	"%tooltexture" "nature/blendsandweed005a_tooltexture"
-	"%detailtype" "canal_reeds"
-	"%keywords" "canal"
-	"$surfaceprop" "sand"
-
-	"$basetexture" "nature/sandfloor010a"
-	"$basetexture2" "nature/seaweed002a"
-	"$bumpmap" "nature/sandfloor010a_normal"
-
-
-	 "WorldVertexTransition_DX9"
-	{
-		"$bumpmap2" "nature/seaweed002a_normal"
-	}
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b4ad0d0f7b2fef13876a21f7cd3fe97e0dee0ffbca55e7de45635cd59341921
+size 375

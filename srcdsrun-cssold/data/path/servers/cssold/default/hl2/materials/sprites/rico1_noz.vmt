@@ -1,9 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: AdditiveTextureAndVertexColor
-	"$additive" "1"
-	"$vertexcolor" "1"
-	"$vertexalpha" "1"
-	"$basetexture" "sprites/richo1"
-	"$ignorez" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2258215b549df885c344c5d295b4a06a3b33dae4b811941b447e15416d9c3305
+size 185

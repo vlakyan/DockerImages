@@ -1,10 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: WorldAdditiveTransEnvMapWithMaskedTexture
-	"$basetexture" "Glass/glasswindow070a"
-	"$envmap" "env_cubemap"
-	"$surfaceprop" "glass"
-	"%keywords" "c17industrial"
-//	"$envmapmask" "glass/glasswindow070a_mask"
-	"$translucent" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:92edc996d798cf218692f9880488789906383433e5893a41a699f6e3c0ad8dc6
+size 280

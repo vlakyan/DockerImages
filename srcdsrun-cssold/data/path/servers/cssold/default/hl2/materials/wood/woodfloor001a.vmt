@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Wood/woodfloor001a"
-	"$surfaceprop" "wood"
-	"%keywords" "c17downtown,c17industrial,wasteland"
-	"$bumpmap" "wood/woodfloor001a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed359c9578d21040f51e2047ebad471b0d136354f863cd642bdff2ae7b3e478e
+size 183

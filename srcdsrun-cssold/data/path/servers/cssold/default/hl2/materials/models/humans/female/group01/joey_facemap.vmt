@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Humans/Female/Group01/joey_facemap"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2cadf4ef4812481d6091955dccb2a951ec1cd292871faca93256d9ef7b8d58f
+size 145

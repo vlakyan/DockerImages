@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "glass/glasswindow041c"
-	"$surfaceprop" "glass"
-	"%keywords" "c17downtown"
-	"$translucent" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b549e0d3026bdabc91f9b7bef35ceadadc50b6c7eeda0afc8c71cb80fe0ca1f
+size 141

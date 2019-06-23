@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Weapons/V_smg2/TEXTURE4"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b513d553ebd14f94b8b0936f21fbe21a5f7772da771fee1159e957432710312
+size 115

@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Storefront_Template/Storefront_Template001d"
-	"$envmap" "env_cubemap"
-	"$surfaceprop" "glass"
-	"$envmapmask" "Storefront_Template/Storefront_Template001d_mask"
-	"$translucent" 1
-	"$envmaptint" "[ 0.5 0.5 0.5 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f84c6f1dda098175b1ecc38e44b0af680c140d970880c8eebba794c36047de5e
+size 262

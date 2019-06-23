@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"%compilepassbullets" 1
-	"$alphatest" 1
-	"$basetexture" "Metal/metaltruss004a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17industrial,wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:97dae58d5aee4dd2f69ca9199cb78f582eb82b1d648f335e53a2a529cbb5eefc
+size 176

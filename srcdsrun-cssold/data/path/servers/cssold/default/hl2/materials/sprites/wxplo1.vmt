@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/WXplo1-"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1307568c6f7d2b3cca7eb6113838c83c05c5649103b1559f13ad83f05587aab1
+size 122

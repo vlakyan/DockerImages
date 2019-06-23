@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/dirtfloor005c"
-//	"$detail" "Decals/decalplaster001a"
-//	"$detailscale" 0.20
-	"$surfaceprop" "dirt"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2133541d4c3815548bfa2c75e30295a33dca79dac8460ff5f5d100847fef2d3
+size 156

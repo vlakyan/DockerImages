@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/crystal_beam1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:65817a92ea073582d070562b2eff06a0fb75c569d0fa17103b9a675e7bc68002
+size 128

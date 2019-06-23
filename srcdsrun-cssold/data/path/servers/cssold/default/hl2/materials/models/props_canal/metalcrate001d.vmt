@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_canal/metalcrate001d"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:246652a3ff297aa61b4572dd77ce0a9093aa6489dc0411ae7018997f0f4402d8
+size 104

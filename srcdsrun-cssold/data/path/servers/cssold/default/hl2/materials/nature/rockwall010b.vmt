@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Nature/rockwall010b"
-	//"$bumpmap" "Nature/rockwall010a_normal"
-	"$surfaceprop" "concrete"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4f36e502805987677c2767896f2f1207f2a7a56fd75b721b7fe35749c08298a
+size 139

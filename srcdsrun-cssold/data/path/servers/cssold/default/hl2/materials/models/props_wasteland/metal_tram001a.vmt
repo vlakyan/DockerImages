@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_wasteland/metal_tram001a"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
- 	"$basealphaenvmapmask" 1
-	"$envmaptint" "[ .25 .25 .25]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fc21737b17732f9effe225aec4ef953417fbd55bf9ade3d4b3949a29ad3e19c
+size 195

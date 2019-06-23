@@ -1,11 +1,3 @@
-"UnlitGeneric"
-//"UnlitTwoTexture"
-//"Modulate"
-{
-	"$basetexture" "dev/dev_prisontvoverlay003"
-	"$texture2" "dev/dev_prisontvoverlay003"
-	"%tooltexture" "dev/dev_prisontvoverlay003"
-	"$surfaceprop" "glass"
-	"$additive" "1"
-//	"$mod2x" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0ffeb6298a840165ab455c8af781189a5ea4c3862700c05067ee2184c21e593
+size 252

@@ -1,12 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{	
-	"$basetexture" "Models/props_junk/Vent001"
-	"$surfaceprop" "metal"
-	"$bumpmap" "Models/props_junk/Vent001_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .42 .42 .42 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f42d5009f0f4d1285f37084f41cc4b71dd7b9848d5da011de5482b55b43e48db
+size 302

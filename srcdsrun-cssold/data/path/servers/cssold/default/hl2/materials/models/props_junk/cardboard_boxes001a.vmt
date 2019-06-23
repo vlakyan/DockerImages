@@ -1,11 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_junk/Cardboard_boxes001a"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$surfaceprop" "wood"
-		
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:96f994b9063d383e5be1744e5cfe14b918278e9412e872e4899e2f43547c6e74
+size 207

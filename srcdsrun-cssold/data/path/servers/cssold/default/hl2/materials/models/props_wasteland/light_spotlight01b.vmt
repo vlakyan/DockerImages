@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_wasteland/light_spotlight01b"
-	"$surfaceprop" "glass"
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1104351c9c050497c835072aa09f274e15aae07e75802465992264e14933ecbc
+size 116

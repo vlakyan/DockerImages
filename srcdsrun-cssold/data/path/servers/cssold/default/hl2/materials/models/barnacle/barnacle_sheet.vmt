@@ -1,10 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/barnacle/barnacle_sheet"	
-	"$bumpmap" "models/barnacle/barnacle_normal"	
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" ".7"
-	"$envmaptint" "[ .8 .69 .60 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b4f2cde0ea329eeb434a99939ed0303364d35268c03eef46530712cca758b55
+size 260

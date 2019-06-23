@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_trainstation/trainstation_column001"
-	"$surfaceprop" "metal"
-	"$translucent" 1
-    	 "$alphatest" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2edd2fdf6f7da9e91cae95d3bfbb837e36599e8f67281465c89720d66dfcc5af
+size 160

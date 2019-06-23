@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/props_lab/server_wires"
-	"$translucent" "1"
-	"$nocull" "1"
-//	"$alphatest" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b36485831110999aa925e93b5fffb81b7b37eae09b26949ea07f2e79fdae4df7
+size 133

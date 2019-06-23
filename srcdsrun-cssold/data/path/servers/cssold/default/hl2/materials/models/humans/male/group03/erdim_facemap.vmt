@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Humans/Male/Group01/erdim_cylmap"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8f9ec858d277720eb2dcdafb72bd6aeb1d97d4758bc17200abfc79181670dab
+size 143

@@ -1,12 +1,3 @@
-// envmaptint_fix
-"vertexLitGeneric"
-{
-	"$basetexture" "Building_Template/Building_Template013c"
-	"$surfaceprop" "concrete"
-	"$bumpmap" "Building_Template/Building_Template013c_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .25 .25 .25 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:46ff75ef81a628a42e5b13db6816ae003c7ffc2ad86a1b9fd3ebe5f4886acd22
+size 332

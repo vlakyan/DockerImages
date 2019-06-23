@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "halflife/fifties_dsk5a"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:224389077c611f23ae4dad347e800b1acf3548bfd1b0243bbc95ef744f39b3b3
+size 135

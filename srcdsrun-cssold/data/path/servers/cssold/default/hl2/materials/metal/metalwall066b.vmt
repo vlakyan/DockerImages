@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalwall066b"
-	"%keywords" "c17industrial"
-	"$surfaceprop" "metal"
-	"$bumpmap" "Metal/metalwall066b_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:30aa50bbbac200d0b2020cedae52e4bbcd9de1901a5caec5ef327a121124badc
+size 162

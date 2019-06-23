@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models/brokenglass/glassbroken_solid"
-	"$translucent" 1
-	"$nocull" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4336c1846313e2c47f403afce8f7a330ec02ff5a003d060159fcc82f398b39ef
+size 147

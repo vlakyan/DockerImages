@@ -1,15 +1,3 @@
-"VertexLitGeneric"
-{
-
-
-	"$basetexture" "Models/props_combine/combine_button01"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .5 .5 .5]"
-	"$envmapmask" "Models/props_combine/combine_button01_mask"
-	"$selfillum" 1
-}
-
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a308eef9bcf09e8be2ffee0f9d13d566eb801e582598920425353497938a556e
+size 254

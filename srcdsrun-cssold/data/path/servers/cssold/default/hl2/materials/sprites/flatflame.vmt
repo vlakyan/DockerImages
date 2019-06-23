@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "oriented"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/flatflame"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:683174ec955e7ab9647a0c68956a23c6a491b482efb522b13c7c93dfd8e0d973
+size 121

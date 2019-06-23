@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "parallel_upright"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/plasma1/plasma"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed2d30aefa6d9a43cdcc72fa58309d743f73b7723c55fcdcfe2acdd51ed05878
+size 134

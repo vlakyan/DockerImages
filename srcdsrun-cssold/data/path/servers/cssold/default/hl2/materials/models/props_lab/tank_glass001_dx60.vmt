@@ -1,20 +1,3 @@
-//"UnlitGeneric"
-"UnlitTwoTexture"
-{
- 	"$model" 1
- 	"$surfaceprop" "water"
-	"$basetexture" "dev/water"
-	"$texture2" "models/props_lab/glass_tint001"
-	"$additive" 1
-	"$color" "[1 0 0]"
-
-	"Proxies"
-	{
-		"AnimatedTexture"
-		{
-			"animatedtexturevar" "$basetexture"
-			"animatedtextureframenumvar" "$frame"
-			"animatedtextureframerate" 20.00
-		}
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d35b8663b962758fc126e4922b44553913b2d50433b57b1951ef4772a7cc953
+size 366

@@ -1,7 +1,3 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "dev/dev_measurewall01d"
-	"$basetexture2" "dev/dev_measurewall01a"
-	"%tooltexture" "dev/dev_measurewall01d"
-	"%keywords" "dev"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2469bb75c6670ba725853a227a26599c1c4063149ab97677f4f3bed1cee752d
+size 178

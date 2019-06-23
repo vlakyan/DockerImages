@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/props_borealis/meathook01"
-	"$surfaceprop" "metal"
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd30a772578891de3670835159fdc03fa7ccb3ada4580be8573773ace48feea2
+size 105

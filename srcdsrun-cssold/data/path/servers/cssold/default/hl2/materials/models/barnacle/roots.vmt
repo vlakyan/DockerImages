@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	"$translucent" 1
-	"$basetexture" "models/Barnacle/roots"
-	"$nodecal" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b82e1f49e80eaa3c5e31ce818dfcdc8d193f1e9857fdef4f8a5f2be2965777b
+size 153

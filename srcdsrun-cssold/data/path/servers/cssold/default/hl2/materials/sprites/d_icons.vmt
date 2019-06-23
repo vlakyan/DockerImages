@@ -1,5 +1,3 @@
-"Sprite"
-{
-	"$basetexture" "sprites/d_icons"
-	"$ignorez" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:41d07655d95a0d3ff1131655441401b39f97fecccb5a605f8b9635b646e418ca
+size 66

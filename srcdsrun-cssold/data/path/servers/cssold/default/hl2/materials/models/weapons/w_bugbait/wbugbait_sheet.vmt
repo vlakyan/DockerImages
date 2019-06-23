@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/Weapons/w_bugbait/wbugbait_sheet"
-	"$selfillum" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:01952bc564545253a8d5c1b7e171f91d89e05a1e4b0f4da2cdc71749e8c4c96f
+size 104

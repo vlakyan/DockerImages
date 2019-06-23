@@ -1,12 +1,3 @@
-"WorldVertexTransition"
-{
-	"$basetexture" "nature/dirtfloor006a"
-	"$basetexture2" "nature/gravelfloor004a"
-	"$detail" "overlays/macro01a"
-	"$detailscale" .1
-	"%detailtype" "coastline_redgrass02"
-	"%tooltexture" "nature/blendgrassgravel001a_tooltexture"
-	"%keywords" "wasteland"
-	"$surfaceprop" "dirt"
-	"$surfaceprop2" "dirt"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:57443375b4b128ed6730ed25bd78d134933c60fba0b6e581503642d9aab05f78
+size 339

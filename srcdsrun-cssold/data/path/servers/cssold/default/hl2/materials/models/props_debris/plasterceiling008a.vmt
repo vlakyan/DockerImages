@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Plaster/plasterceiling008a"
-	"$surfaceprop" "plaster"
-	"%keywords" "c17skyscraper"
-	"$bumpmap" "Plaster/plasterceiling008a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:51abf795673239b06c5e2a952b2ca766812344eb7db1082891cd3a59b663ebc9
+size 178

@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalhull005a"
-	"$surfaceprop" "metal"
-	"%keywords" "borealis"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:54233ed421128fcdb207bd3bd188f75ebd61dddb190f974e2cf77698c6268250
+size 117

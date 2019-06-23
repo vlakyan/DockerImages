@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_junk/PlasticCrate01d"
-	"$surfaceprop" "wood"
-        "$alphatest" 1
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ffe94c86e890d51be31fb5d49ba038c476180646a6dad78358fb0de218ddbca
+size 131

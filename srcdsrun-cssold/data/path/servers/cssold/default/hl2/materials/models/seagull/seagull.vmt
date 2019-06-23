@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Seagull/seagull"
-	"$alphatest" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f15c89104da1fd473185c9127ec3f3eb936e80d9794da11c0e7efabe33744baf
+size 85

@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	"$translucent" 1
-	"$basetexture" "models/manhack/blur01"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f45c5c8bcaa5ca4fbc3f0b26e7548efa1537f5c1e5e4f250a7b1090ee8f2392
+size 136

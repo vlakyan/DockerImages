@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/Gibs/furniture_gibs/FurnitureWoodDrawers001a"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a3a22fe0c5d54db3f74859968a237e006ac0db415c3cff3e7da5c6401383d63
+size 136

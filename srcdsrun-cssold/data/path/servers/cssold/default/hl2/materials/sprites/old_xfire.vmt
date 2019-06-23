@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/old_XFire"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:18fdd3b8fcb3ef8adc7d8ddb263e2e7f498206a0e39fc8873c8bcd31d99d81e1
+size 124

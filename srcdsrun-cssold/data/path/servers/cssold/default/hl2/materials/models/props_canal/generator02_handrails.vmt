@@ -1,11 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_canal/generator02_handrails"
-	//"$surfaceprop" "metal"
- 	//"$envmaptint" "[ .25 .25 .25]"
-	//"$envmap" "env_cubemap"
-	//"$basealphaenvmapmask" 1
-	"$alphatest"				1
-	"$model"				1
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:73890b424acd983740b3822c4e54349dec1fec8cfb586e520468030e4dc18f1d
+size 256

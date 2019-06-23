@@ -1,7 +1,3 @@
-"vertexlitGeneric"
-{
-	"$basetexture" "nature/dirtwall001a"
-	"$bumpmap" "nature/dirtwall001a_normal"
-	"$model" 1
-	"$surfaceprop" "boulder"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:118552404df1b138a6fa3cb95079bd0590510a21c3480df412791b9b4970c5da
+size 147

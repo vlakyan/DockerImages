@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	"$translucent" 1
-	"$basetexture" "models/gunship/prop"
-	"$nodecal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a88010e94d6ad552af3e107e5caebaf9b4208df0988c6f79a32a5430c8775381
+size 149

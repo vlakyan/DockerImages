@@ -1,11 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_wasteland/prison_toilet01"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$surfaceprop" "metal"
-	"$envmaptint" .3 .3 .3
-
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2bfa02e3045cf85b9715ed8a0d3f66de3471d4dffac1ee6bbcb889e9689d3f6
+size 193

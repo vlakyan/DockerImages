@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalrail005a"
-	"%compilepassbullets" 1
-	"$surfaceprop" "metalgrate"
-	"%keywords" "c17industrial"
-	"$alphatest" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2dea2df62de2abcc3c9fe604059cb9b6b7873d47e7dfa4fc26a40341915472e
+size 170

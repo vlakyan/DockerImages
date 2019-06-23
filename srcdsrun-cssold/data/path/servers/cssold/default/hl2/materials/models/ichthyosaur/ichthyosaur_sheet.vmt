@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/ichthyosaur/ichthyosaur_sheet"
-	"$model" 1
-	"$alphatest" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f1c2e5fb1f6872132a46f14fb6986395462bab5d8ce1540c84939e36b3f80aa
+size 110

@@ -1,8 +1,3 @@
-
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_debris/Rebar_SmallNorm01"
-	"$surfaceprop" "iron"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b8a42e35be92ca99e681e6970b5293aa46146192067dab3005ce370d8f3e156
+size 150

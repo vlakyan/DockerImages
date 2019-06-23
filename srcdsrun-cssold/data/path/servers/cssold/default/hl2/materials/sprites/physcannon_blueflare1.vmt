@@ -1,8 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/physcannon_blueflare1"
-	"$nocompress" "1"
-	"$ignorez" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5924bceaabaadd94dd518d01c798efb35dd6e22c51176ff7ccfa6f1277f3fa91
+size 173

@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Pigeon/pigeon_sheet"
-	"$alphatest" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1375f67f8bb95701a46a001b871abd58dd7361cdf899d19ed9d161dbae463b7f
+size 89

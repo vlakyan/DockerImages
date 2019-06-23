@@ -1,9 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/zoom"
-	"$translucent" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" 1
-	"$no_fullbright" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:972a65b1304fa8f441a737aabb05cc5fbbadc7bb7b1b815240205dd2171f36f4
+size 146

@@ -1,15 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_combine/combine_bunker01"
-	"$surfaceprop" "metal"
-	"%keywords" "combine"
-	"$bumpmap" "Metal/metalwall077a_normal"
-	"$envmaptint" "[ .56 .67 .75 ]"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:af38909c55a8623ec6add9d60970d830046d25eb8a2f253d07720061410df43d
+size 335

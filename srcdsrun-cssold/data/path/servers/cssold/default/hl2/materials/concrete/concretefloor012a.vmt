@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$bumpmap" "concrete/concretefloor012a_normal"
-	"$basetexture" "Concrete/concretefloor012a"
-	"$surfaceprop" "concrete"
-	"%keywords" "skyscraper"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:475a986a3449a79740e78467e738b4ab3d7509f369f4a75ee1750c7576a8d7a0
+size 178

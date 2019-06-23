@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Dev/dev_lowermetaldoor01"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:23204a44d3a067da6ec8730da97cae1ee51c895ab75cb6dca8328f77a9690dca
+size 137

@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitSelfIlluminatedTexture
-	"$basetexture" "Models/props_c17/metaldecklight01bulbOn01"
-	"$selfillum" 1
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:64f98dce921144d03e49277a8807855b87bf698050789854b4c21dc29a0169f9
+size 160

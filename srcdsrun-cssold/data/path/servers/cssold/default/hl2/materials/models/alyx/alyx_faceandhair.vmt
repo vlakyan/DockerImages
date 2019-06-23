@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/Alyx/alyx_faceandhair"
-	"$bumpmap" "models/alyx/alyx_head_normal"
-	"$halflambert" 1
-//	"$envmapmask" "models/Alyx/alyx_faceandhair_m"
-	"$nodecal" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:349b4e2df51709d4a2b06b7b70875dd0c4f3c0a88819d5a684bd753039bd21a2
+size 259

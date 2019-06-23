@@ -1,26 +1,3 @@
-"Unlittwotexture"
-{
-	"$model" 1
-	"$basetexture" "Effects/com_shield002a"
-	"$texture2" "Effects/com_shield004b"
-	"$translucent" "1"
-	"$additive" 1
-	"$nodecal" 1
-	"$nocull" 1
-
-	"Proxies"
-	{
-		"TextureScroll"
-		{
-			"texturescrollvar" "$basetexturetransform"
-			"texturescrollrate" .02
-			"texturescrollangle" 90
-		}
-		"TextureScroll"
-		{
-			"texturescrollvar" "$texture2transform"
-			"texturescrollrate" .04
-			"texturescrollangle" 20
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd7b30c88d05e2a6eb9ea17677e763cfb5f029b0a6d732a4fee6521edfcd53eb
+size 466

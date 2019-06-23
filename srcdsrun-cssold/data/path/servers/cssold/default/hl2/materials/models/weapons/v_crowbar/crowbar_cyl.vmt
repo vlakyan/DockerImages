@@ -1,10 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-	"$basetexture" "models/Weapons/v_crowbar/crowbar_cyl"
-	"$bumpmap" "models/Weapons/v_crowbar/crowbar_normal"
-//	"$envmap" "Environment Maps/specular"
-	"$envmaptint" "[ .64 .64 .64 ]"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:22783c8c15dc5cc8bf449227b6916a932824877596ca8459d7c77a5cce202aef
+size 290

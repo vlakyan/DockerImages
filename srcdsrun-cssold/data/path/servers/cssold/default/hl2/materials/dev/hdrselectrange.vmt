@@ -1,5 +1,3 @@
-"hdrselectrange"
-{
-	"$SOURCEMRTRENDERTARGET" "_rt_FullFrameFB"
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e16348e3560f5596bde3ebe632935f424ffa0cb3487407d8d04531b163e2a1ec
+size 90

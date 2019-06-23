@@ -1,7 +1,3 @@
-"Teeth"
-{
-	"$basetexture" "models/gman/upper_teeth"
-	"$model" 1
-	"$clientshader" "MouthShader"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5371d3012851570ae5833cb752b6caeff11c2a0a34107750c3336c4f4490eaae
+size 122

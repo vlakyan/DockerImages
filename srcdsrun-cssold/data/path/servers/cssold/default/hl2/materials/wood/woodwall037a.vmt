@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Wood/woodwall037a"
-	"$surfaceprop" "wood"
-	"%keywords" "c17downtown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:89acc9bbeac9e1fa30b488dcad7f75d3aa4d339193716005647d889d98180afc
+size 117

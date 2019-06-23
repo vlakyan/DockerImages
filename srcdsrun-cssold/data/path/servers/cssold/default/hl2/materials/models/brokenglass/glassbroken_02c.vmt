@@ -1,9 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "models/brokenglass/glassbroken_02c"
-	"$translucent" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd1e770f5a9f125babf8840e9ff5df04923d92e87d56f0fad50294c239d031e3
+size 184

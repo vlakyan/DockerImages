@@ -1,20 +1,3 @@
-"GooInGlass"
-{
-	"$basetexture" "shadertest/GooInGlass"
-	"$envmap" "shadertest/GooInGlass_env"
-	"$bumpmap" "shadertest/GooInGlass_normal"
-	"$surfaceprop" "glass"
-	"$envmaptint" "[ 1.00 1.00 1.00 ]"
-	"$glassenvmap" "shadertest/GooInGlass_envglass"
-	"$glassenvmaptint" "[ 1.00 1.00 1.00 ]"
-
-	"Proxies"
-	{
-		"TextureScroll"
-		{
-			"texturescrollvar" "$bumptransform"
-			"texturescrollrate" 0.20
-			"texturescrollangle" 60
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf7ef4206ecf4ee7b0e2f8b34f0db75b1f2711baa398c9977b864bf7db239181
+size 447

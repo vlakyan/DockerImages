@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Metal/metalwall054b"
-	"$surfaceprop" "metal"
-	"%keywords" "airexchange,combine"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7407f23b2317357e6b5aad345788158a85a916018871e2a54b014cfaa519d0c6
+size 168

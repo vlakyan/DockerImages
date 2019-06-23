@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Glass/glasswindow014a"
-	"$surfaceprop" "glass"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:89859b2e4e9e4abd55c14c4b2bfb44794f782f5b4c07c348c77a6036d4645811
+size 163

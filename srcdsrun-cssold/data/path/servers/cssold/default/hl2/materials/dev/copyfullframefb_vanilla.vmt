@@ -1,7 +1,3 @@
-"floattoscreen"
-{
-	"$pixshader" "floattoscreen_notonemap_ps20"
-	"$fbtexture" "_rt_FullFrameFB"
-	"$ignorez" 1
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5462c13c4f5fe70a9f10889c3c98269fce82d894e39fbc9d0cf0b5af8cf1308
+size 129

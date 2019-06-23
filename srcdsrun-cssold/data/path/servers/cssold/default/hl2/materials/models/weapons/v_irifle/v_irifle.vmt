@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/Weapons/V_IRifle/V_IRifle"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[.6 .7 .8]"
-	"$envmapmask" "models/Weapons/V_IRifle/V_IRifle_mask"
-	"$selfillum" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd641a33212ff709c9828bd795256eb0d47edf0202895a24e428c648d74d8e39
+size 229

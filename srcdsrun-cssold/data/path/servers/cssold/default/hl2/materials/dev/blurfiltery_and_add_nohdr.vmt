@@ -1,6 +1,3 @@
-"BlurFilterY"
-{
-	"$basetexture" "_rt_SmallFB1"
-	"$additive" 1
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:96cc86d865a2f173241d60e7ae0da4463f364e8c6f886edfa6e7baef4aa17797
+size 90

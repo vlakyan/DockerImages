@@ -1,11 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_wasteland/controlroom_chair001a"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$surfaceprop" "metal"
-	"$envmaptint" 0.25 0.25 0.25
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d10bf8ae8263712c76783d6e6bc569d0c49223cd48b1e9c8570e880860cbad3
+size 243

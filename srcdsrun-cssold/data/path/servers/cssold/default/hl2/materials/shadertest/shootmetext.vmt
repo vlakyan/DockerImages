@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	"$baseTexture" "shadertest/shootmetext"
-	"$surfaceprop"  "metal"
-	"$leakamount"  5
-	"$leakcolor"  "[0.5 1.0 0.5]"
-	"$leaknoise"  0;
-	"$leakforce"  10
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc3db7ec29ff14761147aec9c35790b3d5ba986ce05a45aae2a2173dc42b6c75
+size 185

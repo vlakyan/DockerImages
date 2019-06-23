@@ -1,8 +1,3 @@
-
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_debris/concretedebris_chunk01"
-	"$surfaceprop" "boulder"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:52a0bd327f77714f048dba359139e2eb4e00579cf1494995f8c5b99aff9407a5
+size 158

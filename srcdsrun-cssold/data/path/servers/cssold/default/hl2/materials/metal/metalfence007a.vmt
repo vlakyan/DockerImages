@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalfence007a"
-	"%compilepassbullets" 1
-	"$surfaceprop" "chainlink"
-	"%keywords" "c17downtown"
-	"$translucent" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:438788a373ccb0b15eeacbbaaf1ed2a91bdd23955dde97aca6eef04f23eeed73
+size 170

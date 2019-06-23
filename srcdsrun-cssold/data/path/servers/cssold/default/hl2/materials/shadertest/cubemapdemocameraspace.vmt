@@ -1,6 +1,3 @@
-"unlitgeneric"
-{
-	"%tooltexture" "shadertest/cubedemo"
-	"$envmap" "shadertest/cubedemo"
-	"$envmapcameraspace" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6a4a3513768f639eb6c1d300e9fab78cb6636fe11b42318adbbe5d295e0f438
+size 120

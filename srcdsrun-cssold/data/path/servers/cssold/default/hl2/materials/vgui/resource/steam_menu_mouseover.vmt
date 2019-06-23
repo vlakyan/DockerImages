@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" 		"vgui\resource\steam_menu_mouseover"
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" 1
-	"$no_fullbright" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e72fb7b2d27a1a2cb9efe51cdf11c63a4d457a1d4a2e1c3279f22005a3303108
+size 152

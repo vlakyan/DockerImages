@@ -1,29 +1,3 @@
-// envmaptint_fix
-"VertexLitGeneric"
-{
-
-	//"$basetexture" "Models/props_combine/combine_generator01"
-	//"$surfaceprop" "metal"
-	//"%keywords" "combine"
-	//"$bumpmap" "Metal/metalwall077a_normal"
-	//"$envmaptint" "[ .20 .20 .20 ]"
-	//"$envmap" "env_cubemap"
-	//"$normalmapalphaenvmapmask" 1
-	//"$envmapcontrast" 1
-	//"$envmapsaturation" 1
-
-	"$basetexture" "models/props_combine/combine_generator01"
-	"$surfaceprop" "metal"
-	"$bumpmap" "models/props_combine/combine_generator01_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .56 .67 .75 ]"
-
-
-	//"$envmapmask" "Models/props_combine/combine_generator01_mask"
-	"$selfillum" 1
-
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9996739f47f4b4419112448ed5a9ead5a630d8240602bafc25993cc36c895f90
+size 733

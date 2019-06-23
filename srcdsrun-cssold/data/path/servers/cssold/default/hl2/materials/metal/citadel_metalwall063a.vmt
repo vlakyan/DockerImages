@@ -1,33 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalwall063a"
-	"$surfaceprop" "metal"
-	"%keywords" "combine"
-
-	// NOTE: Even though env_cubemap is here, it will turned off for DX6
-	// because $multipass 1 isn't defined
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .56 .56 .75 ]"
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-
-	"LightmappedGeneric_DX9"
-	{
-		"$bumpmap" "metal/metalwall063a_normal"
-		"$normalmapalphaenvmapmask" 1
-	}
-
-	"LightmappedGeneric_DX8"
-	{
-		"$bumpmap" "metal/metalwall063a_normal"
-		"$nodiffusebumplighting" 1
-		"$normalmapalphaenvmapmask" 1
-	}
-
-	"LightmappedGeneric_NoBump_DX8"
-	{
-		"$basetexture" "metal/citadel_metalwall063a"
-		"$basealphaenvmapmask" 1
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:391c12823c8122bec009369ec3656d01bc87c75568beff8942acac90f5dc1250
+size 730

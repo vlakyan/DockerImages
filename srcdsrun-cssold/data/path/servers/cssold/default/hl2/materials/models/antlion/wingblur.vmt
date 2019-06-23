@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	"$translucent" 1
-	"$basetexture" "models/Antlion/wingblur"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff5f65bb5f11ebc67613aa065bac826c6a55bd71d69cef580db6c0768ac620fd
+size 138

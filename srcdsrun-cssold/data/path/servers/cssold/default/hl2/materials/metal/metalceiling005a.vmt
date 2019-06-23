@@ -1,11 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Metal/metalceiling005a"
-	"$surfaceprop" "metal"
-	"%keywords" "borealis"
-	"$envmaptint" "[ .16 .16 .16 ]"
-	"$bumpmap" "Metal/metalceiling005a_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1c7931c75362e435e36c90a5ead837fe1352e7824127df5f3f500e6a628da1e
+size 276

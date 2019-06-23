@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/props_lab/teleportgate_sheet"
-//	"$selfillum" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd63b71d4289789a36ed1ac7241d38264a3ca5712f3f2f8bfd25bb6c4ff1f166
+size 102

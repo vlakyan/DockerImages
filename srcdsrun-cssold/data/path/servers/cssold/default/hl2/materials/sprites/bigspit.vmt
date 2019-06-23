@@ -1,6 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "sprites/bigspit"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:52163f411642ef9def982d7c32a7b51725c3d81c6a7776c9b9fc2347a9a98e88
+size 122

@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/Items/Grenade2"
-	"$selfillum" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f47915d2d733a3bd3b6deb9e9c28b22a056b2acacc47ad2f7643c7686dcfe7b8
+size 84

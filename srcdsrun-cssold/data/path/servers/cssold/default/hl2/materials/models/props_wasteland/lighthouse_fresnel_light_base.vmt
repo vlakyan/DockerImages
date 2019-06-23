@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	
-	"$baseTexture"			"models/props_wasteland/lighthouse_fresnel_light_base"
-	"$surfaceprop" "metal"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ea03aa5bdf098c54717a87befbe903c960a46dd71f1ad3116aa42de935183c5
+size 184

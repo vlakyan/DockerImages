@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: AddTexture
-	"$basetexture" "models/monk/glint"
-	"$additive" 1
-	"$model" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3454a2b0597bc57deb8b67b8934e4bc892a8982529416ebadb3a3ae1071a0bc
+size 121

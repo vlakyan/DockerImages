@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/props_c17/floodlighthousing"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a0fbb3dbaaed5a167bfabb686a9cb0c574d2a20f04b7a0f844cb687b672c61e
+size 144

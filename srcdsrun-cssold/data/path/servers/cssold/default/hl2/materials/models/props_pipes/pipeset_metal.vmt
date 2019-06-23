@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_pipes/pipeset_metal"
-	"$surfaceprop" "metal"
-//	"$envmap" "env_cubemap"
-//	"$basealphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8afd69df83a173470fa1577f35fe5e7b30a084882b6db3a4690077e969f16df0
+size 160

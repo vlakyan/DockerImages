@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitMaskedEnvMappedTexture
-	"$basetexture" "models/Synth/leg2"
-	"$envmapmask" "models/Synth/leg2mask"
-	"$envmap" "models/Synth/synthenvmap"
-	"$envmapsphere" 1
-	"$multipass" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:da86b457253a758394d6ea2f8baa30b91cfc4ea549637d5b198167085e7282df
+size 233

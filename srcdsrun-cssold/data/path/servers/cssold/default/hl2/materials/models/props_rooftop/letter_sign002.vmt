@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/props_rooftop/Letter_Sign002"
-	"$surfaceprop" "metal"
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:40bfc5e2b410f125181e648fb0c02e214d7697fb0ab9cbaac260ba09f584c737
+size 110

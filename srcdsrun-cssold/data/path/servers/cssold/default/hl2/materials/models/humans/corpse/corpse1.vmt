@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models/Humans/corpse/corpse1"
-	"$model" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb35d1d51872b11c293c42874af43a0f74ffa0148418bb24b9d47ecd055f502f
+size 87

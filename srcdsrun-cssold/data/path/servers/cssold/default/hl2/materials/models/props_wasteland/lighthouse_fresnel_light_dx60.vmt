@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
- 	"$model" 1
-	"$surfaceprop" "glass"
-//	"$color" "{245 232 180}"
-	"$basetexture" "models/Kleiner/glasslens"
-	"$additive" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d290105e6d534653366818aaec85e4e3d6d67c4326d2d71d6b27f9975ef0101
+size 152

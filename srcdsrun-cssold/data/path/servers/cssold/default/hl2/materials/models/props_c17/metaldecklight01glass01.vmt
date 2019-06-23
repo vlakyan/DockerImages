@@ -1,7 +1,3 @@
-
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTranslucentTexture
-	"$translucent" 1
-	"$basetexture" "models/props_c17/metaldecklight01glass01"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:df07a35eca3a3fbdc1359a68d36d644e7306e8c4b29b0f2f0e2402f533152a32
+size 155

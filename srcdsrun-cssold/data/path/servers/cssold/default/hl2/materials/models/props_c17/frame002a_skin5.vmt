@@ -1,10 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Models/props_c17/Frame002a_skin5"
-   	"$envmap" "env_cubemap"
-    	"$basealphaenvmapmask" 1 
-	"$envmaptint" .7 .7 .7
-	
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdc47da222d22833c92a3b4abaf3e41f168ecb4a92b9ffdca95145bf89e6c516
+size 171

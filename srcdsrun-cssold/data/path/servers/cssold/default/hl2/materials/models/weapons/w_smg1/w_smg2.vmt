@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "Models/Weapons/W_smg1/w_smg2"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "Models/weapons/w_smg1/w_smg2specularmask"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:907bbcc24da30a3665a607089b2450042e17e3a6e912abd982ead6fad666a88e
+size 159

@@ -1,17 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel_oriented"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$spritescale" "1"
-	"$translucent" 1
-	"$basetexture" "sprites/bubble"
-	"Proxies"
-	{
-		"AnimatedTexture"
-		{
-			"animatedtexturevar" "$basetexture"
-			"animatedtextureframenumvar" "$frame"
-			"animatedtextureframerate" 20
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:28f7d89e01451b1c9f62a3b69674c2d542570564068fc8daa74c01fdb7ffb4b8
+size 337

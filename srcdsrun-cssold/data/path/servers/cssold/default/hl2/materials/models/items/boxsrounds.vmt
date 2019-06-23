@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/Items/BoxSRounds"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff5680c5e940b4298ccffaeeeae7a8021d1380152ba8d8c10642066c6be62921
+size 108

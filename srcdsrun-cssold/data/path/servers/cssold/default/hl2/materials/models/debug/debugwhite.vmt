@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "Models/Debug/debugwhite"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e688d4f8223697d98cbb96f1fb4599a0eef3ecb0562e17e53457a22163ab5467
+size 108

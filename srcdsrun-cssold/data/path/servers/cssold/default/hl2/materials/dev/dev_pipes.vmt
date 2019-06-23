@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "dev/dev_pipes"
-	"$bumpmap" "dev/dev_pipesbump"
-	"$surfaceprop" "concrete"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a40d2ca4734b539e614985157c8de396e7471c747e255c7e7f76ae78c6ecd4be
+size 122

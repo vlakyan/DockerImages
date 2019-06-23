@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Dev/dev_measurerails01"
-	"$surfaceprop" "metal"
-	"%keywords" "c17downtown"
-	"%compilepassbullets" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ca7d3391c3c36c6feca59c53bed5d5554771133441137bb0f26c01e8bfcbb49
+size 218

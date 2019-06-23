@@ -1,13 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Concrete/concretefloor013c"
-	"$surfaceprop" "concrete"
-	"$bumpmap" "concrete/concretefloor013c_normal"
-	"$envmap" "env_cubemap"
-	"%keywords" "wasteland"
-	"$normalmapalphaenvmapmask" 1
-//	"$envmapcontrast" 1
-//	"$envmapsaturation" 1
-	//"$envmaptint" "[ .5 .5 .5]"
-	"$fresnelreflection" .3
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b6857e582ed3581da94d456a72c779b100ffd5ae312fc4e214e2534d749ed56
+size 343

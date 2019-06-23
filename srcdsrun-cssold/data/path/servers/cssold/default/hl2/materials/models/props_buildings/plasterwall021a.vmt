@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Plaster/plasterwall021a"
-        "$model" 1
-        "$surfaceprop" "concrete"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bdf61c852c7ffd75cdd01c72628513f4a4c63a2d108b26b500faef036d43fc4
+size 124

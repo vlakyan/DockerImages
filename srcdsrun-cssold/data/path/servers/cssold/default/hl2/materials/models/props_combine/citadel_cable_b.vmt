@@ -1,13 +1,3 @@
-"VertexLitGeneric"
-{
-	//"$color"				"[1 1 1]"
-	"$baseTexture"			"models/props_combine/citadel_cable"
-	//"$selfIllum"			0
-	"$translucent"			1
-	//"$alphatest"			1
-	//"$nofog" 1
-	"$model" 1
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .1 .1 .1]"
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:379d5d324b7bba113a3f7ffe91f451160cb44864d5a96af24c2a92661f14596a
+size 257

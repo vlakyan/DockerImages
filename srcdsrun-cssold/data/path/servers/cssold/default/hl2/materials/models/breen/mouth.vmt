@@ -1,7 +1,3 @@
-"Teeth"
-{
-	"$basetexture" "models/Breen/mouth"
-	"$model" 1
-	"$clientshader" "MouthShader"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:04e0f60a755017767566ac95166811786e414eaf2b0d83b68029ca8b1fb53d05
+size 117

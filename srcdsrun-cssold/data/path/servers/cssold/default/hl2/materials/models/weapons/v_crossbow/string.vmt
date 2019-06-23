@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-
-	"$baseTexture" "Models/Weapons/v_crossbow/string"
-	"$bumpmap" "Models/Weapons/v_crossbow/string_normal"
-//	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecc832bd0687adae2daea819caab807e9d85da8c73716da6cb0477b39a423b38
+size 195

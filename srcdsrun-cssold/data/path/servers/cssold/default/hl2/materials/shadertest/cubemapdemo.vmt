@@ -1,5 +1,3 @@
-"unlitgeneric"
-{
-	"$envmap" "shadertest/cubedemo"
-	"%tooltexture" "shadertest/cubedemo"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c4aba7857bc2a8d5c6b3f0eb2c7347af17bdbcf41f217b38893774ffc35aa12
+size 95
