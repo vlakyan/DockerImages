@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "props/signbillboard001a"
-	"$surfaceprop" "metal"
-	"%keywords" "c17downtown"
-	"$alphatest" 1
-	"$nomip" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:beb63041355b4d94df207624ab1793188aada74e137b4c891d356430491025f3
+size 154

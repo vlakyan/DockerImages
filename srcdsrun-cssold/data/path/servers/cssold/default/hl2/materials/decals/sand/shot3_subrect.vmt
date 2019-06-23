@@ -1,7 +1,3 @@
-"Subrect"
-{
-	"$Material"	"decals/decals_mod2x"
-	"$Pos"		"896 256"
-	"$Size"		"64 64"
-	"$decalscale" 	0.40
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d55f8fab4705d313190decbe5d9f2ff8b002f23fc80b2acaff39b9d77cab096
+size 112

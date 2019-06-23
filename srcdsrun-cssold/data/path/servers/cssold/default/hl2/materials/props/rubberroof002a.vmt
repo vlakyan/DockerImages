@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Props/rubberroof002a"
-	"$surfaceprop" "rubber"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f804d02469ee2df4c32b9d797d60cf94a9ab72ef566deed800fa20a0d205574
+size 134

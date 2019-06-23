@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "Decals/decalporthole001b"
-	"$selfillum" 1
-	"$surfaceprop" "glass"
-	"$reflectivity" "[0 0 0]"
-	"$nodecal" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8effd894c72d6d2b00642d5e26cac2823da22f931bd17fd65993d331c5dd86b3
+size 153

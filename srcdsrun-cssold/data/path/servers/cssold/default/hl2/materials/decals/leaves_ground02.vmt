@@ -1,12 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapVertexAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Decals/leaves_ground02"
-//	"$vertexcolor" 1
-//	"$vertexalpha" 1
-	"$decal" 1
-	"$decalscale" 0.5
-//	"$decalfadeduration" 0.50
-//	"$decalfadetime" 5.00
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:97505f6141b63b5c6f76996db24fd966b7c0b403b94ea19414bf008315000691
+size 281

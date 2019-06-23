@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "Lights/White005"
-	"$selfillum" 1
-	"$surfaceprop" "glass"
-	"$reflectivity" "[0 0 0]"
-	"$nodecal" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a8c27f0b59afb955350e49c29049c0f46a7e53ce4ce1645a25275cf027f4cad
+size 144

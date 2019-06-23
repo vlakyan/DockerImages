@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/redflare"
-	"$additive" "1"
-	"$vertexcolor" 1
-	"$ignoreZ" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a89545b9590b2173976745a6809220ad73bb5db0989f9cdb1640c05fec2e2a5
+size 112

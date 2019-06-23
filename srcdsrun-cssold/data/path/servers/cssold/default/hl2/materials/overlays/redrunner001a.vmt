@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "overlays/redrunner001a"
-	"$translucent" 1
-	"$decal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ef365a4c2d053d25dfe0230b1a38cb802ce051cec30b346355c04879ed16084
+size 102

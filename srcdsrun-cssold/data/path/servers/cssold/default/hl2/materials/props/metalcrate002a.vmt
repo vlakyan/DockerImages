@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Props/metalcrate002a"
-	"$surfaceprop" "metalpanel"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:197b7f54a2c7df1ed8136652e34fcd24eda21408bae9543098a12bbf0a1cadd7
+size 138

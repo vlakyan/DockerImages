@@ -1,8 +1,3 @@
-"Wireframe"
-{
-	"$vertexcolor" 1
-	"$ignorez" 1
-	"$decal" 1
-	"$model" 1
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:94f1fbf841801868152f02b48188c6ead2fecb51ffec3d99e7cce937af302d84
+size 100

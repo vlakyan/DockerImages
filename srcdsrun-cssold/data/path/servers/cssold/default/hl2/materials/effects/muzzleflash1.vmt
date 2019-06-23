@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/muzzleflash1"
-	"$additive" "1"
-	"$vertexcolor" 1
-	"$vertexalpha" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6850dd9feab4944c7e6f212a385bcf0ee93b267cddbc8b22ad88e7ac15a170d
+size 118

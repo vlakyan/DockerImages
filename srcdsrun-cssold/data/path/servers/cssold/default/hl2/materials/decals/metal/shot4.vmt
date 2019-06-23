@@ -1,5 +1,3 @@
-"DecalModulate"
-{
-	"$basetexture" "Decals/metal/shot4"
-	"$decalscale" 0.10
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b2b061fc5e01ae79de97c33851636e73a0114e64b7ddfc96175d3dd5556f0f6
+size 82

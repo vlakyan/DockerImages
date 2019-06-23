@@ -1,18 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/prisonmap_disp"
-	"Proxies"
-	{
-
-
-
-		"AnimatedTexture"
-		{
-			"animatedtexturevar" "$basetexture"
-			"animatedtextureframenumvar" "$frame"
-			"animatedtextureframerate" 15 
-		}
-
-	}
-	
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e36cc02bed76957d3aec2f0f4db2aa54be2e9be7d7a6628a9641e638101c7b01
+size 243

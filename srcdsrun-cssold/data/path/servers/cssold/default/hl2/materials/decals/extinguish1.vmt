@@ -1,13 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$basetexture" "Decals/extinguish1"
-	"$translucent" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$decal" 1
-	"$decalscale" 0.25
-	"$decalfadeduration" 6.00
-	"$decalfadetime" 0.00
-	"$modelmaterial" "decals/extinguish1model"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7edbbe00e5fab698867ac6ff40722657b7bcde1eaf098cba9bc8f16c566f039f
+size 309

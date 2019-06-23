@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "props/metalpanel013b"
-	"$surfaceprop" "metal"
-	"%keywords" "borealis"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:292e38f81257f65f65681b402ffdd244f6fecce6409cbed481d20afec784438d
+size 158

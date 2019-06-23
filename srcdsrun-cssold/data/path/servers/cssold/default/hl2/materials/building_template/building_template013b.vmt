@@ -1,14 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Building_Template/Building_Template013b"
-	"$surfaceprop" "concrete"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .75 .75 .75]"
-	"LightmappedGeneric_DX8"
-	{
-		"$envmaptint" "[.25 .25 .25]"
-	} 
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a450247a50cf3df43c244d458563eec0f0dd1a3f27169e663ed035fc43f341f1
+size 316

@@ -1,11 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Plaster/plasterwall013d"
-	"$surfaceprop" "plaster"
-	"%keywords" "c17downtown"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .5 .5 .5]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c37ab2c26d7ed61948f188928b118ee70537d00bbcb4f03fdec65e35b16acfe8
+size 255

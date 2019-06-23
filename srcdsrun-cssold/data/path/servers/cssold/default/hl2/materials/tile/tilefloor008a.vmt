@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Tile/tilefloor008a"
-	"$surfaceprop" "tile"
-	"%keywords" "c17downtown"
-	"$bumpmap" "tile/tilefloor008a_normal"
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a4248a693aa32aae3deb09e79fa654a472bc3abc3e059d0e60861bd95b18982
+size 161

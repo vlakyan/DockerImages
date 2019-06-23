@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Building_Template/Roof_Template001b"
-	"$bumpmap" "Building_Template/Roof_Template001b_normal"
-	"$surfaceprop" "concrete"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d33af0a7e2e2d5c342591a29c503afa4acf2cfd785a4e0735d87948c642deae1
+size 169

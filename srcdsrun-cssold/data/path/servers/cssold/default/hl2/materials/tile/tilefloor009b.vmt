@@ -1,13 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Tile/tilefloor009b"
-	"$surfaceprop" "tile"
-	"%keywords" "c17downtown,wasteland"
-	"$bumpmap" "tile/tilefloor009b_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .42 .42 .42 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f01213a7ccb84d1bfcaa21c619333c58ff04648de4205a52824a694bbe13a1c7
+size 326

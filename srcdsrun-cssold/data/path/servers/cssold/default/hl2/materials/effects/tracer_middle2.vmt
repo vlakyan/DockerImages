@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: AddTexture
-	"$basetexture" "effects/tracer_middle2"
-	"$additive" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d48bee6ff0734976118f99b0bfaebad248d6f4e1f2528049d212f5ec56eb3a63
+size 113

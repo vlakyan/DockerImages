@@ -1,8 +1,3 @@
-unlitgeneric
-{
-	"%tooltexture" "editor/translucentflat"
-	"$flat" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$decal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:186f72147d0313d4a2be3d33aab479611e0b71d2eb1d566cca3d1443797008df
+size 125

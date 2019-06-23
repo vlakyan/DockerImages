@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTexture
-	"$basetexture" "skybox/sky_day01_07ft"
-	"$nofog" 1
-	$ignorez 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3a8c3f872799db5357d99aa2046c70e64489fa4d5a959a94024da88ecb53f5f
+size 123

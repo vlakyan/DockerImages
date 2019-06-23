@@ -1,7 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "editor/logic_timer"
-	"$no_fullbright" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5407471e24c56eef874563a20890b1106696052cb5b08d9539b6e47e826ffc10
+size 146

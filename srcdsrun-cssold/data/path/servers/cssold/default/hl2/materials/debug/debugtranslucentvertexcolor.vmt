@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$translucent" 1
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f20957c19cfb0033ad59ad467b4965642118c6aa8d3224a048d75f760a240c4
+size 100

@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "particle/particle_composite"
-	"$vertexcolor" "1"
-	"$vertexalpha" "1"
-	"$translucent" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d648033522dd2cbc07a0e4bdc8a1a10e74c8c48fc7db0087dfb2f4f350852610
+size 132

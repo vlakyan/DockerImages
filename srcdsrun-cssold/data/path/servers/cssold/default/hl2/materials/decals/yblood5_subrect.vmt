@@ -1,8 +1,3 @@
-"Subrect"
-{
-	"$Material"	"decals/decals_mod2x"
-	"$Pos"		"896 128"
-	"$Size"		"64 64"
-	"$decalscale" 	0.25
-	"$modelmaterial" "decals/YBlood5"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a901f3fcf1f9e647e0f8c735fd06ef07bb9d29c62e1c1b11fd73ea09694a57d3
+size 148

@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: AddTexture
-	"$basetexture" "effects/blueblackflash"
-	"$additive" 1
-	"$vertexcolor" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:18762e156058a152382a6c2f4894c4412b55cf201106f8675fbe67469381a363
+size 132

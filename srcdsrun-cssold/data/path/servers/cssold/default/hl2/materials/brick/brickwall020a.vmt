@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Brick/brickwall020a"
-	"$surfaceprop" "brick"
-	"%keywords" "c17downtown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3ea7221d182942817368ede172e87322d113ccf906f4adbffd6f90f53edc760
+size 160

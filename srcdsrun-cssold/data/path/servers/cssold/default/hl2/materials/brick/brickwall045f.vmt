@@ -1,5 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Brick/brickwall045f"
-	"$surfaceprop" "brick"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cdda745b2528174a18f29e3a991a02fd3bf90553419c35d0a475f0322d6d0ca
+size 92

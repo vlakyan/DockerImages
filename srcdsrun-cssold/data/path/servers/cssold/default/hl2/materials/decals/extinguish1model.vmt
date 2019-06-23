@@ -1,12 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$basetexture" "Decals/extinguish1"
-	"$translucent" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$decal" 1
-	"$decalscale" 0.25
-	"$decalfadeduration" 6.00
-	"$decalfadetime" 0.00
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:137db85b10732214db11cde553eefe2fd95b96be33e772f3210e318da29cab92
+size 262

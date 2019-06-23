@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/blueflare1"
-	"$additive" "1"
-	"$vertexcolor" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd83dc71a50dccf838e3255f1506fe293dd63a58aa1e220dcbafcf8c3d970d9f
+size 97

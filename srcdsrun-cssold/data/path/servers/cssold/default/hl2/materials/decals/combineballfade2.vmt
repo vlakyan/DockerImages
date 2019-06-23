@@ -1,13 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: DecalSelfIllumVertexAlphaBlend
-	"$translucent" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$decal" 1
-	"$basetexture" "decals/plasmaglowalpha"
-	"$decalscale" 2.00
-	"$decalfadeduration" 2.00
-	"$decalfadetime" 0.00
-	"$color" "{0 27 255}"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:24f6fd5223e14789409743ec3231e65d45422d344fe712152446919d0e061210
+size 284

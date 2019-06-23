@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Brick/brickwall048d"
-	"$surfaceprop" "brick"
-	"%keywords" "wasteland"
-	"$bumpmap" "Brick/brickwall048d_normal"
-	"$parallaxmap" "Brick/brickwall048d_height"
-	"$parallaxmapscale" ".005"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bb2fd3d7cea311b3e4ef532bd700ce708fee083c4e144b4cf38840e9ae30481
+size 235

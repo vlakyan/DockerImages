@@ -1,14 +1,3 @@
-"Shadow"
-{
-//	"$basetexture" "Decals/simpleshadow"
-	"$no_fullbright" 1
-	"$decal" 1
-	"%noToolTexture" 1
-
-	"Proxies"
-	{		
-		"Shadow"
-		{
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:de2db8d5dc43766fb9f65e5b83c1c6585333738e2cc4a5095ca5817f4f51d51a
+size 158

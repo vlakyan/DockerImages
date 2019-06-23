@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	"$color"				"[1 1 1]"
-	"$baseTexture"			"props/locks_large"
-	"$envmap" "env_cubemap"
-	"$basealphaenvmapmask" 1
-	"$envmaptint" "[ .125 .125 .125]"
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:650c8112e9782a52a929a4bd0ed95ecae50a8b9c1ef2541e84b4b5fbb7fe7c25
+size 182

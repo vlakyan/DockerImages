@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Decals/decalpoweroutlet001a"
-	"$decal" 1
-	"$decalscale" 0.13
-	"%keywords" "c17skyscraper"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f711cb2435ab21b6ef24a8f874ebd13d497ba20c81e14a37f933f01d732d88e
+size 213

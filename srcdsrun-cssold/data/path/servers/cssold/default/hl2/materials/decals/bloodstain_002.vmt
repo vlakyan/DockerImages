@@ -1,6 +1,3 @@
-"DecalModulate"
-{
-	"$decal" 1
-	"$basetexture" "Decals/bloodstain_002"
-	"$decalscale" 0.25
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:043f33264a698fb3f2834f28991ad8cbf25f5aedef358a7f73ea0649650d2690
+size 98

@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "props/decal_prison03a"
-	"$decal" 1
-	"$decalscale" 0.25
-	"%keywords" "wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:89a3f79d08106d3dba788406fddb13901bf8b6965b3aa9ad404d54e20c39d91c
+size 203

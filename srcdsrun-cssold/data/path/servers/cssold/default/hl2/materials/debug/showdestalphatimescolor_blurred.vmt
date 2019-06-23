@@ -1,8 +1,3 @@
-"ShowDestAlpha"
-{
-	"$MULTIPLYBYCOLOR" 1
-	"$MULTIPLYBYALPHA" 1
-	"$MULTIPLYBY_MAX_HDR_OVERBRIGHT" 1
-	"$fbtexture" "_rt_SmallHDR0"
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8887f619dd29036d4cc8f3d824aaa4e09b402efd313138c98e405309cfc70466
+size 158

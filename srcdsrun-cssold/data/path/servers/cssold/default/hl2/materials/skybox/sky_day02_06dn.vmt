@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "skybox/sky_day02_06dn"
-	"$nofog" 1
-	$ignorez 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:908a8993b9aae1ab4db05e80826d1f06f0f1ae0a9f12db919421c9fdb6e6ef6c
+size 89

@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Decals/wood/shot2"
-	"$decalscale" 0.10
-	"$translucent" 1
-	"$decal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d20016ebe87e8692a37ca53e5ebf34cc28730dd42ae915bc0839ec5d88a7ce1b
+size 116

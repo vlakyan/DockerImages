@@ -1,13 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Stone/stonewall022b"
-	"$surfaceprop" "concrete"
-	"$bumpmap" "stone/stonewall022b_normal"
-	"%keywords" "c17downtown"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" 1
-	"$envmaptint" "[ .75 .75 .75 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac3a3e045140e9a4775c34800746ee37c214d4785f3d3bb811f837ee057ba163
+size 322

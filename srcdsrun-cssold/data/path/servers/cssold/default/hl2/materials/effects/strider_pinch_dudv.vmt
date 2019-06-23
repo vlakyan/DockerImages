@@ -1,19 +1,3 @@
-"Refract"
-{
- 	"Refract_DX60"
-	{
-		"$fallbackmaterial" "effects/strider_pinch_dudv_dx60"
-	}
-
- 	"$model" 1
- 	"$refractamount" ".16"
- 	"$bluramount" "0"
-//	"$scale" "[1 1]"
- 	"$dudvmap" "effects/strider_pinch_dudv"
-	"$nofog" "1"
- 	"$normalmap" "effects/strider_pinch_normal"
-	"$bumpframe" "0"
-	"$translucent" "1"
-	"$ignorez" "1"
-	"$forcerefract" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dbc7518702b521199be8fea008b7adf92659031897066d66e42c439032cf531
+size 364

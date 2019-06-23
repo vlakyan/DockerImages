@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Building_Template/Building_Trainstation_Window002d"
-	"$surfaceprop" "glass"
-	"$selfillum" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d47d068354e73e23ef05f668c3392c52c56b3eaa1fcfcc3e57ccda788673e6e
+size 140

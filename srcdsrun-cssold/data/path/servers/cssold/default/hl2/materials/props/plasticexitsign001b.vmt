@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Props/plasticexitsign001b"
-	"$selfillum" 1
-	"$surfaceprop" "metalpanel"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a956bdf77d838237c6cdbde214db8858820f03ebda38a2187a76b88865b20b
+size 120

@@ -1,10 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "overlays/puddle001a"
-	"$envmap" "env_cubemap"
-//	"$envmapmask" "overlays/puddle001a_m"	
-	"$translucent" 1
-	"$decal" 1
-	"$surfaceprop" "gravel"
-	"%keywords" "coastline wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7af088b3216548abdfb45f2404e04692f262cba38e491c1308a091ecba630941
+size 230

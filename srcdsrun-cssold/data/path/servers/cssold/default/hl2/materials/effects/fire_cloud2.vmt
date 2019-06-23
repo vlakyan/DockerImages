@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/fire_cloud2"
-	"$additive" "1"
-	"$vertexalpha" "1"
-	"$vertexcolor" 1
-	"$translucent" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:66ce57d27b10107873d5caf4a000127fc7c750b8f63b1b9961742f3fcda3f98a
+size 140

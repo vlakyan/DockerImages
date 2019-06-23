@@ -1,5 +1,3 @@
-"DecalModulate"
-{
-	"$basetexture" "Decals/Antlion/shot5"
-	"$decalscale" 0.10
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc4130d90ae0f7a2073fcb55aec5dba203a00d346229c07b61650a792e61a73b
+size 84

@@ -1,5 +1,3 @@
-"DecalModulate"
-{
-	"$basetexture" "Decals/manhackcut"
-	"$decalscale" 0.10
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:82194a1bbda041394bddaed981f9ff212044b5301c2c8d34db2a21e2a5f5dc32
+size 81

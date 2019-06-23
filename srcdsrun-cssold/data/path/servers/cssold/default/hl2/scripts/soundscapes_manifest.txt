@@ -1,16 +1,3 @@
-soundscaples_manifest
-{
-	"file"		"scripts/soundscapes.txt"
-
-	// List additional soundscape files here
-
-	"file"		"scripts/soundscapes_canals.txt"
-	"file"		"scripts/soundscapes_klab.txt"
-	"file"		"scripts/soundscapes_elab.txt"
-	"file"		"scripts/soundscapes_streetwar.txt"
-	"file"		"scripts/soundscapes_citadel.txt"
-	"file"		"scripts/soundscapes_town.txt"
-	"file"		"scripts/soundscapes_coast.txt"
-	"file"		"scripts/soundscapes_prison.txt"
-	"file"		"scripts/soundscapes_trainyard.txt"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1f990dcaff94114e156d9de290d9d7296246b46453651dd6bcb5e52b9cb38c5
+size 497

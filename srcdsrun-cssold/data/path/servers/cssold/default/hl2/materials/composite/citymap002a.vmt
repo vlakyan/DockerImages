@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "Composite/citymap002a"
-	"$selfillum" 1
-	"%keywords" "c17citadel"
-	"$surfaceprop" "concrete"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6c10e404de16d7c5231e260ac4600d396963e0a7f6fec06593df169c9e3bf51
+size 190

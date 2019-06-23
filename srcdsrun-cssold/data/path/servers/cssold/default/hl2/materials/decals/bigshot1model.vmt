@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-// Uncomment this if you add an alpha channel to the base texture
-//	"$translucent" 1
-	"$basetexture" "Decals/bigshot1"
-	"$decal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:46015ed95d855c7a2e6ab16b623ce5119cdfd36c508543badc8e8e7f69a41b9c
+size 217

@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Decals/decalIndustrialnumber06a"
-	"$decal" 1
-	"$decalscale" 0.5
-	"%keywords" "debris"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:871a9a1828b9bdca35880b5f0f83eb9b9a1cb06517d02c06c637024ff757bb54
+size 209

@@ -1,11 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Stone/stonewall017c"
-	"$surfaceprop" "concrete"
-	"$basealphaenvmapmask" 1
-	"$envmap" "env_cubemap"
-	"%keywords" "c17downtown,wasteland"
-	"$envmapsaturation" 1
-	"$envmapcontrast" 1
-	"$envmaptint" "[ .75 .75 .75]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:38c7119e0e8f864952e284da781020ce5c8e744e4dff443e0a7faa8b05da4471
+size 265

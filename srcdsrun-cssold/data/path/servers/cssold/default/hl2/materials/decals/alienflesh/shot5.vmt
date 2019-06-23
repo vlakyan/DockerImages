@@ -1,7 +1,3 @@
-"DecalModulate"
-{
-	"$translucent" 1
-	"$basetexture" "Decals/alienflesh/shot5"
-	"$decal" 1
-	"$decalscale" 0.1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:43771490c4710bfdbb175435ad493d2427ba0eff1c27baf34fb2868b8cb7a50c
+size 118

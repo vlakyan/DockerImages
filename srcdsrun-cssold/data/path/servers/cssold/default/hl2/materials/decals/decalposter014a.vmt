@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "props/paperposter001a"
-	"$decal" 1
-	"$decalscale" 0.25
-	"%keywords" "c17downtown,wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:623620181a69ad87ce188b5eb4fd19e07a5eb67936d4e7c5dc0c491c21b2d4e4
+size 215

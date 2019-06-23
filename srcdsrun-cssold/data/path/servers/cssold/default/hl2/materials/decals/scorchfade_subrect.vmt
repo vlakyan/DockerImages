@@ -1,12 +1,3 @@
-"Subrect"
-{
-	"$Material"	"decals/decals_lit"
-	"$Pos"		"128 0"
-	"$Size"		"128 128"
-	"$vertexcolor" 	1
-	"$vertexalpha" 	1
-	"$decalscale" 	0.20
-	"$decalfadeduration" 	10.00
-	"$decalfadetime" 	0.00
-	"$modelmaterial" "decals/scorchfademodel"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb0de76e1e8964a775904112796d78ac6dbb42d3854d5287cf568228dcdf231f
+size 249

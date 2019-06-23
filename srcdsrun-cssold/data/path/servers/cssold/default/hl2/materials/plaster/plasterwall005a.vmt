@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Plaster/plasterwall005a"
-	"$surfaceprop" "plaster"
-	"%keywords" "c17downtown,wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e477fb89b9b33d132d29359b56b9532293a8dd237b2328cd93a89c5be86911f
+size 136

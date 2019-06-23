@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "Editor/Air_node_hint"
-	"$translucent" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:69dd0e55ec8c8034efdd2b06782dd336d86ca45ce61af472cff1ba61093ef8f0
+size 87

@@ -1,11 +1,3 @@
-"UnlitGeneric"
-//"Modulate"
-{
-	// Original shader: BaseTimesVertexColorAlphaBlend
-	"$basetexture" "effects/splashwake1"
-	"$vertexcolor" "1"
-	"$vertexalpha" "1"
-//	"$mod2x" "1"
-	"$translucent" "1"
-}
-	
+version https://git-lfs.github.com/spec/v1
+oid sha256:27230d70e4d16f09704047a3601a0335064b38e31da8f60070bbfef1872583b7
+size 209

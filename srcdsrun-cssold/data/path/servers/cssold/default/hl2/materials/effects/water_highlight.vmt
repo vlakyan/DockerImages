@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/water_highlight"
-	"$vertexcolor" "1"
-	"$translucent" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b453987240d586431f7ddcf26381d9c2f9932d32d5d8b8861ef37f862eb2335
+size 107

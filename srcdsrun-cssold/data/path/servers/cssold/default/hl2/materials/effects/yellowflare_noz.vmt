@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/yellowflare"
-	"$additive" "1"
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5706477151c0dacdd5d6ebe8a28c083a8b9ab5eaaafa485aa760ce35e93025af
+size 134

@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Decals/decal_signroute007b"
-	"$decal" 1
-	"$decalscale" 0.125
-	"%keywords" "borealis"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:93f58e5281bc01f38e508d7d5a9285652eead1f736f0825e25cf745fbe77ce60
+size 208

@@ -1,13 +1,3 @@
-"UnlitGeneric"
-{
-	"$baseTexture" "Effects/tp_eyefx/tp_eyefx_eli"
-	"Proxies"
-	{
-		"AnimatedTexture"
-		{
-			"animatedtexturevar" "$basetexture"
-			"animatedtextureframenumvar" "$frame"
-			"animatedtextureframerate" 8
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dfa0ee0bcf1e190ab3e35e0008f0b962ec354b31ed8302137e61c79ce941626
+size 237

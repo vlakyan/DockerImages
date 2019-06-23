@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Building_Template/Building_Trainstation_Truss_Template001b"
-	"$surfaceprop" "metal"
-	"$alphatest" 1
-	"%compilepassbullets" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:614d5d9f9d7d0892029367727a3b64d7ecc3478176e1936ba3940363cc926615
+size 174

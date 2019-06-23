@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/bubble"
-	"$vertexcolor" "1"
-	"$vertexalpha" "1"
-	"$translucent" "1"
-	"$groupbame" "bubble"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:91d1b38cb96355e1ffbd17df319765944ff1d1237ea49ed0df2469f9191809e9
+size 143

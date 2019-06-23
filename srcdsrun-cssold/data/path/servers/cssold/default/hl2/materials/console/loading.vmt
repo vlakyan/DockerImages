@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesVertexColorAlphaBlendNoOverbright
-	"$translucent" 1
-	"$basetexture" "console/loading"
-	"$vertexcolor" 1
-	"$no_fullbright" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4c1172cdc20b136d532e2372dbeeefdb7b966a08e84133715571dce5301f390
+size 181

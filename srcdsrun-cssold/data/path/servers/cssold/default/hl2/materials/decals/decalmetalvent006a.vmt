@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Decals/decalmetalvent006a"
-	"$decal" 1
-	"$decalscale" 1
-	"%keywords" "airexchange,c17industrial,wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:13088476e59f89181fb75f1fd36740e0b55f61ba461303d808d716205bc44ff5
+size 230

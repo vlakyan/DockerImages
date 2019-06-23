@@ -1,8 +1,3 @@
-"Subrect"
-{
-	"$Material"	"decals/decals_lit"
-	"$Pos"		"128 128"
-	"$Size"		"128 128"
-	"$decalscale" 	0.50
-	"$modelmaterial" "Decals/beersplashmodel"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c28677f1b1fafae1fa90bc0f6f121ee65fb055c8011f4d7423e24ceaafc368
+size 156

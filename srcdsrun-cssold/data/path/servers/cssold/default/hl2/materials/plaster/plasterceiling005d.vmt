@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Plaster/plasterceiling005d"
-	"$bumpmap" "Plaster/plasterceiling005d_normal"
-	"$surfaceprop" "plaster"
-	"%keywords" "c17skyscraper"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:09976f128c12d1c55c41945a887ff2c66cf554b4179084aa972f418d4026aafe
+size 180

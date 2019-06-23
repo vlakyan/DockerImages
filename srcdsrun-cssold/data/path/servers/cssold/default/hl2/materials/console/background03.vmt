@@ -1,9 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "console/background03"
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" 1
-	"$no_fullbright" "1"
-	"$nolod" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f560bffc4edeeaf090b91ddce5be08dfbebc1c51dc6696f63a01a05d90e8d196
+size 153

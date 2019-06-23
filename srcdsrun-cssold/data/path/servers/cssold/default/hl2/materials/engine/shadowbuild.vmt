@@ -1,8 +1,3 @@
-// Used to generate render-to-texture shadows
-"ShadowBuild"
-{
-	"$nocull" 1
-	"$model" 1
-	"$no_fullbright" 1
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e16fcb46f858e54f2046cd55bf909d68b656a0179dc217d0d26c84c8332c225a
+size 137

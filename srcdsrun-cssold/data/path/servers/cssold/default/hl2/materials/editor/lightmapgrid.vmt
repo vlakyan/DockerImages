@@ -1,6 +1,3 @@
-"DebugLuxels"
-{
-	"$basetexture" "editor/lightmapgrid"
-	"$noscale" 1
-	"$vertexcolor" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:21ffadd6501ee0d8acd3ec8fc4c475554fe2e15503e0e877bfe847f0ea046ce9
+size 94

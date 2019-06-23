@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Props/carpetfloor007a"
-	"$surfaceprop" "carpet"
-	"%keywords" "c17skyscraper"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:293b206ec1aea3aed085f284b77e2e3bb6ce2dc263c70bef1d683006b5caca82
+size 165

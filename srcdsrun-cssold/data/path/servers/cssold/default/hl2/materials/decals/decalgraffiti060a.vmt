@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Decals/decalgraffiti060a"
-	"$decal" 1
-	"$decalscale" 0.25
-	"%keywords" "c17downtown"
-	"$translucent" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0d623820962d94627d4433b63571f572f558f6e9ae77d4aa2d3cf3b20d18194
+size 153

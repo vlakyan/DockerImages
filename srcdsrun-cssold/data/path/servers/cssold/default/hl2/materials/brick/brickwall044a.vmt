@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Brick/brickwall044a"
-	"$surfaceprop" "brick"
-	"%keywords" "c17industrial,wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b428927fe3b58560292a17eb3968cd1728a36b619f80bc5c6a8bfbdb173b66ec
+size 132

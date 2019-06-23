@@ -1,16 +1,3 @@
-"UnLitTwoTexture"
-{
-	"$basetexture" "Props/combine_display01a"
-	"$surfaceprop" "glass"
-	"$texture2"	"dev/dev_scanline"
-	"Proxies"
-	{
-
-		"TextureScroll"
-		{
-			"texturescrollvar" "$texture2transform"
-			"texturescrollrate" 3
-			"texturescrollangle" 90
-		}
-}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf9045585104f7c7abf5eda4e47c54cb5209d74ba60811687ac90630f0b2735d
+size 273

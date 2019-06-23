@@ -1,7 +1,3 @@
-"Subrect"
-{
-	"$Material"	"decals/decals_lit"
-	"$Pos"		"64 32"
-	"$Size"		"64 64"
-	"$modelmaterial" "decals/bigshot1model"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:da98a173b72eb4bdb4bc0c2a6194c13ad7719b64dadd0731efb3f6f123b12b93
+size 128

@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Plaster/plasterwall035e"
-	"$surfaceprop" "plaster"
-	"%keywords" "c17downtown"
-	"$bumpmap" "plaster/plasterwall035e_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fbb404d33eeb091ead0e3fe51e3a0fc1ad25ede25274a827b52567e2de19f80
+size 172

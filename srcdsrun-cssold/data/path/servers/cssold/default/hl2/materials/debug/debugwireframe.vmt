@@ -1,8 +1,3 @@
-"Wireframe"
-{
-	// Original shader: Wireframe
-	"$color" "[ 1.00 1.00 1.00 ]"
-	"$ignorez" 0
-	"$decal" 1
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:09efff25731f07e04e219f1537f25f3bc88929d938e23417e5061278858aef8b
+size 132

@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Decals/break3"
-	"$decal" 1
-	"$modelmaterial" "decals/break3model"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a85db1e98a7d7fba552285ab7cefb453a12dfbbbd6528f2f42584f00ba3f1e39
+size 188

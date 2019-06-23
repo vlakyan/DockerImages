@@ -1,6 +1,3 @@
-"Wireframe"
-{
-	"$color" "[0 1 .5]"
-	"$ignoreZ" 0
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:27992ceab157a5179a69d530e04104a755cdf1c5fc145fabc07f8619b19bc8f4
+size 77

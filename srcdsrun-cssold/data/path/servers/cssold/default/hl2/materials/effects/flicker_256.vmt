@@ -1,15 +1,3 @@
-"Modulate"
-{
-	"$translucent" 1
-	"$basetexture" "effects/flicker_256"
-	"$MOD2X" 1
-	"Proxies"
-	{
-		"AnimatedTexture"
-		{
-			"animatedtexturevar" "$basetexture"
-			"animatedtextureframenumvar" "$frame"
-			"animatedtextureframerate" 24
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe87d36c999a11f6809ce33c6fb0010697a1d0dbc0090a3447f07a41c41089d2
+size 256

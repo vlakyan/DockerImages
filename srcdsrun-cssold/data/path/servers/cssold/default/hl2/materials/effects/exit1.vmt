@@ -1,17 +1,3 @@
-"UnlitGeneric"
-{
-//	"$spriteorientation" "vp_parallel_oriented"
-//	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$translucent" 1
-	"$basetexture" "effects/exit1"
-//	"$selfillum" 1
-	"Proxies"
-	{
-		"AnimatedTexture"
-		{
-			"animatedtexturevar" "$basetexture"
-			"animatedtextureframenumvar" "$frame"
-			"animatedtextureframerate" 10
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5902bf6b2dea09189bb1de8d57461d4b2e0bc2181ec889274f4dfa58246d9318
+size 344

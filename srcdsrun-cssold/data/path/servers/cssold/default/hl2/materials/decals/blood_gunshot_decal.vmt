@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$translucent" 1
-	"$basetexture" "Decals/blood_gunshot_decal"
-	"$decal" 1
-	"$decalscale" 0.25
-	"$modelmaterial" "decals/blood_gunshot_decalModel"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:669a0d545a00e49fcc7a1dd0ef912727c21d74a98038aa173b1af5930cf5fcdd
+size 180

@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Props/rubberfloor009a"
-	"$surfaceprop" "rubber"
-	"$basealphaenvmapmask" 1
-	"$envmap" "env_cubemap"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:492944b37c8c154520a9be26ffe9d1554c015b46447eeec16d22fe72b39ec58a
+size 188

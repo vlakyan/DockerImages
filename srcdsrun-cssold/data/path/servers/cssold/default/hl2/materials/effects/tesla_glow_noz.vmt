@@ -1,9 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: AddTexture
-	"$basetexture" "effects/tesla_glow"
-	"$additive" 1
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"ignoreZ" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a60aa151561c918e5dd1a6d63aecd2e99ad363ebf89503449c18c83852b7fde
+size 161

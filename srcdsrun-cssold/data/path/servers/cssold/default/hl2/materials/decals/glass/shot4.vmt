@@ -1,5 +1,3 @@
-"DecalModulate"
-{
-	"$basetexture" "Decals/glass/shot4"
-	"$decalscale" 0.11
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:36e349be5df65fd9daeb5e6609ccedc24cb5295e7e85641db859e81ee3b1a536
+size 82

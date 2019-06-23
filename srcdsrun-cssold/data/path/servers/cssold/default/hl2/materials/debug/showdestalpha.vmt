@@ -1,6 +1,3 @@
-"ShowDestAlpha"
-{
-	"$fbtexture" "_rt_FullFrameFB"
-	"%noToolTexture" 1
-	"$MULTIPLYBYALPHA" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb77a80808aa81ae7b00c83372002140216a97ae7197d55fe1386409ebabfb23
+size 100

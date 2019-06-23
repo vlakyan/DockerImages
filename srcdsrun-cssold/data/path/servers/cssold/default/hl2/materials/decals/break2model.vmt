@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$translucent" 1
-	"$basetexture" "Decals/break2"
-	"$decal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:627952409d496463d33dbdacb9038842263011061605d3e7515a367f18d2a669
+size 91

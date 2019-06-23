@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: drawflat
-	"$flat" 1
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc955ed739c1c0ce74373076d15af81a6228056204aa83297ce5675f114e35da
+size 86

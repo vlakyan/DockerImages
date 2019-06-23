@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/fleck_cement1"
-	"$translucent" 1
-	"$vertexalpha" 1
-	"$vertexcolor" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b77213ba668fbe55fecaf716a21dc136b657af2c215b428aa7bcc10f822841ce
+size 120

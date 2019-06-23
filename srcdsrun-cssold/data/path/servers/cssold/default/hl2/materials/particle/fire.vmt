@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: AdditiveTextureAndVertexColor
-	"$basetexture" "particle/fire"
-	"$additive" 1
-	"$vertexcolor" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:57aaaad9f1f637ab7b4ffd73b8b623ca353f579bf81f5753b89c0c5f0eb66059
+size 142

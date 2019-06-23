@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Decals/Plaster014a"
-	"$decal" 1
-	"$decalscale" .25
-	"$translucent" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a76e54923c4b5cb067934227c463602ca805c90e4feace06a74fab7d21a0f10
+size 118

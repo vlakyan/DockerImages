@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Lights/fluorescent001a"
-	"$surfaceprop" "glass"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7653efbc72238e6f5a555b2281e4930d96e4e11ea36e39b9efbc2a3bf08f4b0
+size 135

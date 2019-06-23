@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/ar2_altfire1b"
-	"$additive" 1
-	"$translucent" 1
-	"$vertexcolor" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:914a3cdc4c35ae246339dc98d5ab96331e887c6b6e7462d4432b53159153fc99
+size 117

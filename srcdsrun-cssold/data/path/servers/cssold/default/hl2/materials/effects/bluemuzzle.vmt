@@ -1,7 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "effects/bluemuzzle"
-	"$spriterendermode" 8
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:85a8ac5ce45c7a903b0f8ed22b525aefc74d00429bbae95986b664519c446423
+size 149

@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Props/wooddrift006a"
-	"$surfaceprop" "wood"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3d82e31b4f41495e43ed51fb60992d640e457815e940cf21ae5d45db0e664ff
+size 131

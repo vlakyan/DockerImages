@@ -1,8 +1,3 @@
-"Modulate"
-{
-	"$znearer" 1
-	"$basetexture" "effects/combine_binocoverlay"
-	"$translucent" "1"
-	"$additive" "1"
-	"$mod2x" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b68dd413f51ff41caaccee1837ee8d4967e66469927ee142d2723c2071615b5f
+size 135

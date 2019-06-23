@@ -1,12 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: DecalDarkeningSpecularCubicEnvMap
-	"%tooltexture" "Decals/decalwastelandpuddle001a"
-//	"$envmap" "environment maps/borealis_003"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "decals/decalborealispuddlemask001a"
-	"$decal" 1
-	"$decalscale" 0.25
-	"$envmaptint" "[ 0.50 0.50 0.50 ]"
-	"%keywords" "borealis"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc287c163d9270f88992c22ce1f94f30be65f91c661253fa16ad2e285be19f00
+size 350

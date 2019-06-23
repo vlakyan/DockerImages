@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Props/signcaution002a"
-	"$surfaceprop" "metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8037c0088578a016860d7578b54c3826879a629600e275bfbd05eee537ce58a6
+size 134

@@ -1,8 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Decals/blood_gunshot_decal"
-	"$decal" 1
-	"$decalscale" 0.25
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c1889e0008eaa6fd6aac8d36bc24f362e4c320efd1fa6bb399356c69f8a1419
+size 180

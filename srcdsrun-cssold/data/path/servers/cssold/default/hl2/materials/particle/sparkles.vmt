@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesVertexColorAlphaBlend
-	"$translucent" 1
-	"$basetexture" "particle/sparkles"
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0bf44165fd564411282755cdb1c295dfae9bff4472f9d9ad7651c92f8b733f6
+size 169

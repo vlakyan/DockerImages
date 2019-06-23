@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: AddTexture
-	"$basetexture" "effects/energysplash"
-	"$additive" 1
-	"$vertexcolor" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e908f504344eef0ec5b9ab781179b4418896489973c15238a137792f7ac0973
+size 130

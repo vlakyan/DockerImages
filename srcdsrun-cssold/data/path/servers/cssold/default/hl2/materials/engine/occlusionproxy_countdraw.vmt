@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/black"	
-	"%noToolTexture" 1
-	"$writez" 0
-	"$nofog" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:24bba6cc6e48e7cf4f0d345e641c67bcaefbdf9c44bec717981942ea5929fcf6
+size 101

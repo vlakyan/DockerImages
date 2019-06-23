@@ -1,15 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Brick/brickwall034b"
-	"$surfaceprop" "brick"
-	"%keywords" "c17downtown"
-
-	"LightmappedGeneric_DX9"
-	{
-		"$envmap" "env_cubemap"
-		"$basealphaenvmapmask" 1
-		"$envmapcontrast" 1
-		"$envmapsaturation" 1
-		"$envmaptint" "[ .6 .6 .6]"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d4cc80a1293069dc34d3869793ca7abd5118ecddd18f4fdf6f5fc05851b8d87
+size 291

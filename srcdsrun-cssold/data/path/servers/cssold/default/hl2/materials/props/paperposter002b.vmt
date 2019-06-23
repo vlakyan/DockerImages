@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Props/paperposter002b"
-	"$surfaceprop" "paper"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:66aa65a5f3cb27e5cdd7c503c6648fe18c00707356e3ec225b1e0ebc8062bf8e
+size 134

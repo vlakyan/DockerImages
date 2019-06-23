@@ -1,5 +1,3 @@
-"unlitgeneric"
-{
-	"$basetexture" "_rt_WaterRefraction"
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:94190f885b9e0db9ffb5e936c8400bd7b70951d59e7f729a6ab1454ad08029fa
+size 80

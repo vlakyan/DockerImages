@@ -1,13 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Plaster/plasterwall044d"
-	"$surfaceprop" "plaster"
-	"$bumpmap" "plaster/plasterwall044d_normal"
-	"%keywords" "c17downtown"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapcontrast" 1
-	"$envmapsaturation" .2
-	"$envmaptint" "[ .5 .5 .5 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea828efd26a82b7e74d06f956c88ca48b79f0f0c837ba87ab59ea9333f50ab76
+size 327

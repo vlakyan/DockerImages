@@ -1,18 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Stone/stonefloor006h"
-	"$surfaceprop" "concrete"
-	"%keywords" "c17downtown,wasteland"
-	"$envmaptint" "[ .5 .5 .5 ]"
-
-	"LightmappedGeneric_DX9"
- 	{
-		"$bumpmap" "stone/stonefloor006h_normal"
-		"$envmap" "env_cubemap"
-		"$envmapsaturation" 1
-		"$envmapcontrast" 1
-		"$envmaptint" "[ .6 .6 .6 ]"
-		"$normalmapalphaenvmapmask" 1
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dae8458c67aca4d659092e995ba298cdc904e3d2b4527fd4819c9eb87a84657
+size 406

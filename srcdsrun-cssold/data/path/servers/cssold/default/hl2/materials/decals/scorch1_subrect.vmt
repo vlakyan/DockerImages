@@ -1,7 +1,3 @@
-"Subrect"
-{
-	"$Material"	"decals/decals_lit"
-	"$Pos"		"128 0"
-	"$Size"		"128 128"
-	"$modelmaterial" "decals/scorch1model"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5db02d187cf2eb99ce71cd2d40face505a19931aa4a397273010a332a520ec81
+size 129

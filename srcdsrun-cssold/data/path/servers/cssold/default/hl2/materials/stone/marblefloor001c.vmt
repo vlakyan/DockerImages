@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Stone/marblefloor001c"
-	"$surfaceprop" "concrete"
-	"%keywords" "c17downtown,c17skyscraper"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc905ba02c672a607f977af058139ce28abd6b861953e934891500160617430f
+size 179

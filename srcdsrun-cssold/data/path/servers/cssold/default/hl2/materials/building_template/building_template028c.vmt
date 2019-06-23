@@ -1,5 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Building_Template/Building_Template028c"
-	"$surfaceprop" "concrete"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2517c9a492ecba66e7c64252fcb155c82b9275099da5a898cd4492f9bcc324c
+size 115

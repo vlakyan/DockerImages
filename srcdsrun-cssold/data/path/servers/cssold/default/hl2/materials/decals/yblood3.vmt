@@ -1,7 +1,3 @@
-"DecalModulate"
-{
-	"$translucent" 1
-	"$basetexture" "Decals/Yblood3"
-	"$decal" 1
-	"$decalscale" .25
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:643099e1ebfc8830a776696d4533a524b081b25a43daa284713e72a472f21b85
+size 109

@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/laser_citadel1"
-	"$additive" 1
-	"$translucent" 1
-	"$vertexcolor" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:02d812b5c4230c5775c8eee27529991cf07cd11077a30db48f0f749a00092d8e
+size 118

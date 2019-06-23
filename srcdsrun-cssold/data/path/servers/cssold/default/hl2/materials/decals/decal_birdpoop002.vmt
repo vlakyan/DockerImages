@@ -1,9 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Decals/decal_birdpoop002"
-	"$decal" 1
-	"$decalscale" 0.25
-	"%keywords" "c17downtown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d7f8b2d1fba8afc55931e278d22a32321f24095c12cf0f1b380e8a76043fe13
+size 206

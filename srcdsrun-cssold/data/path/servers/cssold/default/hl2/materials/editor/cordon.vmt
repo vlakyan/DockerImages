@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$translucent" 1
-	"$basetexture" "Editor/cordon"
-	"%compiletrigger" 1
-	"%keywords" "airexchange,borealis,c17downtown,c17industrial,c17sewers,c17skyscraper,c17trainstation,combine,kraken,wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b5fdcace0c1ced0f96982f6e372ee45dcc199ff973d212354e0cfb59049d98d
+size 230

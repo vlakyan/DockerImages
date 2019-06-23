@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Decals/bproof1"
-	"$decal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:33651e564961b2f14dcc016297ac2b5c637ae7f4b916ffd93b7fafc118244d71
+size 147

@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesVertexColor
-	"$color" "[0 0 0]"
-	"$model" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5b008245953acddfbf3046a4dfaf967a569102c0a7bd2d8dd04d12817401a95
+size 101

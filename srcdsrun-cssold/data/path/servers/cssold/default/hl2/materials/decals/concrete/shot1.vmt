@@ -1,6 +1,3 @@
-"DecalModulate"
-{
-	"$basetexture" "Decals/concrete/SHOT1"
-	"$decalscale" 0.10
-	"$decal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a81cc86082d9ca1baaed4111474b9d352b14ecc8374830cc30f7d5a6f0332450
+size 98

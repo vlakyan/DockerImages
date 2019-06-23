@@ -1,10 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: AddTexture
-	"$basetexture" "effects/spark"
-	"$brightness" "effects/spark_brightness"
-	"$additive" 1
-	"$vertexcolor" 1
-	"$translucent" 1
-	"ignoreZ" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9adcc0cc53eb43f5136f4a78577b2575f7c438b62907727e59cafdf6f9dabba4
+size 199

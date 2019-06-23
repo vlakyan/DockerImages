@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Props/plasticceiling002a"
-	"$surfaceprop" "plastic"
-	"%keywords" "borealis"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1f157ce989ad10be67f99b6960fd4f35ffa587130dcfc70745ddd5b0c2871ee
+size 164

@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/fleck_wood2"
-	"$vertexcolor" 1
-	"$translucent" 1
-//	"$alphatest" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:251489e60b3a53252127b194c4d40c8efd80cf56e524ae47c22303fa47d45cba
+size 118

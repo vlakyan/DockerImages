@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTextureAlphaBlend
-	"$translucent" 1
-	"$basetexture" "voice/icntlk_pl"
-	"$vertexcolor" 1
-	"$ignorez" 0
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:87724598223c4b4d163dff7c2c6fc5e08a6e2d8886bfc74d2a1820f3fb10f02a
+size 154

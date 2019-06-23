@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "Props/doorbutton002a"
-	"$selfillum" 1
-	"$surfaceprop" "metalpanel"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:736e5747c2516dc1810435d15aab969c0cd5f8b10f0fa6ae11a4044258b19356
+size 164

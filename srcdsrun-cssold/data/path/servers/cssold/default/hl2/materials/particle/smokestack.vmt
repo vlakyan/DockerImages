@@ -1,17 +1,3 @@
-"ParticleSphere"
-{
-	// The bumpmap is used in DX8+.
-	"$bumpmap" "particle/BillowNormalMap"
-
-	// In DX7-, it acts just like UnlitGeneric.
-	"$basetexture" "particle/SmokeStackFallback"
-	"$translucent" 1
-	"$vertexcolor" 1
-
-	"Proxies"
-	{
-		"ParticleSphereProxy"
-		{
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9948d305168a5786bca15606a71b0b0a4337e49ce3c02ba5d035a8173c668541
+size 288

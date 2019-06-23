@@ -1,6 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTexture
-	"$2basetexture" "voice/speaker4"
-	"$basetexture" "debug/debug_white"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1efdc06ac7edfe679104f196c0dcec829e8129942c18cf510d7b2a04898629b2
+size 128

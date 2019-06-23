@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmap
-	"$basetexture" "Plaster/plasterwall009a"
-	"$surfaceprop" "plaster"
-	"%keywords" "c17downtown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:72aa1d59d4bfb93b12afc4f3e4914ddd260cee5e6fae073b577aa6ae0bde2549
+size 166

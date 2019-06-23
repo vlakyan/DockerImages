@@ -1,8 +1,3 @@
-"Subrect"
-{
-	"$Material"	"decals/decals_lit"
-	"$Pos"		"448 0"
-	"$Size"		"64 64"
-	"$decalscale" 	0.25
-	"$modelmaterial" "decals/decal_birdpoop002"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:15f575257bca74a4814b80c5a55f5bcf21d7df5ee6f2fe84e2cbc2748fdacc7b
+size 154

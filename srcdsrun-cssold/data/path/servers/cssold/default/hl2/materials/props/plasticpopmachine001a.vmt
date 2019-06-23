@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "Props/plasticpopmachine001a"
-	"$selfillum" 1
-	"$surfaceprop" "plastic"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:869484e7b5f619ff958c6fcfde554cc4e9044c79e23d2c3796b9e878d529651e
+size 168

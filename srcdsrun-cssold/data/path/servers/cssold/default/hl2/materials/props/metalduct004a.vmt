@@ -1,5 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Props/metalduct004a"
-	"$surfaceprop" "metalvent"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d833d82a7f779b738063358832fa488aa3dcec00e4f82fbaa47c517c7745462
+size 96

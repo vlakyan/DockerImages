@@ -1,9 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "props/sign_novaprospekt"
-	"$surfaceprop" "metal"
-	"%keywords" "c17"
-	"$alphatest" 1
-	"$nomip" 1
-	"%compilepassbullets" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d368e39ffb385add481af5e2acd747ed4bf4a8415b6aab0c0769fd9726b849e1
+size 172

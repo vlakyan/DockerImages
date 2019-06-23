@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/fire_embers2"
-	"$additive" "1"
-	"$vertexcolor" "1"
-	"$vertexalpha" "1"
-	"$translucent" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:68175d7b345758904f2e800c7b6bdf44c13b859028d6d238a2e5cda22c4c05f4
+size 143

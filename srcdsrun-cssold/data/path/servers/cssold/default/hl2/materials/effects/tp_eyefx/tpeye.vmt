@@ -1,20 +1,3 @@
-"UnlitGeneric"
-//"Modulate"
-{
-//	"$translucent" "1"
-//	"$color" ".2"
-	"$additive" "1"
-//	"$mod2x" "1"
-//	"$znearer" 1
-	"$basetexture" "effects/tp_eyefx/tpeyefx_"
-//	"$basetexture" "effects/tp_eyefx/tp_eyefx-I"
-	"Proxies"
-	{
-		"AnimatedTexture"
-		{
-			"animatedtexturevar" "$basetexture"
-			"animatedtextureframenumvar" "$frame"
-			"animatedtextureframerate" 30
-		}
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:40cb25c351d2fe9eabc8c476890d93f8e70eb9da635b151e839b0052a279de6d
+size 390

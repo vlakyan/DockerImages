@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "Lights/fluorescentcool001b"
-	"$selfillum" 1
-	"$surfaceprop" "glass"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfddf90058b3b739c9135ed892f999fea64528b202c4a7278bc6a9bac2727ffc
+size 165

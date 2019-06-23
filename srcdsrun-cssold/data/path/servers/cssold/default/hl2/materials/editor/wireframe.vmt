@@ -1,8 +1,3 @@
-"Wireframe"
-{
-	// Original shader: WireframeVertexColor
-	"$vertexcolor" 1
-// removed decal, topmost drawing not guaranteed, editor has occlusion artifacts.
-//	"$decal" 1
-	"$polyOffset" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eda5bbbf9cafdce5c700ad5079cf6b094da71e0884d266abb02d08cecbc92ef
+size 197

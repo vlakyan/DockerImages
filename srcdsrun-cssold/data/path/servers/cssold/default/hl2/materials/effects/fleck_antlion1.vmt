@@ -1,9 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/fleck_antlion1"
-	"$vertexcolor" 1
-//	"$alphatest" 1
-	"$translucent" 1
-	"$vertexalpha" 1
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:50af2575d8c45c9869a03aa1f29824a64480db6f6fe52c6e319bf8e2f2cf392e
+size 154

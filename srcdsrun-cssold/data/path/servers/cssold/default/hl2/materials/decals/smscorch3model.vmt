@@ -1,6 +1,3 @@
-"VertexLitGeneric"
-{
-	"$translucent" 1
-	"$basetexture" "Decals/smscorch3"
-	"$decal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:48f1f91355ca831ac13892c24f3728100b3387296485d8360f72d75d2eb91dd6
+size 94

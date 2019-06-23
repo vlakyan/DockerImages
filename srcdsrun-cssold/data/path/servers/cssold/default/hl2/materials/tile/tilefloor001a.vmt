@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Tile/tilefloor001a"
-	"$surfaceprop" "tile"
-	"%keywords" "c17skyscraper"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:69c472c16ce7c8260213cc8b78e64f4830512a4d5adc250d05024ed4e01ca7a8
+size 120

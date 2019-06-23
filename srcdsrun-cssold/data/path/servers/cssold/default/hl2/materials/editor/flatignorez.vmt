@@ -1,12 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: vertexcolor
-	// "$basetexture" "editor/flat"
-	"%tooltexture" "editor/flat"
-	"$vertexcolor" 1
-	"$vertexalpha" 1
-	"$ignorez" 1
-	"$no_fullbright" "1"
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea2792d5f1d5f690eb81710f61d0bdb34e8c896278d114456eeff4a278fa5f15
+size 201

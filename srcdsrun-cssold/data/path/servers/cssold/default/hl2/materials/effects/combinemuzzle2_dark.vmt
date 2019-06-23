@@ -1,8 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/combinemuzzle2_dark"
-	"$additive" "1"
-	"$vertexalpha" "1"
-	"$vertexcolor" 1
-	"$translucent" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6383e05b2e8fb10f231979d8e1c2c2ed71587973958312ebb2b32556239ac4ff
+size 148

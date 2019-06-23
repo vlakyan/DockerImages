@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: AdditiveSingleColor
-	"$color" "[ 0.50 0.50 0.50 ]"
-	"$additive" 1
-	"%noToolTexture" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a6031a2474781fc591b87c9ab8a0e2789c72483b52255a558709b6a1204f22a
+size 133

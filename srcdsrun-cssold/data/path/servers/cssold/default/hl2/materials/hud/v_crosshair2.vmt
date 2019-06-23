@@ -1,5 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "hud/v_crosshair2"
-	"$ignorez" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ab4956a95ede5daa1dd53839b8ed5f7b8b31130991c43e75ad6dfce602a410d
+size 73

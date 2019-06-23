@@ -1,10 +1,3 @@
-"LightmappedGeneric"
-{
-	"$decal" 1
-	"$basetexture" "Decals/decal_paintsplatterpink001"
-	"$decalscale" 0.25
-	"$translucent" 1
-	"$modelmaterial" "Decals/decal_paintsplatterpink_model"
-}
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eb02376f320a6dac482da3964a26d8eb7918849454aff39d754fdacfad4ee40
+size 196

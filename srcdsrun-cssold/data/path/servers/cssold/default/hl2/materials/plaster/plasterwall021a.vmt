@@ -1,5 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Plaster/plasterwall021a"
-	"$surfaceprop" "plaster"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2f50f2cb40d99ac18d0554ed5b049c912e7dd27d9c768b4fb4ca79aa3eab0f6
+size 98

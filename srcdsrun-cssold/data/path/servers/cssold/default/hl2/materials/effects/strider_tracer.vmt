@@ -1,7 +1,3 @@
-"Sprite"
-{
-	"$spriteorientation" "vp_parallel"
-	"$spriteorigin" "[ 0.50 0.50 ]"
-	"$basetexture" "effects/strider_tracer"
-	"$spriterendermode" 8
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:00dff38d5fcedbee7aa518f915771c8ccd6a8c9e601c8b0b4bafafd808171aa6
+size 153

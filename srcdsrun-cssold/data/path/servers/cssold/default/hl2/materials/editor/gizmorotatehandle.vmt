@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	// Original shader: BaseTimesVertexColor
-	"$basetexture" "editor/GizmoRotateHandle"
-	"$vertexcolor" 1
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:09aefffe0a2469a355c00b99bc5d559576e5f98f11f08b8afda90dd34de5414d
+size 142

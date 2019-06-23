@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	"$translucent" 1
-	"$basetexture" "Decals/bloodyflesh/Blood2"
-	"$decal" 1
-	"$decalscale" 0.1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2aa17fe527702a9a5f31ad18d9b7464791cf1bbc19c143e4ba2baff0f55f935
+size 123

@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "overlays/tideline01b"
-	"$translucent" 1
-	"$decal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4dcde4358b1569fe35d632727f3d0ac82194d73c46f9bbd229624b774a4edd7
+size 100

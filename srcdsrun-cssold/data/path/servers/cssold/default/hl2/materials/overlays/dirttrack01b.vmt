@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "overlays/dirttrack01b"
-	"$translucent" 1
-	"$decal" 1
-	"$surfaceprop" "metal"
-	"%keywords" "coastline wasteland"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:660f05c192f6b835f5632edf080de76430952c66acbcb3c31aebda0c156d4bf5
+size 162

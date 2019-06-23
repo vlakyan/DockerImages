@@ -1,8 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: DecalBaseTimesLightmapAlphaBlend
-	"$translucent" 1
-	"$basetexture" "Decals/Rubble01a"
-	"$decal" 1
-	"$decalscale" .5
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f5b06be9d18a3e799f5830091a3f57a2659e637f9d24964cd59c4db9a258a0b
+size 170

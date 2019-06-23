@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "props/sign_trainstation01"
-	"$surfaceprop" "metal"
-	"%keywords" "c17"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:db5209e490993e0f3ea37189ecd30d4b7fc723695ef2f2875acdcc61d5a4d404
+size 118

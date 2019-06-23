@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "props/tvscreen001a"
-	"$selfillum" 1
-	"$surfaceprop" "glass"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5484502b2cd75df96c6fa52db78a2f692d57dc172bfc00199eb713d4c9862cb6
+size 157

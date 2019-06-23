@@ -1,6 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Brick/brickwall034e"
-	"$surfaceprop" "brick"
-	"%keywords" "c17downtown"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8e519fc719d78f086bd50ec8b9fc40211cc661a7518c2374806e1a5cb9c2b3e
+size 120

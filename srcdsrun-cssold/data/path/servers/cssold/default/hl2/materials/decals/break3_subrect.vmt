@@ -1,7 +1,3 @@
-"Subrect"
-{
-	"$Material"	"decals/decals_lit"
-	"$Pos"		"256 64"
-	"$Size"		"64 64"
-	"$modelmaterial" "decals/break3model"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:73d2ea931b49db0a9024a25afed5f482419ae5c9b35072973da05ced29d76eb6
+size 127

@@ -1,12 +1,3 @@
-// envmaptint_fix
-"LightmappedGeneric"
-{
-	"$basetexture" "Tile/tilefloor001b"
-	"$surfaceprop" "tile"
-	"%keywords" "c17skyscraper"
-	"$bumpmap" "tile/tilefloor001b_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-	"$envmaptint" "[ .80 .80 .80 ]"
-	"$fresnelreflection" 0.25
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e2be319f27f9ea67652786ad0c966a4b3d8119bfa2180e7c651b158283dabd7
+size 300

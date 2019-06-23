@@ -1,7 +1,3 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "Stone/stonewall006a"
-	"$surfaceprop" "concrete"
-	"%keywords" "c17downtown"
-	"$bumpmap" "stone/stonewall006a_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fad3a578b9a3ce59eb30d6627f208147a53b3e8ff33aa1ca28844dce5bed2e6
+size 165

@@ -1,7 +1,3 @@
-"lightmappedgeneric"
-{
-	"$translucent" 1
-	"$basetexture" "Decals/rollermine_crater"
-	"$decalscale" 0.45
-	"$decal" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:161edbb15a754a317dcaddc83d2cb21683f853870d5120728aa3e7363178f6c9
+size 125

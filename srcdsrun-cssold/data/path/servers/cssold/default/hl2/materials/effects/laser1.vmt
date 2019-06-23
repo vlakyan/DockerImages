@@ -1,7 +1,3 @@
-"UnlitGeneric"
-{
-	"$basetexture" "effects/laser1"
-	"$additive" 1
-	"$translucent" 1
-	"$vertexcolor" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:87a846548140e5e8ac70fe672fdffa8eed95e061287943408a384ad25f138df5
+size 110
