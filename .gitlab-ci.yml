@@ -55,3 +55,6 @@ hldsrun-base:
 
 steamcmd-linux:
     <<: *build_by_name
+
+php7.4-cli:
+    <<: *build_by_name
